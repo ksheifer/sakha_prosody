@@ -1,0 +1,3212 @@
+# sent_id = fisher_001
+# sah = Ок-сиэ, ким манна бу курдук хара мастаах ийэ тыа үүнэн тахсан, күнү-ыйы хаххалаатын диэн анаабыта буолуой?
+# rus = Ну и ну, кто б это предопределил, чтобы вот здесь, на этом самом месте, вымахал, заслоняя солнце и луну, такой дремучий, такой могутный лес?
+# anno = yes-yes
+1	Ок-сиэ	ок-сиэ	INTJ	_	_	18	discourse	_	SpaceAfter=No|Rus=ох
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ким	ким	PRON	_	Case=Nom|PronType=Int	18	nsubj	_	Rus=кто
+4	манна	бу	ADV	_	_	12	advmod	_	Rus=здесь
+5	бу	бу	PRON	_	PronType=Dem	9	obl	_	Rus=этот
+6	курдук	курдук	ADP	_	_	5	case	_	Rus=как
+7	хара	хара	ADJ	_	_	9	amod	_	Rus=чёрный
+8	мастаах	мастаах	ADJ	_	_	9	amod	_	Rus=лесистый
+9	ийэ	ийэ	NOUN	_	Case=Nom	10	nmod	_	Rus=мать
+10	тыа	тыа	NOUN	_	Case=Nom	12	nsubj	_	Rus=лес
+11	үүнэн	үүн	VERB	v|iv	VerbForm=Conv|ConvType=Cons	12	advmod	_	Rus=расти
+12	тахсан	таҕыс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	16	advcl	_	SpaceAfter=No|Rus=вымахав
+13	,	,	PUNCT	_	_	12	punct	_	_
+14-15	күнү-ыйы	күн-ый	NOUN	_	Case=Acc	_	_	_	Rus=солнце-луна
+14	күнү	күн	NOUN	_	Case=Acc	16	obj	_	Rus=солнце
+15	ыйы	ый	NOUN	_	Case=Acc	14	conj	_	Rus=луна
+16	хаххалаатын	хаххалаа	VERB	v|tv	Mood=Imp|Number=Sing|Person=3	18	ccomp	_	Rus=заслонять
+17	диэн	диэн	SCONJ	_	_	16	mark	_	Rus=чтобы
+18	анаабыта	анаа	VERB	v|tv	Case=Nom|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	0	root	_	Rus=предопределил
+19	буолуой	буол	AUX	_	Mood=Ind|Number=Sing|Person=3|Ques=Yes|Tense=Fut	18	aux	_	SpaceAfter=No|Rus=быть
+20	?	?	PUNCT	_	_	18	punct	_	_
+
+# sent_id = fisher_002
+# sah = Дьэ, доҕоттор, тыа да тыа!
+# rus = Это — да, лесище так лесище, первозданный!
+# anno = yes-yes
+1	Дьэ	дьэ	PART	_	_	5	discourse	_	SpaceAfter=No|Rus=ну
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	доҕоттор	доҕор	NOUN	_	Case=Nom|Number=Plur	5	vocative	_	SpaceAfter=No|Rus=друзья
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	тыа	тыа	NOUN	_	Case=Nom	7	nsubj	_	Rus=лес
+6	да	да	PART	_	_	7	advmod	_	Rus=же
+7	тыа	тыа	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No|Rus=лес
+8	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = fisher_003
+# sah = Тиит маһым тэҥкэтэ, тоҥ сиртэн өрө үүнэн тахсан, уһуктаах чыпчаалынан үрдүк күөх халлаан ньуурун аала турбатах абаккабыт баар эбит диэх курдук, куугунаһа-курулаһа, иҥиэттэ-иэдэйэ турдахтара үhү.
+# rus = Из вечной мерзлоты выстрелились к небу великаны лиственницы. И чудится, они глухо ропщут, негодуют, вздыхая со стоном: О, какая досада, что им, могучим колоссам, не суждено прорасти копьевидными макушками сквозь голубую небесную твердь!
+# anno = yes
+1	Тиит	тиит	NOUN	_	Case=Nom	2	nmod	_	Rus=лиственница
+2	маһым	мас	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	3	nmod	_	Rus=дерево
+3	тэҥкэтэ	тэҥкэ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	30	nsubj	_	SpaceAfter=No|Rus=великан
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	тоҥ	тоҥ	ADJ	_	_	6	amod	_	Rus=мёрзлый
+6	сиртэн	сир	NOUN	_	Case=Abl	9	obl	_	Rus=земля
+7	өрө	өрө	ADV	_	_	9	advmod	_	Rus=вверх
+8	үүнэн	үүн	VERB	v|iv	VerbForm=Conv|ConvType=Cons	9	advcl	_	Rus=расти
+9	тахсан	таҕыс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	30	advcl	_	SpaceAfter=No|Rus=выйдя
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	уһуктаах	уһуктаах	ADJ	_	_	12	amod	_	Rus=остроконечный
+12	чыпчаалынан	чыпчаал	NOUN	_	Case=Ins|Number[psor]=Sing|Person[psor]=3	17	obl	_	Rus=верхушкой
+13	үрдүк	үрдүк	ADJ	_	_	15	amod	_	Rus=высокий
+14	күөх	күөх	ADJ	_	_	15	amod	_	Rus=голубой
+15	халлаан	халлаан	NOUN	_	Case=Nom	16	nmod	_	Rus=небо
+16	ньуурун	ньуур	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	17	obj	_	Rus=лицо
+17	аала	аал	VERB	v|tv	VerbForm=Conv|ConvType=Sim	18	advcl	_	Rus=касаясь
+18	турбатах	тур	VERB	v|iv	Evident=Nfh|Polarity=Neg|Tense=Past|PastType=Perfect|VerbForm=Part	19	acl	_	Rus=не_стоять
+19	абаккабыт	абакка	NOUN	_	Case=Nom|Number[psor]=Plur|Person[psor]=1	20	nsubj	_	Rus=досада
+20	баар	баар	AUX	_	_	22	ccomp	_	Rus=есть
+21	эбит	эбит	PART	_	_	20	discourse	_	Rus=оказывается
+22	диэх	диэ	VERB	v|tv	Tense=Fut|VerbForm=Part	30	advcl	_	Rus=сказать
+23	курдук	курдук	SCONJ	_	_	22	mark	_	SpaceAfter=No|Rus=словно
+24	,	,	PUNCT	_	_	22	punct	_	_
+25-26	куугунаһа-курулаһа	куугунаһа-курулаһа	VERB	_	_	_	_	_	SpaceAfter=No
+25	куугунаһа	куугунас	VERB	v|iv	VerbForm=Conv|ConvType=Sim	30	advcl	_	Rus=гудя
+26	курулаһа	курулас	VERB	v|iv	VerbForm=Conv|ConvType=Sim	25	advcl	_	SpaceAfter=No|Rus=грохоча
+27	,	,	PUNCT	_	_	25	punct	_	_
+28-29	иҥиэттэ-иэдэйэ	иҥиэттэ-иэдэй	VERB	_	VerbForm=Conv	_	_	_	Rus=страдая
+28	иҥиэттэ	иҥиэттэ	VERB	v|iv	VerbForm=Conv|ConvType=Sim	25	conj	_	Rus=страдая
+29	иэдэйэ	иэдэй	VERB	v|iv	VerbForm=Conv|ConvType=Sim	28	advcl	_	Rus=мучаясь
+30	турдахтара	тур	VERB	v|iv	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Rus=стояли
+31	үhү	үһү	PART	_	_	30	discourse	_	SpaceAfter=No|Rus=говорят
+32	.	.	PUNCT	_	_	30	punct	_	_
+
+# sent_id = fisher_004
+# sah = Тыас иһиллээбит курдук чуумпу.
+# rus = А внизу, впрочем, чуткая, настороженная тишина.
+# anno = yes-yes
+1	Тыас	тыас	NOUN	_	Case=Nom	2	nsubj	_	Rus=звук
+2	иһиллээбит	иһиллээ	VERB	v|iv	Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	4	advcl	_	Rus=послышался
+3	курдук	курдук	SCONJ	_	_	2	mark	_	Rus=как_будто
+4	чуумпу	чуумпу	ADJ	_	_	0	root	_	SpaceAfter=No|Rus=тихо
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fisher_005
+# sah = Хаһан эмэ мас быыһынан куттас куобах сүүрэн элэс гынан aahap; биирдэ эмэтэ хара улар, тиит төбөтүгэр хатанан, үөһээҥҥи үрдүк килбиэннээх халлаан диэки, тугу эрэ тойоннообут курдук, чолойон олороро көстөр.
+# rus = Только изредка заяц пугливый промелькнет меж деревьями. Да черный глухарь уцепится за мутовку лиственницы, и, задрав голову к недосягаемому лучистому небу, замрет, словно что-то глубокомысленно прикидывая в уме, — гордый такой, величавый!
+# anno = yes-yes
+1	Хаһан	хас	ADV	_	_	9	advmod	_	Rus=когда
+2	эмэ	эмэ	PART	_	_	1	fixed	_	Rus=то
+3	мас	мас	NOUN	_	Case=Nom	7	obl	_	Rus=дерево
+4	быыһынан	быыһынан	ADP	_	_	3	case	_	Rus=между
+5	куттас	куттас	ADJ	_	_	6	amod	_	Rus=пугливый
+6	куобах	куобах	NOUN	_	Case=Nom	9	nsubj	_	Rus=заяц
+7	сүүрэн	сүүр	VERB	v|iv	VerbForm=Conv|ConvType=Cons	9	advmod	_	Rus=бежа
+8	элэс	элэс	ADV	_	_	9	advmod	_	Rus=мельком
+9	гынан	гын	VERB	v|iv	VerbForm=Conv|ConvType=Cons	33	advcl	_	Rus=мелькнув
+10	;	;	PUNCT	_	_	9	punct	_	_
+11	биирдэ	биирдэ	ADV	_	_	32	advmod	_	Rus=один_раз
+12	эмэтэ	эмэ	PART	_	_	11	fixed	_	Rus=то
+13	хара	хара	ADJ	_	_	14	amod	_	Rus=чёрный
+14	улар	улар	NOUN	_	Case=Nom	32	nsubj	_	SpaceAfter=No|Rus=глухарь
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	тиит	тиит	NOUN	_	Case=Nom	17	nmod	_	Rus=лиственница
+17	төбөтүгэр	төбө	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	18	obl	_	Rus=на_верхушке
+18	хатанан	хатан	VERB	v|iv	VerbForm=Conv|ConvType=Cons	32	advcl	_	SpaceAfter=No|Rus=уцепившись
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	үөһээҥҥи	үөһээҥҥи	ADJ	_	_	23	amod	_	Rus=верхний
+21	үрдүк	үрдүк	ADJ	_	_	23	amod	_	Rus=высокий
+22	килбиэннээх	килбиэннээх	ADJ	_	_	23	amod	_	Rus=сияющий
+23	халлаан	халлаан	NOUN	_	Case=Nom	31	obl	_	Rus=небо
+24	диэки	диэки	ADP	_	_	23	case	_	SpaceAfter=No|Rus=к
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	тугу	туох	PRON	_	Case=Acc|PronType=Ind	28	obj	_	Rus=что-то
+27	эрэ	эрэ	PART	_	_	26	fixed	_	Rus=то
+28	тойоннообут	тойонноо	VERB	v|tv	Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	32	advcl	_	Rus=размышляя
+29	курдук	курдук	SCONJ	_	_	28	mark	_	SpaceAfter=No|Rus=словно
+30	,	,	PUNCT	_	_	29	punct	_	_
+31	чолойон	чолой	VERB	v|iv	VerbForm=Conv|ConvType=Cons	32	advmod	_	Rus=задрав_голову
+32	олороро	олор	VERB	v|iv	Case=Nom|Number[psor]=Sing|Person[psor]=3|Tense=Pres|VerbForm=Part	33	csubj	_	Rus=сидеть
+33	көстөр	көһүн	VERB	v|iv	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No|Rus=виднеться
+34	.	.	PUNCT	_	_	33	punct	_	_
+
+# sent_id = fisher_006
+# sah = Бу хара тыа оттотугар төгүрүк тыымпы күөл кубарыйан, долгулдьуйан көстөр.
+# rus = Посреди этого лесища, поблескивал, тихо зыбится круглое озеро.
+# anno = yes-yes
+1	Бу	Бу	DET	_	PronType=Dem	3	det	_	Rus=этот
+2	хара	хара	ADJ	_	_	3	amod	_	Rus=чёрный
+3	тыа	тыа	NOUN	_	Case=Nom	4	nmod	_	Rus=лес
+4	оттотугар	орто	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	8	obl	_	Rus=посередине
+5	төгүрүк	төгүрүк	ADJ	_	_	6	amod	_	Rus=круглый
+6	тыымпы	тыымпы	NOUN	_	Case=Nom	7	nmod	_	Rus=тихий
+7	күөл	күөл	NOUN	_	Case=Nom	8	nsubj	_	Rus=озеро
+8	кубарыйан	кубарый	VERB	v|iv	VerbForm=Conv|ConvType=Cons	11	advcl	_	SpaceAfter=No|Rus=сереть
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	долгулдьуйан	долгулдьуй	VERB	v|iv	VerbForm=Conv|ConvType=Cons	11	advmod	_	Rus=зыбиться
+11	көстөр	көс	NOUN	_	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No|Rus=виднеться
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = fisher_007
+# sah = Хара тыаҕа тэһийимнэ, тыымпы күөл кытыытыгар көтөн түстэххэ, ханан даҕаны хонуу диэн хадьааһын көстүбэт, арай күөл кытыытыгар муҥур куруҥ буолбут тииттэр, синньигэс бииллэригэр диэри ууга түһэн мултуһан тураахтыыллар.
+# rus = Выйдешь к нему из наскучившей темной чащи — и здесь не увидишь ни просвета, ни клочка лужайки: лес подступает к берегу сплошной стеной. Из воды уныло торчат мертвые, белесые деревья с обломанными верхушками.
+# anno = yes
+1	Хара	Хара	ADJ	_	_	2	amod	_	Rus=чёрный
+2	тыаҕа	тыа	NOUN	_	Case=Dat	3	obl	_	Rus=лес
+3	тэһийимнэ	тэһий	VERB	v|iv	Mood=Ind|Number=Sing|Person=3|Tense=Past|PastType=Recent|VerbForm=Fin	32	conj	_	SpaceAfter=No|Rus=наскучить
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	тыымпы	тыымпы	NOUN	_	Case=Nom	6	nmod	_	Rus=тихий
+6	күөл	күөл	NOUN	_	Case=Nom	7	nmod	_	Rus=озеро
+7	кытыытыгар	кытыы	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	8	obl	_	Rus=берег
+8	көтөн	көт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	9	advcl	_	Rus=лететь
+9	түстэххэ	түс	VERB	v|iv	Case=Dat|Tense=Fut|VerbForm=Part	32	conj	_	SpaceAfter=No|Rus=падать
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	ханан	хан	PRON	_	PronType=Int	13	nmod	_	Rus=каким_путем
+12	даҕаны	даҕаны	CCONJ	_	_	13	cc	_	Rus=даже
+13	хонуу	хонуу	NOUN	_	Case=Nom	15	nmod	_	Rus=поляна
+14	диэн	диэн	ADP	_	_	13	case	_	Rus=что
+15	хадьааһын	хадьааһын	NOUN	_	Case=Nom	23	nsubj	_	Rus=просвет
+16	көстүбэт	көстүбэт	ADJ	_	_	19	amod	_	SpaceAfter=No|Rus=не_видно
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	арай	арай	ADV	_	_	23	advmod	_	Rus=только
+19	күөл	күөл	NOUN	_	Case=Nom	20	nmod	_	Rus=озеро
+20	кытыытыгар	кытыы	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	23	obl	_	Rus=берег
+21	муҥур	муҥур	ADJ	_	_	24	amod	_	Rus=обрубленный
+22	куруҥ	куруҥ	ADJ	_	_	24	amod	_	Rus=сухой
+23	буолбут	буол	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	24	acl	_	Rus=быть
+24	тииттэр	тиит	NOUN	_	Case=Nom|Number=Plur	30	nsubj	_	SpaceAfter=No|Rus=лиственница
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	синньигэс	синньигэс	ADJ	_	_	27	amod	_	Rus=тонкий
+27	бииллэригэр	биил	NOUN	_	Case=Dat|Number[psor]=Plur|Person[psor]=3	30	obl	_	Rus=ствол
+28	диэри	диэри	ADP	_	_	27	case	_	Rus=до
+29	ууга	уу	NOUN	_	Case=Dat	30	obl	_	Rus=вода
+30	түһэн	түс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	31	advcl	_	Rus=падать
+31	мултуһан	мултуһ	VERB	v|iv	VerbForm=Conv|ConvType=Cons	32	advmod	_	Rus=торчать
+32	тураахтыыллар	тураахтаа	VERB	v|tv	Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No|Rus=торчать
+33	.	.	PUNCT	_	_	32	punct	_	_
+
+# sent_id = fisher_008
+# sah = Кинилэри көрдөхпүнэ, сүрэҕим ыалдьар, кутум-сүрүм тэһииккиир буоллаҕа үhү.
+# rus = Гляжу на них — и накатывает на сердце тоска, душа дичится.
+# anno = yes-yes
+1	Кинилэри	Кини	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Rus=их
+2	көрдөхпүнэ	көр	VERB	v|tv	Mood=Cnd|Number=Sing|Person=1	9	advcl	_	SpaceAfter=No|Rus=видеть
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	сүрэҕим	сүрэх	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	Rus=сердце
+5	ыалдьар	ыарый	VERB	v|iv	Tense=Pres	9	conj	_	SpaceAfter=No|Rus=болеть
+6	,	,	PUNCT	_	_	5	punct	_	_
+7-8	кутум-сүрүм	кут-сүр	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	_	_	_	Rus=сильно_волноваться
+7	кутум	кут	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	8	nmod	_	Rus=душа
+8	сүрүм	сүр	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	9	nsubj	_	Rus=дух
+9	тэһииккиир	тэһииккээ	VERB	v|iv	Tense=Pres|Number=Sing|Person=3	0	root	_	Rus=томиться
+10	буоллаҕа	буоллаҕа	PART	_	_	9	discourse	_	_
+11	үhү	үһү	PART	_	_	9	discourse	_	SpaceAfter=No|Rus=говорят
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_009
+# sah = Күөл күөл курдук.
+# rus = Ну, а в остальном озеро как озеро.
+# anno = yes-yes
+1	Күөл	күөл	NOUN	_	Case=Nom	0	root	_	Rus=озеро
+2	күөл	күөл	NOUN	_	Case=Nom	1	obl	_	Rus=озеро
+3	курдук	курдук	ADP	_	_	2	case	_	SpaceAfter=No|Rus=как
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = fisher_010
+# sah = Собоһут кыылым уйата, дьиикэй омук арбайбыт баттаҕын сытыы быһаҕынан быһа баттаан ылан, мyҥyp тиит оройугар иилэн кэбиспиттэрин курдук, харааран көстөр.
+# rus = Наверху одной культяпой листвянки чернеет гнездо скопы, птицы-рыболова, и оно смахивает на курчавые лохмы дикаря, срезанных острым ножом и закинутых на дерево.
+# anno = yes
+1	Собоһут	Собоһут	NOUN	_	Case=Nom	2	nmod	_	Rus=скопа
+2	кыылым	кыыл	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	3	nmod	_	Rus=дикое_животное
+3	уйата	уйа	NOUN	_	Case=Par	12	obl	_	SpaceAfter=No|Rus=гнездо_птиц
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	дьиикэй	дьиикэй	ADJ	_	_	6	amod	_	Rus=дикий
+6	омук	омук	NOUN	_	Case=Nom	7	nmod	_	Rus=народ
+7	арбайбыт	арбай	NOUN	_	Case=Nom|Number[psor]=Plur|Person[psor]=1	8	nmod	_	Rus=растрёпанный
+8	баттаҕын	баттах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	12	obj	_	Rus=волосы
+9	сытыы	сытыы	ADJ	_	_	10	amod	_	Rus=острый
+10	быһаҕынан	быһах	NOUN	_	Case=Ins|Number[psor]=Sing|Person[psor]=3	12	obl	_	Rus=нож
+11	быһа	быһа	ADV	_	_	12	advmod	_	Rus=прямо
+12	баттаан	баттаа	VERB	v|tv	VerbForm=Conv|ConvType=Cons	13	advmod	_	Rus=нажимать
+13	ылан	ыл	VERB	v|tv	VerbForm=Conv|ConvType=Cons	18	advcl	_	SpaceAfter=No|Rus=брать
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	мyҥyp	муҥур	ADJ	_	_	16	amod	_	Rus=обрубленный
+16	тиит	тиит	NOUN	_	Case=Nom	17	nmod	_	Rus=лиственница
+17	оройугар	орой	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	18	obl	_	Rus=на_верхушке
+18	иилэн	иил	VERB	v|tv	VerbForm=Conv|ConvType=Cons	19	advmod	_	Rus=навешивать
+19	кэбиспиттэрин	кэбис	AUX	_	Case=Acc|Evident=Nfh|Number[psor]=Plur|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	22	obl	_	Rus=завершить
+20	курдук	курдук	ADP	_	_	19	case	_	SpaceAfter=No|Rus=как
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	харааран	хараар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=темнеть
+23	көстөр	көс	NOUN	_	Case=Nom|Number=Plur	22	nsubj	_	SpaceAfter=No|Rus=виднеться
+24	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = fisher_011
+# sah = Чочумча cоҕyc буола-буола собоһут кыылым, арбайбыт уйатыттан көтөн тахсан, хара кынатыгар уйдаран талбаара көтөн, күөлгэ эргийэр, ол кэнниттэн сотору мэлийэн хаалар.
+# rus = Время от времени скопа вылетает из своего pacкосмаченного прибежища. Размеренно, лениво взмахивая черными крыльями, она описывает круг над озером и вскорости исчезает вдали.
+# anno = yes
+1	Чочумча	Чочумча	ADV	_	_	10	advmod	_	Rus=некоторое_время
+2	cоҕyc	соҕус	PART	_	_	26	discourse	_	Rus=cоҕyc
+3-4	буола-буола	буола-буола	NOUN	_	Case=Nom	_	_	_	Rus=время_от_времени
+3	буола	буола	NOUN	_	Case=Nom	4	nmod	_	Rus=бывая
+4	буола	буола	NOUN	_	Case=Nom	5	nmod	_	Rus=бывая
+5	собоһут	собоһут	NOUN	_	Case=Nom	6	nmod	_	Rus=скопа
+6	кыылым	кыыл	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	8	nmod	_	SpaceAfter=No|Rus=дикое_животное
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	арбайбыт	арбай	NOUN	_	Case=Nom|Number[psor]=Plur|Person[psor]=1	9	nmod	_	Rus=растрёпанный
+9	уйатыттан	уйа	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	10	obl	_	Rus=гнездо_птиц
+10	көтөн	көт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	11	advmod	_	Rus=лететь
+11	тахсан	таҕыс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	15	advcl	_	SpaceAfter=No|Rus=выходить
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	хара	хара	ADJ	_	_	14	amod	_	Rus=чёрный
+14	кынатыгар	кынат	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	15	obl	_	Rus=крыло
+15	уйдаран	уйдар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	16	advcl	_	Rus=держаться
+16	талбаара	талбаар	VERB	v|iv	VerbForm=Conv|ConvType=Sim	17	advmod	_	Rus=размахивая
+17	көтөн	көт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	20	advcl	_	SpaceAfter=No|Rus=лететь
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	күөлгэ	күөл	NOUN	_	Case=Dat	20	obl	_	Rus=озеро
+20	эргийэр	эргий	VERB	v|iv	Tense=Pres	26	conj	_	SpaceAfter=No|Rus=кружиться
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	ол	ол	PRON	_	PronType=Dem	26	obl	_	Rus=тот
+23	кэнниттэн	кэнниттэн	ADP	_	_	22	case	_	Rus=после_этого
+24	сотору	сотору	ADV	_	_	25	advmod	_	Rus=скоро
+25	мэлийэн	мэлий	VERB	v|iv	VerbForm=Conv|ConvType=Cons	26	advmod	_	Rus=исчезнуть
+26	хаалар	хаал	VERB	v|iv	Tense=Pres	0	root	_	SpaceAfter=No|Rus=оставаться
+27	.	.	PUNCT	_	_	26	punct	_	_
+
+# sent_id = fisher_012
+# sah = Собоһут кыылым, сорсуйан хаалан, туох эмэ caҥa дорҕоонун курдугу иһитиннэриэ диэн эрэнимэ.
+# rus = По-видимому, совсем состарилась — ни единого звука она не испускает.
+# anno = yes
+1	Собоһут	Собоһут	NOUN	_	Case=Nom	2	nmod	_	Rus=скопа
+2	кыылым	кыыл	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	SpaceAfter=No|Rus=дикое_животное
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	сорсуйан	сорсуй	VERB	v|iv	VerbForm=Conv|ConvType=Cons	5	advmod	_	Rus=состарившись
+5	хаалан	хаал	VERB	v|iv	VerbForm=Conv|ConvType=Cons	12	advcl	_	SpaceAfter=No|Rus=оставаться
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	туох	туох	PRON	_	PronType=Int	9	nmod	_	Rus=что
+8	эмэ	эмэ	PART	_	_	7	fixed	_	Rus=какой-то
+9	caҥa	саҥа	NOUN	_	Case=Nom	10	nmod	_	Rus=голос
+10	дорҕоонун	дорҕоон	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	12	obj	_	Rus=звук
+11	курдугу	курдук	PART	_	Case=Acc	14	advmod	_	Rus=как
+12	иһитиннэриэ	иһитиннэр	VERB	v|tv	Mood=Ind|Tense=Fut|Number=Sing|Person=3	14	ccomp	_	Rus=издавать
+13	диэн	диэн	SCONJ	_	_	12	mark	_	Rus=что
+14	эрэнимэ	эрэн	VERB	v|iv	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	0	root	_	SpaceAfter=No|Rus=надеяться
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = fisher_013
+# sah = Ол эрээри айыы дойдута буолан баран, хайтах туох даҕаны саҥа салайар, киһи хараҕа таптыы көрөр кыыла-көтөрө суох буолуой?
+# rus = Но может ли благодатная природа обойтись без какой-нибудь приятной взору птицы или зверушки, издающей звуки жизни?
+# anno = yes
+1	Ол	ол	PRON	_	PronType=Dem	20	discourse	_	Rus=тот
+2	эрээри	эрээри	ADP	_	_	1	case	_	Rus=хотя
+3	айыы	айыы	ADV	_	_	12	advmod	_	Rus=благодатный
+4	дойдута	дойду	NOUN	_	Case=Par	12	obl	_	Rus=природа
+5	буолан	буолан баран	PART	_	_	20	discourse	_	Rus=будучи
+6	баран	буолан баран	PART	_	_	20	discourse	_	SpaceAfter=No|Rus=однако
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	хайтах	хайтах	ADV	_	_	12	advmod	_	Rus=как
+9	туох	туох	PRON	_	PronType=Int	12	nsubj	_	Rus=что
+10	даҕаны	даҕаны	CCONJ	_	_	11	cc	_	Rus=даже
+11	саҥа	саҥа	ADJ	_	_	14	amod	_	Rus=голос
+12	салайар	салай	VERB	v|tv	Tense=Pres	20	conj	_	SpaceAfter=No|Rus=направлять
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	киһи	киһи	NOUN	_	Case=Nom	15	nmod	_	Rus=человек
+15	хараҕа	хара	NOUN	_	Case=Dat	16	obl	_	Rus=глаз
+16	таптыы	таптаа	VERB	v|tv	VerbForm=Conv|ConvType=Sim	20	advcl	_	Rus=любить
+17	көрөр	көрөр	NOUN	_	Case=Nom	18	nmod	_	Rus=видеть
+18-19	кыыла-көтөрө	кыыл-көтөр	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	_	_	_	Rus=зверь-птица
+18	кыыла	кыыл	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	19	nmod	_	Rus=зверь
+19	көтөрө	көтөр	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	20	nsubj	_	Rus=птица
+20	суох	суох	ADJ	_	_	0	root	_	Rus=нет
+21	буолуой	буол	AUX	v|iv	Mood=Ind|Ques=Yes|Tense=Fut|Number=Sing|Person=3	20	cop	_	SpaceAfter=No|Rus=ли_быть
+22	?	?	PUNCT	_	_	20	punct	_	_
+
+# sent_id = fisher_014
+# sah = Kөpүҥ эрэ!
+# rus = Действительно, смотрите-ка!
+# anno = yes-yes
+1	Kөpүҥ	көр	VERB	v|tv	Mood=Imp|Number=Plur|Person=2	0	root	_	Rus=смотрите
+2	эрэ	эрэ	PART	_	_	1	advmod	_	SpaceAfter=No|Rus=только
+3	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = fisher_015
+# sah = Күөл хаба оттотугар хара тумустаах, кыһыл атахтаах, үрүҥ көмүс түүлээх, хааҕырҕаан саҥарар хопто кыылым устан кылбайа сылдьар.
+# rus = Вон, на середине озера, сливаясь с серебристой зыбью, мелькает снежнобелал, черно-клювая, краснолапая чайка.
+# anno = yes
+1	Күөл	Күөл	NOUN	_	Case=Nom	2	nmod	_	Rus=озеро
+2	хаба	хаба	NOUN	_	Case=Nom	3	nmod	_	Rus=середина
+3	оттотугар	орто	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	14	obl	_	Rus=посередине
+4	хара	хара	ADJ	_	_	10	amod	_	Rus=чёрный
+5	тумустаах	тумустаах	ADJ	_	_	10	amod	_	SpaceAfter=No|Rus=с_выступом
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	кыһыл	кыһыл	ADJ	_	_	10	amod	_	Rus=красный
+8	атахтаах	атахтаах	ADJ	_	_	10	amod	_	SpaceAfter=No|Rus=ногастый
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	үрүҥ	үрүҥ көмүс	NOUN	_	Case=Nom	11	nmod	_	Rus=белый
+11	көмүс	үрүҥ көмүс	NOUN	_	Case=Nom	14	nsubj	_	Rus=серебро
+12	түүлээх	түүлээх	ADJ	_	_	16	amod	_	SpaceAfter=No|Rus=оперённый
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	хааҕырҕаан	хааҕырҕаа	VERB	v|iv	VerbForm=Conv|ConvType=Cons	15	advmod	_	Rus=крича
+15	саҥарар	саҥар	VERB	v|tv	Tense=Pres	20	conj	_	Rus=издавать_звук
+16	хопто	хоп	NOUN	_	Case=Par	18	obl	_	Rus=чайка
+17	кыылым	кыыл	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	18	nsubj	_	Rus=дикое_животное
+18	устан	уһун	VERB	v|iv	VerbForm=Conv|ConvType=Cons	19	advcl	_	Rus=плыть
+19	кылбайа	кылбай	VERB	v|iv	VerbForm=Conv|ConvType=Sim	20	advmod	_	Rus=светиться
+20	сылдьар	сырыт	VERB	v|iv	Tense=Pres	0	root	_	SpaceAfter=No|Rus=ходить
+21	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = fisher_016
+# sah = Тыыраахы көтөрүм, иннэ суптуйан, кэннэ сарайан, бүтүннүүтэ кынат, түү иччитэ буолан баран, мас ойуун курдук, күөл үрдүгэр кукунайа-кукунайа ууга суптурута түһэн ылар.
+# rus = Чайка-крачка — узкая спереди, широкая сзади, кажется вся из крыльев и перьев — кружится-вертится над озером, точно деревянный волчок, и — раз! — бросается вниз оперенной стрелой, но, слегка коснувшись воды, со стонущим криком взмывает кверху.
+# anno = yes
+1	Тыыраахы	Тыыраахы	NOUN	_	Case=Nom	2	nsubj	_	Rus=крачка
+2	көтөрүм	көт	VERB	v|iv	Number=Sing|Person=1	29	conj	_	SpaceAfter=No|Rus=лететь
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	иннэ	иннэ	NOUN	_	Case=Nom	5	nsubj	_	Rus=спереди
+5	суптуйан	суптуй	VERB	v|iv	VerbForm=Conv|ConvType=Cons	8	advcl	_	SpaceAfter=No|Rus=сужаться
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	кэннэ	кэннэ	ADP	_	_	4	case	_	Rus=сзади
+8	сарайан	сарай	VERB	v|tv	VerbForm=Conv|ConvType=Cons	24	advcl	_	SpaceAfter=No|Rus=раздвигаться
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	бүтүннүүтэ	бүтүннүү	ADV	_	_	24	advmod	_	Rus=целиком
+11	кынат	кынат	NOUN	_	Case=Nom	13	nmod	_	SpaceAfter=No|Rus=крыло
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	түү	түү	NOUN	_	Case=Nom	14	nmod	_	Rus=перо
+14	иччитэ	иччи	NOUN	_	Case=Par	24	obl	_	Rus=обладатель
+15	буолан	буолан баран	PART	_	_	29	discourse	_	Rus=будучи
+16	баран	буолан баран	PART	_	_	29	discourse	_	SpaceAfter=No|Rus=однако
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	мас	мас	NOUN	_	Case=Nom	19	nmod	_	Rus=дерево
+19	ойуун	ойуун	NOUN	_	Case=Nom	24	nsubj	_	Rus=волчок
+20	курдук	курдук	ADP	_	_	19	case	_	SpaceAfter=No|Rus=как
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	күөл	күөл	NOUN	_	Case=Nom	24	nsubj	_	Rus=озеро
+23	үрдүгэр	үрдүгэр	ADP	_	_	22	case	_	Rus=над
+24-25	кукунайа-кукунайа	кукунай-кукунай	VERB	_	VerbForm=Conv	_	_	_	Rus=кружась
+24	кукунайа	кукунай	VERB	v|iv	VerbForm=Conv|ConvType=Sim	28	advcl	_	Rus=кружась
+25	кукунайа	кукунай	VERB	v|iv	VerbForm=Conv|ConvType=Sim	24	advmod	_	Rus=кружась
+26	ууга	уу	NOUN	_	Case=Dat	28	obl	_	Rus=вода
+27	суптурута	суптурута	ADV	_	_	28	advmod	_	Rus=стремительно
+28	түһэн	түс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	29	advcl	_	Rus=падать
+29	ылар	ыл	VERB	v|tv	Tense=Pres	0	root	_	SpaceAfter=No|Rus=брать
+30	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = fisher_017
+# sah = Ол кэнниттэн тута үөһэ халлаан диэки өрө көтөн тахсан, тыыраахылыы тыҥкынаан, ытаан-соҥоон муҥнанар эбит, оҕолор!
+# rus = — бросается вниз оперенной стрелой, но, слегка коснувшись воды, со стонущим криком взмывает кверху.
+# anno = yes
+1	Ол	ол	PRON	_	PronType=Dem	16	obl	_	Rus=тот
+2	кэнниттэн	кэнниттэн	ADP	_	_	1	case	_	Rus=после_этого
+3	тута	тута	ADV	_	_	8	advmod	_	Rus=сразу
+4	үөһэ	үөһэ	ADV	_	_	8	advmod	_	Rus=вверх
+5	халлаан	халлаан	NOUN	_	Case=Nom	8	nsubj	_	Rus=небо
+6	диэки	диэки	ADP	_	_	5	case	_	Rus=к
+7	өрө	өрө	ADV	_	_	8	advmod	_	Rus=вверх
+8	көтөн	көт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	9	advmod	_	Rus=лететь
+9	тахсан	таҕыс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	12	advcl	_	SpaceAfter=No|Rus=выходить
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	тыыраахылыы	тыыраахы	NOUN	_	Case=Nom	12	nsubj	_	Rus=по-крачьему
+12	тыҥкынаан	тыҥкынаан	VERB	v|iv	VerbForm=Conv|ConvType=Cons	14	advmod	_	SpaceAfter=No|Rus=звенеть
+13	,	,	PUNCT	_	_	12	punct	_	_
+14-15	ытаан-соҥоон	ытаа-соҥоон	VERB	_	_	_	_	_	Rus=плача-стеная
+14	ытаан	ытаа	VERB	v|iv	VerbForm=Conv|ConvType=Cons	15	advmod	_	Rus=плакать
+15	соҥоон	соҥоо	VERB	v|iv	VerbForm=Conv|ConvType=Cons	16	advmod	_	Rus=рыдать
+16	муҥнанар	муҥнан	VERB	v|iv	Tense=Pres	0	root	_	Rus=стонать
+17	эбит	эбит	PART	_	_	16	discourse	_	SpaceAfter=No|Rus=оказывается
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	оҕолор	оҕолор	INTJ	_	_	16	discourse	_	SpaceAfter=No|Rus=ребята
+20	!	!	PUNCT	_	_	19	punct	_	_
+
+# sent_id = fisher_018
+# sah = Килбиэннээх киэҥ халлаан оройуттан көрөн турар аламай маҥан күҥҥэ үҥэрин билбэтим, ол эбэтэр хара орохтоох систээх мунду балыгы сыыһа харбаан, онтон абаран ытыырын-соҥуурун билбэтим ини, доҕор!
+# rus = И трудно понять, то ли жалуется она приветливому красному солнышку, наблюдающему с купола беспредельного лазурного неба, то ли просто негодует от досады, что не успела схватить увертливого черноспинного гальяна.
+# anno = yes
+1	Килбиэннээх	Килбиэннээх	ADJ	_	_	3	amod	_	Rus=сияющий
+2	киэҥ	киэҥ	ADJ	_	_	3	amod	_	Rus=широкий
+3	халлаан	халлаан	NOUN	_	Case=Nom	4	nmod	_	Rus=небо
+4	оройуттан	орой	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	5	obl	_	Rus=с_купола
+5	көрөн	көр	VERB	v|tv	VerbForm=Conv|ConvType=Cons	6	advmod	_	Rus=видеть
+6	турар	тур	VERB	v|iv	Tense=Pres	27	conj	_	Rus=стоять
+7	аламай	аламай	ADJ	_	_	9	amod	_	Rus=ясный
+8	маҥан	маҥан	ADJ	_	_	9	amod	_	Rus=белый
+9	күҥҥэ	күн	NOUN	_	Case=Dat	10	obl	_	Rus=солнцу
+10	үҥэрин	үҥ	VERB	v|iv	Case=Acc|Number[psor]=Sing|Person[psor]=3	27	conj	_	Rus=молиться
+11	билбэтим	бил	VERB	v|tv	Number=Sing|Person=1|Polarity=Neg	27	conj	_	SpaceAfter=No|Rus=знать
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	ол	ол	PART	_	_	27	discourse	_	Rus=тот
+14	эбэтэр	эбэтэр	ADV	_	_	21	advmod	_	Rus=или
+15	хара	хара	ADJ	_	_	18	amod	_	Rus=чёрный
+16	орохтоох	орохтоох	ADJ	_	_	18	amod	_	Rus=черноспинный
+17	систээх	систээх	ADJ	_	_	18	amod	_	Rus=со_спиной
+18	мунду	мунду	NOUN	_	Case=Nom	19	nmod	_	Rus=гольян
+19	балыгы	балык	NOUN	_	Case=Acc	21	obj	_	Rus=рыба
+20	сыыһа	сыыһа	NOUN	_	Case=Nom	21	nsubj	_	Rus=промахнувшись
+21	харбаан	харбаа	VERB	v|iv	VerbForm=Conv|ConvType=Cons	24	advcl	_	SpaceAfter=No|Rus=схватить
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	онтон	ол	PRON	_	Case=Abl|PronType=Dem	24	obl	_	Rus=потом
+24	абаран	абар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	25	advcl	_	Rus=негодуя
+25-26	ытыырын-соҥуурун	ытаа-соҥуурун	VERB	v|iv|ger_aor|px3sg|acc	Case=Acc|Number[psor]=Sing|Person[psor]=3	_	_	_	Rus=плач-стон
+25	ытыырын	ытаа	VERB	v|iv	Case=Acc|Number[psor]=Sing|Person[psor]=3	27	conj	_	Rus=плакать
+26	соҥуурун	соҥоо	VERB	v|iv	Case=Acc|Number[psor]=Sing|Person[psor]=3|VerbForm=Part	27	conj	_	Rus=рыдать
+27	билбэтим	бил	VERB	v|tv	Number=Sing|Person=1|Polarity=Neg	0	root	_	Rus=знать
+28	ини	ини	PART	_	_	27	discourse	_	SpaceAfter=No|Rus=ведь
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	доҕор	доҕор	NOUN	_	Case=Nom	27	nsubj	_	SpaceAfter=No|Rus=друг
+31	!	!	PUNCT	_	_	30	punct	_	_
+
+# sent_id = fisher_019
+# sah = Бу маннык бэйэлээх, күөх толбон буолан көстөр тайҕа кэриир тыам хаба oттотyrap, сатыы былыты саататар, аламай күнү аралдьытар, килбиэннээх киэҥ халлааным күлүгүн төгүрүччү тардан ылан, төгүрүк сиэркилэ таас буолан сытар тыымпы күөлүм кытыытынан иэгэйэр икки атахтаах биирдэ эмэтэ, сыл баһыгар-атаҕар хара тыам булдун эккирэтэ сылдьан, aahapa буолуо дуо?
+# rus = Интересно знать, на берег отого озера ,что, стянув к себе блеск и сияние всей небесной шири, выставилось из чащи великолепной девственной тайги круглым чудесным зеркалом, в которое заглядываются, развлекаясь и прихорашиваясь, облака непоседы и жизнетворное солнце, когда-нибудь ступал ли двуногий, преследуя зверя?
+# anno = yes
+1	Бу	Бу	DET	_	PronType=Dem	2	det	_	Rus=этот
+2	маннык	маннык	PRON	_	Case=Nom|PronType=Dem	7	nsubj	_	Rus=такой
+3	бэйэлээх	бэйэлээх	PART	_	_	55	discourse	_	SpaceAfter=No|Rus=такой
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	күөх	күөх	ADJ	_	_	6	amod	_	Rus=голубой
+6	толбон	толбон	NOUN	_	Case=Nom	7	nsubj	_	Rus=блеск
+7	буолан	буолан	VERB	v|iv	ConvType=Cons|VerbForm=Conv	55	conj	_	Rus=будучи
+8	көстөр	көс	NOUN	_	Case=Nom|Number=Plur	9	nmod	_	Rus=виднеться
+9	тайҕа	тайҕа	NOUN	_	Case=Nom	10	nmod	_	Rus=тайга
+10	кэриир	кэриир	NOUN	_	Case=Nom	11	nmod	_	Rus=первозданный
+11	тыам	тыа	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	12	nmod	_	Rus=лес
+12	хаба	хаба	NOUN	_	Case=Nom	13	nmod	_	Rus=середина
+13	oттотyгap	орто	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	17	obl	_	SpaceAfter=No|Rus=посередине
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	сатыы	сатыы	ADV	_	_	17	advmod	_	Rus=на_своих_ногах
+16	былыты	былыт	NOUN	_	Case=Acc	17	obj	_	Rus=облако
+17	саататар	саатат	VERB	v|tv	Tense=Pres	55	conj	_	SpaceAfter=No|Rus=развлекать
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	аламай	аламай	ADJ	_	_	20	amod	_	Rus=ясный
+20	күнү	күн	NOUN	_	Case=Acc	21	obj	_	Rus=солнце
+21	аралдьытар	аралдьыт	VERB	v|tv	Tense=Pres	55	conj	_	SpaceAfter=No|Rus=привлекать
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	килбиэннээх	килбиэннээх	ADJ	_	_	25	amod	_	Rus=сияющий
+24	киэҥ	киэҥ	ADJ	_	_	25	amod	_	Rus=широкий
+25	халлааным	халлаан	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	26	nmod	_	Rus=небо
+26	күлүгүн	күлүк	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	28	obj	_	Rus=тень
+27	төгүрүччү	төгүрүччү	ADV	_	_	28	advmod	_	Rus=вокруг_кого_чего
+28	тардан	тарт	VERB	v|tv	VerbForm=Conv|ConvType=Cons	29	advmod	_	Rus=стянуть
+29	ылан	ыл	VERB	v|tv	VerbForm=Conv|ConvType=Cons	34	advcl	_	SpaceAfter=No|Rus=брать
+30	,	,	PUNCT	_	_	29	punct	_	_
+31	төгүрүк	төгүрүк	ADJ	_	_	32	amod	_	Rus=круглый
+32	сиэркилэ	сиэркилэ	NOUN	_	Case=Nom	34	nsubj	_	Rus=зеркало
+33	таас	таас	ADJ	_	_	36	amod	_	Rus=стекло
+34	буолан	буолан	VERB	v|iv	ConvType=Cons|VerbForm=Conv	55	conj	_	Rus=будучи
+35	сытар	сыт	AUX	_	Tense=Pres	55	conj	_	Rus=лежать
+36	тыымпы	тыымпы	NOUN	_	Case=Nom	37	nmod	_	Rus=тихий
+37	күөлүм	күөл	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	38	nmod	_	Rus=озеро
+38	кытыытынан	кытыы	NOUN	_	Case=Ins|Number[psor]=Sing|Person[psor]=3	39	obl	_	Rus=берег
+39	иэгэйэр	иэгэй	VERB	v|iv	Tense=Pres	55	conj	_	Rus=шагающий
+40	икки	икки	NUM	_	NumType=Card	45	nummod	_	Rus=два
+41	атахтаах	атахтаах	ADJ	_	_	45	amod	_	Rus=ногий
+42	биирдэ	биирдэ	ADV	_	_	51	advmod	_	Rus=один_раз
+43	эмэтэ	эмэ	PART	_	_	55	discourse	_	SpaceAfter=No|Rus=иногда
+44	,	,	PUNCT	_	_	43	punct	_	_
+45	сыл	сыл	NOUN	_	Case=Nom	47	nmod	_	Rus=год
+46-47	баһыгар-атаҕар	баһыгар-атах	NOUN	_	Case=Dat|Person[psor]=3	_	_	_	Rus=круглый_год
+46	баһыгар	баһыгар	ADP	_	_	45	case	_	Rus=начало
+47	атаҕар	атах	NOUN	_	Case=Dat	51	obl	_	Rus=конец
+48	хара	хара	ADJ	_	_	49	amod	_	Rus=чёрный
+49	тыам	тыа	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	50	nmod	_	Rus=лес
+50	булдун	булт	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	51	obj	_	Rus=добыча
+51	эккирэтэ	эккирэт	VERB	v|tv	VerbForm=Conv|ConvType=Sim	52	advmod	_	Rus=преследуя
+52	сылдьан	сырыт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	54	advcl	_	SpaceAfter=No|Rus=ходить
+53	,	,	PUNCT	_	_	52	punct	_	_
+54	aahapa	аас	VERB	v|iv	Case=Nom|Number[psor]=Sing|Person[psor]=3|VerbForm=Part	55	ccomp	_	Rus=проходить
+55	буолуо	буол	VERB	v|iv	Mood=Ind|Tense=Fut|Number=Sing|Person=3	0	root	_	Rus=быть
+56	дуо	дуо	PART	_	_	55	advmod	_	SpaceAfter=No|Rus=ли
+57	?	?	PUNCT	_	_	56	punct	_	_
+
+# sent_id = fisher_020
+# sah = Ол эрээри ханна даҕаны күөх далай, хара тыа иччитэ суох буолбат.
+# rus = Однако ж, где бы ни было, цветущие леса, богатые рыбой и дичью водоемы едва ли остаются неведомыми разумным существам.
+# anno = yes-yes
+1	Ол	ол	PRON	_	PronType=Dem	11	discourse	_	Rus=тот
+2	эрээри	эрээри	ADP	_	_	1	fixed	_	Rus=хотя
+3	ханна	хан	ADV	_	_	11	advmod	_	Rus=где
+4	даҕаны	даҕаны	PART	_	_	3	advmod	_	Rus=даже
+5	күөх	күөх	ADJ	_	_	6	amod	_	Rus=голубой
+6	далай	далай	NOUN	_	Case=Nom	11	nsubj	_	SpaceAfter=No|Rus=водоём
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	хара	хара	ADJ	_	_	9	amod	_	Rus=чёрный
+9	тыа	тыа	NOUN	_	Case=Nom	6	conj	_	Rus=лес
+10	иччитэ	иччи	NOUN	_	Case=Par	11	obl	_	Rus=дух-хозяин
+11	суох	суох	ADJ	_	_	0	root	_	Rus=нет
+12	буолбат	буол	AUX	_	Polarity=Neg|Tense=Pres	11	cop	_	SpaceAfter=No|Rus=быть
+13	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = fisher_021
+# sah = Тыымпы күөлүм арҕаа булуҥун түгэҕэр, ыччат мастаах тумулум yhyгap киэһэ аайы бур-бур буруо унаарыйан көстөр буоллаҕа.
+# rus = Так и есть! У западной курейки лесного озера, там, где горбатится небольшой мыс, поросший подлеском из молодых листвянок, протягиваются к небу клубки дыма.
+# anno = yes-yes
+1	Тыымпы	Тыымпы	NOUN	_	Case=Nom	2	nmod	_	Rus=тихий
+2	күөлүм	күөл	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	4	nmod	_	Rus=озеро
+3	арҕаа	арҕаа	NOUN	_	Case=Nom	4	nmod	_	Rus=запад
+4	булуҥун	булуҥ	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	5	nmod	_	Rus=часть
+5	түгэҕэр	түгэх	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	15	obl	_	SpaceAfter=No|Rus=в_конце
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ыччат	ыччат	NOUN	_	Case=Nom	8	nmod	_	Rus=молодняк
+8	мастаах	мастаах	ADJ	_	_	9	amod	_	Rus=лесистый
+9	тумулум	тумул	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	10	nmod	_	Rus=мыс
+10	yhyгap	уһук	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	15	obl	_	Rus=угол
+11	киэһэ	киэһэ	NOUN	_	Case=Nom	15	obl	_	Rus=вечером
+12	аайы	аайы	ADP	_	_	11	case	_	Rus=каждый
+13	бур-бур	бур-бур	NOUN	_	Case=Nom	14	nmod	_	Rus=клубами
+14	буруо	буруо	NOUN	_	Case=Nom	15	nsubj	_	Rus=дым
+15	унаарыйан	унаарый	VERB	v|iv	VerbForm=Conv|ConvType=Cons	16	advcl	_	Rus=подниматься
+16	көстөр	көс	NOUN	_	Case=Nom|Number=Plur	0	root	_	Rus=виднеться
+17	буоллаҕа	буоллаҕа	PART	_	_	16	discourse	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = fisher_022
+# sah = Ол тумулга тиийэн көрдөххө, уу быстар кытыытыгар буруоттан, ардахтан харааран хаалбыт, иҥнэри түһэн турар хатырык отуу баар эбит.
+# rus = Если пройти на мысок,то обнаружишь у кромки озера почерневший от дыма и дождей, покосившийся шалашик из корья.
+# anno =
+1	Ол	Ол	PRON	_	Case=Nom|PronType=Dem	2	det	_	Rus=тот
+2	тумулга	тумул	NOUN	_	Case=Dat	3	obl	_	Rus=мыс
+3	тиийэн	тиий	VERB	v|iv	VerbForm=Conv|ConvType=Cons	4	advcl	_	Rus=идя
+4	көрдөххө	көр	VERB	v|tv	Case=Dat	20	advcl	_	SpaceAfter=No|Rus=видеть
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	уу	уу	NOUN	_	Case=Nom	8	nmod	_	Rus=вода
+7	быстар	быстар	VERB	v|tv	_	8	acl	_	Rus=у_кромки
+8	кытыытыгар	кытыы	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	12	obl	_	Rus=берег
+9	буруоттан	буруо	NOUN	_	Case=Abl	12	obl	_	SpaceAfter=No|Rus=дым
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	ардахтан	ардах	NOUN	_	Case=Abl	12	obl	_	Rus=от_дождя
+12	харааран	хараар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	13	advmod	_	Rus=темнеть
+13	хаалбыт	хаал	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	16	ccomp	_	SpaceAfter=No|Rus=оставаться
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	иҥнэри	иҥнэри	ADV	_	_	16	advmod	_	Rus=наклонно
+16	түһэн	түс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	17	advmod	_	Rus=падать
+17	турар	тур	VERB	v|iv	Tense=Pres	20	conj	_	Rus=стоять
+18	хатырык	хатырык	NOUN	_	Case=Nom	19	nmod	_	Rus=кора
+19	отуу	отуу	NOUN	_	Case=Nom	20	nsubj	_	Rus=шалаш
+20	баар	баар	AUX	_	_	0	root	_	Rus=быть
+21	эбит	эбит	PART	_	_	20	discourse	_	SpaceAfter=No|Rus=оказывается
+22	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = fisher_023
+# sah = Отуу иннигэр уот буруолуу сытар, былыр Дыгын саҕанааҕыга оҥоһуллубут, айаҕа сарымтыйан хаалбыт тимир солууччах иҥнэри түһэн олорор, уот аттыгар хас да туос тордуйа сытар, отуу тулатыгар аппа сир балык хатырыга буолбут, тиит мас төрдүгэр хас да балыктыыр туу өйөнөн турар.
+# rus = Перед ним, у потухающего костра, валяется на боку древний, выкованный, однако, еще во времена Дагына, железный котел с побитыми, выщербленными краями; чуть поодаль от огня — несколько берестяных коробиц; обогувшая жилье ложбина засыпана рыбьей чешуей, две-три верши прислонены к одной из лиственниц.
+# anno = yes
+1	Отуу	Отуу	NOUN	_	Case=Nom	3	nmod	_	Rus=шалаш
+2	иннигэр	иннигэр	ADP	_	_	1	case	_	Rus=перед
+3	уот	уот	NOUN	_	Case=Nom	4	nsubj	_	Rus=огонь
+4	буруолуу	буруолаа	VERB	v|iv	VerbForm=Conv|ConvType=Sim	5	advmod	_	Rus=дымить
+5	сытар	сыт	AUX	_	Tense=Pres	45	conj	_	SpaceAfter=No|Rus=лежать
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	былыр	былыр	ADV	_	_	10	advmod	_	Rus=в_древности
+8	Дыгын	Дыгын	PROPN	_	Case=Nom	9	nmod	_	Rus=Дыгын
+9	саҕанааҕыга	саҕанааҕы	NOUN	_	Case=Dat	10	obl	_	Rus=во_времена
+10	оҥоһуллубут	оҥоһун	VERB	v|tv	Number=Plur|Person=1|Tense=Past|PastType=Perfect|Voice=Pass	45	conj	_	SpaceAfter=No|Rus=выкованный
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	айаҕа	айа	NOUN	_	Case=Dat	13	obl	_	Rus=край
+13	сарымтыйан	сарымтый	VERB	v|iv	VerbForm=Conv|ConvType=Cons	14	advmod	_	Rus=расщепляться
+14	хаалбыт	хаал	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	16	acl	_	Rus=оставаться
+15	тимир	тимир	ADJ	_	_	16	amod	_	Rus=железо
+16	солууччах	солууччах	NOUN	_	Case=Nom	18	nsubj	_	Rus=солууччах
+17	иҥнэри	иҥнэри	ADV	_	_	18	advmod	_	Rus=наклонно
+18	түһэн	түс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	19	advmod	_	Rus=падать
+19	олорор	олор	VERB	v|iv	Tense=Pres	45	conj	_	SpaceAfter=No|Rus=сидеть
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	уот	уот	NOUN	_	Case=Nom	22	nmod	_	Rus=огонь
+22	аттыгар	атта	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	27	obl	_	Rus=в
+23	хас	хас да	DET	_	Case=Nom|PronType=Ind	26	det	_	Rus=несколько
+24	да	да	PART	_	_	23	fixed	_	Rus=же
+25	туос	туос	ADV	_	_	27	advmod	_	Rus=береста
+26	тордуйа	тордуйа	NOUN	_	Case=Nom	27	nsubj	_	Rus=коробица
+27	сытар	сыт	VERB	v|iv	Tense=Pres	45	conj	_	SpaceAfter=No|Rus=лежать
+28	,	,	PUNCT	_	_	27	punct	_	_
+29	отуу	отуу	NOUN	_	Case=Nom	30	nmod	_	Rus=шалаш
+30	тулатыгар	тула	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	35	obl	_	Rus=вокруг
+31	аппа	аппа	NOUN	_	Case=Nom	32	nmod	_	Rus=ложбина
+32	сир	сир	NOUN	_	Case=Nom	33	nmod	_	Rus=земля
+33	балык	балык	NOUN	_	Case=Nom	34	nmod	_	Rus=рыба
+34	хатырыга	хатырык	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	35	nsubj	_	Rus=чешуя
+35	буолбут	буол	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	37	acl	_	SpaceAfter=No|Rus=быть
+36	,	,	PUNCT	_	_	35	punct	_	_
+37	тиит	тиит	NOUN	_	Case=Nom	38	nmod	_	Rus=лиственница
+38	мас	мас	NOUN	_	Case=Nom	39	nmod	_	Rus=дерево
+39	төрдүгэр	төрдүгэр	NOUN	_	Case=Nom	42	nsubj	_	Rus=у_основания
+40	хас	хас	DET	_	Case=Nom|PronType=Int	43	det	_	Rus=несколько
+41	да	да	PART	_	_	40	fixed	_	Rus=же
+42	балыктыыр	балыктаа	VERB	v|tv	Tense=Pres	45	conj	_	Rus=рыбачить
+43	туу	түү	NOUN	_	Case=Nom	44	nsubj	_	Rus=рыболовная_снасть
+44	өйөнөн	өйөн	VERB	v|tv	VerbForm=Conv|ConvType=Cons	45	advmod	_	Rus=прислонённый
+45	турар	тур	VERB	v|iv	Tense=Pres|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Rus=стоять
+46	.	.	PUNCT	_	_	45	punct	_	_
+
+# sent_id = fisher_024
+# sah = Хатырык отуу иһигэр ким да баара биллибэт.
+# rus = В шалаше, вероятно, никого. Где же хозяин?
+# anno = yes-yes
+1	Хатырык	Хатырык	NOUN	_	Case=Nom	2	nmod	_	Rus=кора
+2	отуу	отуу	NOUN	_	Case=Nom	6	obl	_	Rus=шалаш
+3	иһигэр	иһигэр	ADP	_	_	2	case	_	Rus=внутри
+4	ким	ким	DET	_	Case=Nom|PronType=Int	6	nsubj	_	Rus=кто
+5	да	да	PART	_	_	4	fixed	_	Rus=ни
+6	баара	баар	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	7	csubj	_	Rus=есть
+7	биллибэт	биллибэт	ADJ	_	_	0	root	_	SpaceAfter=No|Rus=неизвестно
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = fisher_025
+# sah = Күөл диэки көрө түстэххэ уҥуоргу саҕаттан тыылаах киһи, аргыый, аат эрэ харата эрдинэн, отуулаах кытыы диэки устан иһэр.
+# rus = А, вон, озере: сидит в утлой лодочке и не спеша, как бы нехотя гребет к берегу, где притулился шалаш.
+# anno = yes-yes
+1	Күөл	Күөл	NOUN	_	Case=Nom	3	obl	_	Rus=озеро
+2	диэки	диэки	ADP	_	_	1	case	_	Rus=к
+3	көрө	көр	VERB	v|tv	VerbForm=Conv|ConvType=Sim	4	advmod	_	Rus=смотря
+4	түстэххэ	түс	VERB	v|iv	Case=Dat|Tense=Fut|VerbForm=Part	15	advcl	_	Rus=падать
+5	уҥуоргу	уҥуоргу	ADJ	_	_	6	amod	_	Rus=противоположный
+6	саҕаттан	саҕа	NOUN	_	Case=Abl	15	obl	_	Rus=край
+7	тыылаах	тыылаах	ADJ	_	_	8	amod	_	Rus=тыылаа
+8	киһи	киһи	NOUN	_	Case=Nom	20	nsubj	_	SpaceAfter=No|Rus=человек
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	аргыый	аргыый	ADV	_	_	15	advmod	_	SpaceAfter=No|Rus=медленно
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	аат	аат	NOUN	_	Case=Nom	15	advmod	_	Rus=слово
+13	эрэ	эрэ	PART	_	_	12	fixed	_	Rus=только
+14	харата	хара	NOUN	_	Case=Par	12	fixed	_	Rus=чёрный
+15	эрдинэн	эрдин	ADV	_	_	20	advcl	_	SpaceAfter=No|Rus=грести
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	отуулаах	отуулаах	ADJ	_	_	18	amod	_	Rus=отуу
+18	кытыы	кытыы	NOUN	_	Case=Nom	20	obl	_	Rus=берег
+19	диэки	диэки	ADP	_	_	18	case	_	Rus=к
+20	устан	уһун	VERB	v|iv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=плыть
+21	иһэр	ис	AUX	_	Tense=Pres	20	aux	_	SpaceAfter=No|Rus=идти
+22	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = fisher_026
+# sah = Сотору соҕус буолан баран, ханнык эрэ саһаран хаалбыт хамыс быыһынан эргэ баҕайы тыы төбөтө сурулаан кэлэн, кытыыга анньынна.
+# rus = Немного погодя в просвет пожелтевших камышей выплыло и бесшумно торкнулось в берег старое, ветхое суденышко.
+# anno = yes-yes
+1	Сотору	сотору	ADV	_	_	3	advmod	_	Rus=скоро
+2	соҕус	соҕус	ADV	_	_	1	advmod	_	Rus=немного
+3	буолан	буол	VERB	v|iv	VerbForm=Conv|ConvType=Cons	20	advcl	_	Rus=будучи
+4	баран	бар	AUX	_	VerbForm=Conv|ConvType=Cons	3	aux	_	SpaceAfter=No|Rus=однако
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	ханнык	ханнык	ADV	_	PronType=Ind	8	advmod	_	Rus=какой-то
+7	эрэ	эрэ	PART	_	_	6	fixed	_	Rus=эрэ
+8	саһаран	саһар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	10	acl	_	Rus=желтеть
+9	хаалбыт	хаал	AUX	_	Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	8	aux	_	Rus=оставаться
+10	хамыс	хамыс	NOUN	_	Case=Nom	17	obl	_	Rus=камыш
+11	быыһынан	быыһынан	ADP	_	_	10	case	_	Rus=между
+12	эргэ	эргэ	ADJ	_	_	14	amod	_	Rus=старый
+13	баҕайы	баҕайы	PART	_	_	12	advmod	_	Rus=очень
+14	тыы	тыы	NOUN	_	Case=Nom	15	nmod	_	Rus=лодка
+15	төбөтө	төбө	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	17	nsubj	_	Rus=голова
+16	сурулаан	сурулаа	VERB	v|iv	VerbForm=Conv|ConvType=Cons	17	advmod	_	Rus=показавшись
+17	кэлэн	кэл	VERB	v|iv	VerbForm=Conv|ConvType=Cons	20	advcl	_	SpaceAfter=No|Rus=приходить
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	кытыыга	кытыы	NOUN	_	Case=Dat	20	obl	_	Rus=берег
+20	анньынна	анньын	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=ткнулась
+21	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = fisher_027
+# sah = Аргыый аҕай, сэрэнэн-сэрэнэн, тыыттан кырдьаҕас оҕонньор киһи тахсан кэллэ.
+# rus = Из него осторожно — не покачнуть, не зачерпнуть бы воды — выбрался дряхлый, сухонький старикашка.
+# anno = yes-yes
+1	Аргыый	Аргыый	ADV	_	_	4	advmod	_	Rus=медленно
+2	аҕай	аҕай	ADV	_	_	1	advmod	_	SpaceAfter=No|Rus=же
+3	,	,	PUNCT	_	_	2	punct	_	_
+4-5	сэрэнэн-сэрэнэн	сэрэн-сэрэн	VERB	_	VerbForm=Conv	_	_	_	SpaceAfter=No|Rus=осторожно
+4	сэрэнэн	сэрэн	VERB	v|iv	VerbForm=Conv|ConvType=Cons	11	advmod	_	Rus=остерегаясь
+5	сэрэнэн	сэрэн	VERB	v|iv	VerbForm=Conv|ConvType=Cons	4	advmod	_	SpaceAfter=No|Rus=остерегаясь
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	тыыттан	тыы	NOUN	_	Case=Abl	11	obl	_	Rus=лодка
+8	кырдьаҕас	кырдьаҕас	ADJ	_	_	9	amod	_	Rus=старый
+9	оҕонньор	оҕонньор	NOUN	_	Case=Nom	10	nmod	_	Rus=старик
+10	киһи	киһи	NOUN	_	Case=Nom	11	nsubj	_	Rus=человек
+11	тахсан	таҕыс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	12	advmod	_	Rus=выходить
+12	кэллэ	кэл	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=приходить
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = fisher_028
+# sah = — Тыаһаабат уулаах тыымпы күөлүм иччитэ буолбут, уу байанайа, сыраанда күлүк — Балыксыт Былатыан, дорообо, кырдьаҕас!
+# rus = Здравствуй, хозяин-дух укромного лесного озера, старина Платон!
+# anno = yes-yes
+1	—	—	PUNCT	_	_	18	punct	_	_
+2	Тыаһаабат	Тыаһаа	VERB	v|iv	VerbForm=Part|Polarity=Neg|Tense=Pres	5	amod	_	Rus=издавать
+3	уулаах	уулаах	ADJ	_	_	4	amod	_	Rus=сырой
+4	тыымпы	тыымпы	NOUN	_	Case=Nom	5	nmod	_	Rus=тихий
+5	күөлүм	күөл	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	6	nmod	_	Rus=озеро
+6	иччитэ	иччи	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	Rus=дух-хозяин
+7	буолбут	буол	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	16	acl	_	SpaceAfter=No|Rus=стать
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	уу	уу	INTJ	_	_	10	nmod	_	Rus=вода
+10	байанайа	байанай	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	6	appos	_	SpaceAfter=No|Rus=баянай
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	сыраанда	сыраанда	NOUN	_	Case=Nom	13	nmod	_	Rus=культовое
+13	күлүк	күлүк	NOUN	_	Case=Nom	10	conj	_	Rus=отражение
+14	—	—	PUNCT	_	_	16	punct	_	_
+15	Балыксыт	Балыксыт	NOUN	_	Case=Nom	16	appos	_	Rus=рыбак
+16	Былатыан	Былатыан	PROPN	_	Case=Nom	18	vocative	_	SpaceAfter=No|Rus=Платон
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	дорообо	дорообо	INTJ	_	_	0	root	_	SpaceAfter=No|Rus=здравствуй
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	кырдьаҕас	кырдьаҕас	ADJ	_	_	16	appos	_	SpaceAfter=No|Rus=старый
+21	!	!	PUNCT	_	_	18	punct	_	_
+
+# sent_id = fisher_029
+# sah = Аата, эйигин харахтыыр, эн саҥаҕын истэр күннээх эбиппин ээ.
+# rus = Вот когда довелось увидеть тебя, вот когда услышу голос твой! Да!
+# anno = yes-yes
+1	Аата	Аата	NOUN	_	Case=Nom	9	discourse	_	SpaceAfter=No|Rus=вот
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	эйигин	эн	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	Rus=тебя
+4	харахтыыр	харахтаа	VERB	v|tv	Tense=Pres	9	ccomp	_	SpaceAfter=No|Rus=увидеть
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nmod	_	Rus=ты
+7	саҥаҕын	саҥа	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=2	8	obj	_	Rus=голос
+8	истэр	ис	NOUN	_	Case=Nom|Number=Plur	4	conj	_	Rus=услышать
+9	күннээх	күннээх	ADJ	_	_	0	root	_	Rus=довелось
+10	эбиппин	э	AUX	_	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	9	aux	_	Rus=быть
+11	ээ	ээ	PART	_	_	9	discourse	_	SpaceAfter=No|Rus=э-э
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_030
+# sah = Дьэ, доҕотторуом!
+# rus = Друзья мои.
+# anno = yes-yes
+1	Дьэ	Дьэ	PART	_	_	3	discourse	_	SpaceAfter=No|Rus=ну
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	доҕотторум	доҕор	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	0	root	_	SpaceAfter=No|Rus=доҕотторуом
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = fisher_031
+# sah = Мин эһиэхэ мааҕыттан Балыксыт Былатыаны кэпсээри оҥостон баран, тыаһаабат уулаах тыымпы алааспын хоһуйарбар буолан, күнү-ыйы мээлэ ыыттым.
+# rus = Давно я собирался поведать вам о Рыбаке Платоне, да, увлекшись воспеванием красот таежного уголка с его примечательным озером, напрасно погубил столько времени.
+# anno = yes-yes
+1	Мин	Мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	Rus=я
+2	эһиэхэ	эһиги	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	6	obj	_	Rus=вам
+3	мааҕыттан	мааҕы	ADJ	_	Case=Abl	6	obl	_	Rus=давний
+4	Балыксыт	Балыксыт	NOUN	_	Case=Nom	5	appos	_	Rus=рыбак
+5	Былатыаны	Былатыан	PROPN	_	Case=Acc	6	obj	_	Rus=Платон
+6	кэпсээри	кэпсээри	VERB	v|tv	VerbForm=Conv|ConvType=Purp	7	xcomp	_	Rus=рассказать
+7	оҥостон	оҥос	VERB	v|iv	VerbForm=Conv|ConvType=Cons	20	advcl	_	Rus=собираясь
+8	баран	бар	AUX	_	VerbForm=Conv|ConvType=Cons	7	aux	_	SpaceAfter=No|Rus=уйти
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	тыаһаабат	тыаһаа	VERB	v|iv	Polarity=Neg|Tense=Pres	13	acl	_	Rus=издавать
+11	уулаах	уулаах	ADJ	_	_	12	amod	_	Rus=сырой
+12	тыымпы	тыымпы	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	13	nmod	_	Rus=лесное_озеро
+13	алааспын	алаас	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=1	14	obj	_	Rus=алас
+14	хоһуйарбар	хоһуй	VERB	v|tv	Case=Dat|Number[psor]=Sing|Person[psor]=1	20	advcl	_	Rus=воспевая
+15	буолан	буол	AUX	_	ConvType=Cons|VerbForm=Conv	14	aux	_	SpaceAfter=No|Rus=будучи
+16	,	,	PUNCT	_	_	15	punct	_	_
+17-18	күнү-ыйы	күн-ый	NOUN	_	Case=Acc	_	_	_	Rus=солнце-луна
+17	күнү	күн	NOUN	_	Case=Acc	20	obj	_	Rus=солнце
+18	ыйы	ый	NOUN	_	Case=Acc	17	conj	_	Rus=луна
+19	мээлэ	мээлэ	ADV	_	_	20	advmod	_	Rus=зря
+20	ыыттым	ыыт	VERB	v|tv	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=потратил
+21	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = fisher_032
+# sah = Хайтах гыныамый, тылтан тыл ситимнэһэн, үөскээн барар.
+# rus = Ну, ничего, ведь только стоит обронить слово — вслед за ним так и тянутся другие, сцеплянсь и переплетаясь.
+# anno = yes-yes
+1	Хайтах	хайтах	ADV	_	_	2	advmod	_	Rus=как
+2	гыныамый	гын	VERB	v|tv	Mood=Ind|Number=Sing|Person=1|Ques=Yes|Tense=Fut	8	parataxis	_	SpaceAfter=No|Rus=гыныамый
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	тылтан	тыл	NOUN	_	Case=Abl	6	obl	_	Rus=из_слова
+5	тыл	тыл	NOUN	_	Case=Nom	6	nsubj	_	Rus=слово
+6	ситимнэһэн	ситимнэс	VERB	v|tv	VerbForm=Conv|ConvType=Cons	8	advcl	_	SpaceAfter=No|Rus=сцепляясь
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	үөскээн	үөскээ	VERB	v|iv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=возникая
+9	барар	бар	AUX	_	Tense=Pres	8	aux	_	SpaceAfter=No|Rus=идти
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = fisher_033
+# sah = Оҕонньор, мин диэки көрөн баран, аргыый аҕай эттэ:  — Тугу гына сылдьар oҕoҕyн?
+# rus = — Что поделываешь, дитятко, в этих краях? — посмотрев меня, спросил старик тихим, хрипловатым голосом.
+# anno = yes-yes
+1	Оҕонньор	Оҕонньор	NOUN	_	Case=Nom	10	nsubj	_	SpaceAfter=No|Rus=старик
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	obl	_	Rus=я
+4	диэки	диэки	ADP	_	_	3	case	_	Rus=к
+5	көрөн	көр	VERB	v|tv	VerbForm=Conv|ConvType=Cons	10	advcl	_	Rus=видеть
+6	баран	бар	AUX	_	VerbForm=Conv|ConvType=Cons	5	aux	_	SpaceAfter=No|Rus=уйти
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	аргыый	аргыый	ADV	_	_	10	advmod	_	Rus=спокойно
+9	аҕай	аҕай	ADV	_	_	8	advmod	_	Rus=же
+10	эттэ	эт	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=сказал
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	—	—	PUNCT	_	_	14	punct	_	_
+13	Тугу	Туох	PRON	_	Case=Acc|PronType=Int	14	obj	_	Rus=что
+14	гына	гын	VERB	v|tv	VerbForm=Conv|ConvType=Sim	10	ccomp	_	Rus=делать
+15	сылдьар	сырыт	AUX	_	Tense=Pres	14	aux	_	Rus=ходить
+16	oҕoҕyн	оҕо	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=2	14	nsubj	_	SpaceAfter=No|Rus=дитятко
+17	?	?	PUNCT	_	_	14	punct	_	_
+
+# sent_id = fisher_034
+# sah = — Ээ, тыаҕа саалана сылдьабын, хара тыа байанайа тугу эмэ дьоллоорой диэн.
+# rus = — Э-э, брожу с ружьем по тайге  — не осчастливит ли чем Байанай.
+# anno = yes
+1	—	—	PUNCT	_	_	13	punct	_	_
+2	Ээ	Ээ	PART	_	_	13	discourse	_	SpaceAfter=No|Rus=э-э
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	тыаҕа	тыа	NOUN	_	Case=Dat	5	obl	_	Rus=лес
+5	саалана	саалан	VERB	v|iv	VerbForm=Conv|ConvType=Sim	6	advmod	_	Rus=с_ружьём
+6	сылдьабын	сырыт	VERB	v|iv	Number=Sing|Person=1|Tense=Pres	13	parataxis	_	SpaceAfter=No|Rus=ходить
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	хара	хара	ADJ	_	_	9	amod	_	Rus=чёрный
+9	тыа	тыа	NOUN	_	Case=Nom	10	nmod	_	Rus=лес
+10	байанайа	байанай	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	Rus=баянай
+11	тугу	туох	PRON	_	Case=Acc|PronType=Int	13	obj	_	Rus=что
+12	эмэ	эмэ	PART	_	_	11	fixed	_	Rus=какой-то
+13	дьоллоорой	дьоллоо	VERB	v|tv	Mood=Pot|Number=Sing|Person=3	0	root	_	Rus=осчастливит
+14	диэн	диэн	ADP	_	_	11	case	_	SpaceAfter=No|Rus=что
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = fisher_035
+# sah = Эн, кырдьаҕас, хайтах-туох сытаҕын? — диэтим мин, оҕонньору сырайын-хараҕын одуулаһа-одуулаһа.
+# rus = Ну, а ты, старый, как живешь-можешь? — поинтересовался я в свою очередь, приглядываясь к нему.
+# anno = yes-yes
+1	Эн	Эн	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	SpaceAfter=No|Rus=ты
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	кырдьаҕас	кырдьаҕас	NOUN	_	Case=Nom	7	vocative	_	SpaceAfter=No|Rus=старый
+4	,	,	PUNCT	_	_	3	punct	_	_
+5-6	хайтах-туох	хайтах-туох	PART	_	_	_	_	_	_
+5	хайтах	хайтах	PRON	_	PronType=Int	7	advmod	_	Rus=как
+6	туох	туох	PRON	_	PronType=Int	5	conj	_	Rus=что
+7	сытаҕын	сыт	VERB	v|iv	Number=Sing|Person=2|Tense=Pres	10	parataxis	_	SpaceAfter=No|Rus=лежать
+8	?	?	PUNCT	_	_	7	punct	_	_
+9	—	—	PUNCT	_	_	10	punct	_	_
+10	диэтим	диэ	VERB	v|tv	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	Rus=сказать
+11	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	SpaceAfter=No|Rus=я
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	оҕонньору	оҕонньор	NOUN	_	Case=Acc	16	obj	_	Rus=старик
+14-15	сырайын-хараҕын	сырай-харах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	_	_	_	Rus=лицо
+14	сырайын	сырай	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	16	obj	_	Rus=лицо
+15	хараҕын	харах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	14	conj	_	Rus=глаза
+16-17	одуулаһа-одуулаһа	одуулас-одуулас	VERB	_	_	_	_	_	SpaceAfter=No|Rus=вглядываясь
+16	одуулаһа	одуулас	VERB	v|tv	VerbForm=Conv|ConvType=Sim	10	advcl	_	Rus=вглядываясь
+17	одуулаһа	одуулас	VERB	v|tv	VerbForm=Conv|ConvType=Sim	16	conj	_	SpaceAfter=No|Rus=вглядываясь
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = fisher_036
+# sah = — Олоробун үчүгэйдик, булт суох, — диэн баран, оҕонньор, ыалдьыты абааһы көрбүт киһи быһыытынан, иэдэс биэрдэ.
+# rus = — Живу хорошо, да вот... добычи маловато, — прошамкал он и отвернул лицо в сторону, будто чураясь незваного гостя.
+# anno = yes
+1	—	—	PUNCT	_	_	21	punct	_	_
+2	Олоробун	Олор	VERB	v|iv	Number=Sing|Person=1|Tense=Pres	9	ccomp	_	Rus=живу
+3	үчүгэйдик	үчүгэйдик	ADV	_	_	6	advmod	_	SpaceAfter=No|Rus=хорошо
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	булт	булт	NOUN	_	Case=Nom	6	nsubj	_	Rus=добыча
+6	суох	суох	ADJ	_	_	2	conj	_	SpaceAfter=No|Rus=нет
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	—	—	PUNCT	_	_	6	punct	_	_
+9	диэн	диэ	VERB	v|tv	VerbForm=Conv|ConvType=Cons	10	advmod	_	Rus=что
+10	баран	бар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	21	advcl	_	SpaceAfter=No|Rus=уйти
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	оҕонньор	оҕонньор	NOUN	_	Case=Nom	14	nmod	_	SpaceAfter=No|Rus=старик
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	ыалдьыты	ыалдьыт	NOUN	_	Case=Acc	21	obj	_	Rus=гостя
+15	абааһы	абааһы	NOUN	_	Case=Nom	16	nmod	_	Rus=чёрт
+16	көрбүт	көр	NOUN	_	Case=Nom|Number[psor]=Plur|Person[psor]=1	17	nmod	_	Rus=видеть
+17	киһи	киһи	NOUN	_	Case=Nom	21	obl	_	Rus=человек
+18	быһыытынан	быһыытынан	ADP	_	_	17	case	_	SpaceAfter=No|Rus=как
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	иэдэс	иэдэс	NOUN	_	Case=Nom	21	nsubj	_	Rus=щека
+21	биэрдэ	биэр	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=дать
+22	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = fisher_037
+# sah = Ол кэнниттэн, уотугар саба түһэн сытан, тииһэ суох айаҕынан бурулаччы үрбүтэ, үрүҥ күл, өрө бурҕайан тахсан, сырайын саба тибиирдэ, онтон уолуйбакка эрэ, оҕонньор киһи уотун бурулаччы үрэ олордо.
+# rus = Потом низко склонился над костром и беззубым ртом принялся вздувать огонь. Взметнулся из очага серо-белый пепел да обдал ему лицо, а он хоть бы что, все продолжал дуть на зардевшие угольки.
+# anno = yes
+1	Ол	ол	PRON	_	PronType=Dem	27	obl	_	Rus=тот
+2	кэнниттэн	кэнниттэн	ADP	_	_	1	case	_	SpaceAfter=No|Rus=после_этого
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	уотугар	уот	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	6	obl	_	Rus=огонь
+5	саба	саба	ADV	_	_	6	advmod	_	Rus=над
+6	түһэн	түс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	7	advmod	_	Rus=падать
+7	сытан	сыт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	10	advcl	_	SpaceAfter=No|Rus=лежа
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	тииһэ	тиис	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	10	obl	_	Rus=зуб
+10	суох	суох	ADJ	_	_	11	acl	_	Rus=нет
+11	айаҕынан	айа	NOUN	_	Case=Ins|Number[psor]=Sing|Person[psor]=2	13	obl	_	Rus=ртом
+12	бурулаччы	бурулаччы	ADV	_	_	13	advmod	_	Rus=так
+13	үрбүтэ	үр	VERB	v|tv	Case=Nom|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	16	acl	_	SpaceAfter=No|Rus=дул
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	үрүҥ	үрүҥ	ADJ	_	_	16	amod	_	Rus=белый
+16	күл	күл	NOUN	_	Case=Nom	19	nsubj	_	SpaceAfter=No|Rus=пепел
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	өрө	өрө	ADV	_	_	19	advmod	_	Rus=вверх
+19	бурҕайан	бурҕай	VERB	v|tv	VerbForm=Conv|ConvType=Cons	20	advmod	_	Rus=подниматься
+20	тахсан	таҕыс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	24	advcl	_	SpaceAfter=No|Rus=выходить
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	сырайын	сырай	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	24	obj	_	Rus=греть
+23	саба	саба	ADV	_	_	24	advmod	_	Rus=над
+24	тибиирдэ	тибиир	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	27	parataxis	_	SpaceAfter=No|Rus=обдало
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	онтон	ол	PRON	_	Case=Abl|PronType=Dem	27	obl	_	Rus=потом
+27	уолуйбакка	уолуй	VERB	v|iv	Case=Dat|Polarity=Neg	0	root	_	Rus=растеряться
+28	эрэ	эрэ	PART	_	_	27	advmod	_	SpaceAfter=No|Rus=только
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	оҕонньор	оҕонньор	NOUN	_	Case=Nom	31	nmod	_	Rus=старик
+31	киһи	киһи	NOUN	_	Case=Nom	32	nmod	_	Rus=человек
+32	уотун	уот	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	35	obj	_	Rus=огонь
+33	бурулаччы	бурулаччы	ADV	_	_	35	advmod	_	Rus=так
+34	үрэ	үр	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	35	nsubj	_	Rus=дуть
+35	олордо	олорт	VERB	v|tv	VerbForm=Conv|ConvType=Sim	27	advcl	_	SpaceAfter=No|Rus=сажать
+36	.	.	PUNCT	_	_	35	punct	_	_
+
+# sent_id = fisher_038
+# sah = Ону көрөн баран, мин тоҕо эрэ күлүөх санаам көтөн түстэ.
+# rus = Глядя на это, мне почему-то захотелось засмеяться.
+# anno = yes-yes
+1	Ону	ол	PRON	_	Case=Acc|PronType=Dem	2	obj	_	Rus=это
+2	көрөн	көр	VERB	v|tv	VerbForm=Conv|ConvType=Cons	3	advmod	_	Rus=увидев
+3	баран	бар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	10	advcl	_	SpaceAfter=No|Rus=после_этого
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nmod	_	Rus=я
+6	тоҕо	тоҕо	ADV	_	_	8	advmod	_	Rus=почему
+7	эрэ	эрэ	PART	_	_	6	fixed	_	Rus=то
+8	күлүөх	күл	VERB	v|iv	Tense=Fut|VerbForm=Part	9	acl	_	Rus=засмеяться
+9	санаам	санаа	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	10	nsubj	_	Rus=желание
+10	көтөн	көт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=возникло
+11	түстэ	түс	AUX	_	Number=Sing|Person=3|Tense=Past|PastType=Recent	10	aux	_	SpaceAfter=No|Rus=вдруг
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = fisher_039
+# sah = — Тоҕо күллүҥ, доҕоор? — диэтэ оҕонньор, умайан эрэр уотугар амынньыкыны быраҕа-быраҕа.
+# rus = — Чему улыбаешься, дружок? — приподнял голову старик, бросая в разгорающийся огонь мелко наломанные сучья.
+# anno = yes-yes
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	Тоҕо	Тоҕо	ADV	_	_	3	advmod	_	Rus=почему
+3	күллүҥ	күл	VERB	v|iv	Number=Sing|Person=2|Tense=Past|PastType=Recent	8	ccomp	_	SpaceAfter=No|Rus=пепел
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	доҕоор	доҕор	NOUN	_	Case=Nom	3	vocative	_	SpaceAfter=No|Rus=доҕоо
+6	?	?	PUNCT	_	_	3	punct	_	_
+7	—	—	PUNCT	_	_	8	punct	_	_
+8	диэтэ	диэ	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	Rus=сказать
+9	оҕонньор	оҕонньор	NOUN	_	Case=Nom	8	nsubj	_	SpaceAfter=No|Rus=старик
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	умайан	умай	VERB	v|iv	VerbForm=Conv|ConvType=Cons	8	advcl	_	Rus=поддаваться
+12	эрэр	эр	AUX	_	Tense=Pres	11	aux	_	Rus=быть
+13	уотугар	уот	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	15	obl	_	Rus=огонь
+14	амынньыкыны	амынньыкы	NOUN	_	Case=Acc	15	obj	_	Rus=сучья
+15-16	быраҕа-быраҕа	_	NOUN	_	VerbForm=Conv|ConvType=Cons	_	_	_	SpaceAfter=No|Rus=бросая
+15	быраҕа	бырах	VERB	v|tv	VerbForm=Conv|ConvType=Cons	11	advmod	_	Rus=бросая
+16	быраҕа	бырах	VERB	v|tv	VerbForm=Conv|ConvType=Cons	15	advmod	_	SpaceAfter=No|Rus=бросая
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = fisher_040
+# sah = — Ээ, бэйэм, оту-маһы көрөн үөрэбин.
+# rus = — Д-э,просто так. Гляжу на деревья, цветы и — радуюсь.
+# anno = yes-yes
+1	—	—	PUNCT	_	_	9	punct	_	_
+2	Ээ	Ээ	PART	_	_	4	discourse	_	SpaceAfter=No|Rus=э-э
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	бэйэм	бэйэ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	9	nsubj	_	SpaceAfter=No|Rus=просто
+5	,	,	PUNCT	_	_	4	punct	_	_
+6-7	оту-маһы	от-мас	NOUN	_	Case=Acc	_	_	_	Rus=растительность
+6	оту	от	NOUN	_	Case=Acc	8	obj	_	Rus=трава
+7	маһы	мас	NOUN	_	Case=Acc	6	conj	_	Rus=дерево
+8	көрөн	көр	VERB	v|tv	VerbForm=Conv|ConvType=Cons	9	advcl	_	Rus=видеть
+9	үөрэбин	үөрэ	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=1	0	root	_	SpaceAfter=No|Rus=радуюсь
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_041
+# sah = Ити кэнниттэн, туох да саҥата суох, балыксыт оҕонньор солууччахтаах чаанньыгын туппутунан, күөлүн кытыытын диэки тиэтэйэ-саарайа, сылайбыт атаҕын сыһан, тиэрэ-маары тайбаан, киирэ турда.
+# rus = Он молча поднялся от костра, подхватил котелок, чайник и заплетающимся с устатку шагами засеменил к озеру.
+# anno = yes
+1	Ити	ити	PRON	_	PronType=Dem	28	obl	_	Rus=этот
+2	кэнниттэн	кэнниттэн	ADP	_	_	1	case	_	SpaceAfter=No|Rus=после_этого
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	туох	туох	PRON	_	Case=Nom|Polarity=Neg	7	nsubj	_	Rus=что
+5	да	да	PART	_	_	4	fixed	_	Rus=ни
+6	саҥата	саҥа	NOUN	_	Case=Par	7	obl	_	Rus=голос
+7	суох	суох	ADJ	_	_	28	advmod	_	SpaceAfter=No|Rus=нет
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	балыксыт	балыксыт	NOUN	_	Case=Nom	10	nmod	_	Rus=рыбак
+10	оҕонньор	оҕонньор	NOUN	_	Case=Nom	12	nmod	_	Rus=старик
+11	солууччахтаах	солууччахтаах	ADJ	_	_	12	amod	_	Rus=с_котелком
+12	чаанньыгын	чаанньык	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	13	obj	_	Rus=чайник
+13	туппутунан	тут	VERB	v|tv	Case=Ins|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	15	acl	_	SpaceAfter=No|Rus=подхватив
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	күөлүн	күөл	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	20	obj	_	Rus=озеро
+16	кытыытын	кытыы	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	25	obl	_	Rus=берег
+17	диэки	диэки	ADP	_	_	16	case	_	Rus=к
+18	тиэтэйэ-саарайа	тиэтэйэ-саарайа	ADV	_	_	20	advmod	_	SpaceAfter=No|Rus=торопливо
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	сылайбыт	сылай	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	21	acl	_	Rus=уставший
+21	атаҕын	атах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	22	obj	_	Rus=ноги
+22	сыһан	сыс	VERB	v|tv	VerbForm=Conv|ConvType=Cons	25	advmod	_	SpaceAfter=No|Rus=волоча
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	тиэрэ-маары	тиэрэ-маары	ADJ	_	_	25	advmod	_	Rus=неаккуратно
+25	тайбаан	тайбаа	VERB	v|iv	VerbForm=Conv|ConvType=Cons	27	advmod	_	SpaceAfter=No|Rus=ковылять
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	киирэ	киир	VERB	v|iv	VerbForm=Conv|ConvType=Sim	28	advmod	_	Rus=идти
+28	турда	тур	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=стоять
+29	.	.	PUNCT	_	_	28	punct	_	_
+
+# sent_id = fisher_042
+# sah = Оо, күтүр өстөөх!
+# rus = Ох, отшельник!
+# anno = yes-yes
+1	Оо	Оо	INTJ	_	_	4	discourse	_	SpaceAfter=No|Rus=ох
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	күтүр	күтүр	ADJ	_	_	4	amod	_	Rus=огромный
+4	өстөөх	өстөөх	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No|Rus= окаянный
+5	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fisher_043
+# sah = Иэгэйэр икки атахтааҕы ахсааннаахтык көpөҥҥүн, иэримэ дьиэҕиттэн тэлэһийэн, хара тыаны сырайданан хаалаҥҥын, тыатааҕы курдук, apҕax эрэ хаһынарыҥ хаалбыт ээ.
+# rus = Покинув родное поселение и забившись в нелюдную глухомань, ты, видать, давно не встречался с людьми. Этак, что доброго, скоро вовсе одичаешь и, подобно медведю, примешься копать себе берлогу.
+# anno = yes
+1	Иэгэйэр	иэгэй	VERB	v|iv	Tense=Pres	21	conj	_	Rus=шагающий
+2	икки	икки	NUM	_	NumType=Card	8	nummod	_	Rus=два
+3	атахтааҕы	атах-тааҕы	ADJ	_	Case=Nom	8	amod	_	Rus=двуногий
+4	ахсааннаахтык	ахсааннаахтык	ADV	_	_	5	advmod	_	Rus=не_часто
+5	көpөҥҥүн	көр	VERB	v|tv	Mood=Imp|Number=Sing|Person=2	21	conj	_	SpaceAfter=No|Rus=көpөҥҥүн
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	иэримэ	иэримэ	ADJ	_	_	8	amod	_	Rus=родной_очаг
+8	дьиэҕиттэн	дьиэ	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=2	9	obl	_	Rus=дом
+9	тэлэһийэн	тэлэһий	VERB	v|iv	VerbForm=Conv|ConvType=Cons	13	advcl	_	SpaceAfter=No|Rus=отдаляться
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	хара	хара	ADJ	_	_	12	amod	_	Rus=чёрный
+12	тыаны	тыа	NOUN	_	Case=Acc	13	obj	_	Rus=лес
+13	сырайданан	сырайдан	VERB	v|iv	VerbForm=Conv|ConvType=Cons	14	advmod	_	Rus=сырай
+14	хаалаҥҥын	хаал	VERB	v|iv	Mood=Imp|Number=Sing|Person=2	21	conj	_	SpaceAfter=No|Rus=хаал
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	тыатааҕы	тыатааҕы	NOUN	_	Case=Nom	21	nsubj	_	Rus=медведь
+17	курдук	курдук	ADP	_	_	16	case	_	SpaceAfter=No|Rus=как
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	apҕax	арҕах	NOUN	_	Case=Nom	21	nsubj	_	Rus=apҕax
+20	эрэ	эрэ	PART	_	_	21	advmod	_	Rus=только
+21	хаһынарыҥ	хаһын	VERB	v|tv	Number=Sing|Person=2|Tense=Pres	0	root	_	Rus=хаһынарыҥ
+22	хаалбыт	хаал	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	21	ccomp	_	Rus=оставаться
+23	ээ	ээ	PART	_	_	21	discourse	_	SpaceAfter=No|Rus=э-э
+24	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = fisher_044
+# sah = Аата, собоһут кыыл курдук, сорсуйан бардаҕыҥ.
+# rus = Да и состарился, как та вон скопа-рыболов.
+# anno = yes-yes
+1	Аата	Аата	NOUN	_	Case=Nom	7	discourse	_	SpaceAfter=No|Rus=вот
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	собоһут	собоһут	NOUN	_	Case=Nom	4	nmod	_	Rus=скопа
+4	кыыл	кыыл	NOUN	_	Case=Nom	7	advmod	_	Rus=дикое_животное
+5	курдук	курдук	ADP	_	_	4	case	_	SpaceAfter=No|Rus=как
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	сорсуйан	сорсуй	VERB	v|iv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=состарившись
+8	бардаҕыҥ	бар	AUX	v|iv	VerbForm=Conv|Mood=Cnd|Person=2|Number=Sing	7	aux	_	SpaceAfter=No|Rus=передвигаться
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = fisher_045
+# sah = Ити курдук санаан, мин абара олордохпуна, оҕонньорум, икки илиитин акыччы санньылытан, дьэбиннээх солууччахтаах чаанньыгар уу баһан салыбыратан таһаарда.
+# rus = Пока я рассуждал с чувством сожаления о судьбе несчастного нелюдима, он уже принес в разведенных немного в стороны, старчески трясущихся руках наполненные водой котелок и чайник.
+# anno = yes
+1	Ити	ити	PRON	_	PronType=Dem	22	obl	_	Rus=этот
+2	курдук	курдук	ADP	_	_	1	case	_	Rus=так
+3	санаан	санаа	VERB	v|tv	VerbForm=Conv|ConvType=Cons	6	advcl	_	SpaceAfter=No|Rus=думать
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Rus=я
+6	абара	абар	VERB	v|iv	VerbForm=Conv|ConvType=Sim	7	advmod	_	Rus=чувствовать
+7	олордохпуна	олор	VERB	v|iv	Mood=Cnd|Number=Sing|Person=1	22	advcl	_	SpaceAfter=No|Rus=сидеть
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	оҕонньорум	оҕонньор	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	14	nsubj	_	SpaceAfter=No|Rus=старик
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	икки	икки	NUM	_	NumType=Card	12	nummod	_	Rus=два
+12	илиитин	илии	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	14	obj	_	Rus=рука
+13	акыччы	акыччы	ADV	_	_	14	advmod	_	Rus=полусогнуто
+14	санньылытан	санньылыт	VERB	v|tv	VerbForm=Conv|ConvType=Cons	20	advcl	_	SpaceAfter=No|Rus=санньылытан
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	дьэбиннээх	дьэбиннээх	ADJ	_	_	18	amod	_	Rus=ржавый
+17	солууччахтаах	солууччахтаах	ADJ	_	_	18	amod	_	Rus=с_котелком
+18	чаанньыгар	чаанньык	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	20	obl	_	Rus=чаан
+19	уу	уу	INTJ	_	_	22	discourse	_	Rus=вода
+20	баһан	бас	VERB	v|tv	VerbForm=Conv|ConvType=Cons	21	advcl	_	Rus=набирать
+21	салыбыратан	салыбырат	VERB	v|tv	VerbForm=Conv|ConvType=Cons	22	advcl	_	Rus=салыбыратан
+22	таһаарда	таһаар	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=выносить
+23	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = fisher_046
+# sah = Сырайын-хараҕын өйдүөн одуулаан көрбүтүм, үмүрүйбүт соҕус туруору сүүстээх эбит, баттаҕа, туртайан баран, тыымпы күөлүм хагдарыйбыт хамыһын дьүһүнүн курдук, саһаран эрэр, уһун соҕус субуруйбут муруннааҕа, боруоска табаах симиллэн, бочугунас тыастаах буолбут, ымайбыт уоһун иһигэр аҕыйах аҕай тиистээх, сэҥийэтигэр cи буолуохтааҕар сэбирийбит бытыктаах эбит.
+# rus = Теперь я внимательно вгляделся в лицо Платона. Крутой его лоб несколько суживается кверху. Седые лохмы отливают желтизной и тем удивительно гармонируют с камышами этого лесного озера. Нос довольно длинный ,им хозяин беспрестанно сопит, — видимо, изрядно набивает нюхательным табаком. Между раздвинутыми в улыбке губами проглядывают несколько уцелевших зубов. На подбородке, чтоб не было совсем голо, торчит реденькая щетинка.
+# anno = yes
+1-2	Сырайын-хараҕын	Сырай-харах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	_	_	_	Rus=лицо
+1	Сырайын	Сырай	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	3	obj	_	Rus=лицо
+2	хараҕын	харах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	3	obj	_	Rus=глаза
+3	өйдүөн	өйдөө	VERB	v|tv	Case=Nom	50	conj	_	Rus=осмотревшись
+4	одуулаан	одуулаа	VERB	v|tv	VerbForm=Conv|ConvType=Cons	5	advmod	_	Rus=смотреть
+5	көрбүтүм	көр	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	50	conj	_	SpaceAfter=No|Rus=видеть
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	үмүрүйбүт	үмүрүй	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	15	ccomp	_	Rus=суживаться
+8	соҕус	соҕус	PART	_	_	50	discourse	_	Rus=немного
+9	туруору	туруору	ADJ	_	_	13	amod	_	Rus=вертикально
+10	сүүстээх	сүүстээх	ADJ	_	_	13	amod	_	Rus=лоб
+11	эбит	эбит	PART	_	_	50	discourse	_	SpaceAfter=No|Rus=оказывается
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	баттаҕа	баттах	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	15	nsubj	_	SpaceAfter=No|Rus=волосы
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	туртайан	туртай	VERB	v|tv	VerbForm=Conv|ConvType=Cons	16	advmod	_	Rus=стать
+16	баран	баран	VERB	v|iv	Case=Nom	50	conj	_	SpaceAfter=No|Rus=уйти
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	тыымпы	тыымпы	NOUN	_	Case=Nom	19	nmod	_	Rus=тихий
+19	күөлүм	күөл	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	20	nsubj	_	Rus=озеро
+20	хагдарыйбыт	хагдарый	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	21	acl	_	Rus=становиться
+21	хамыһын	хамыс	NOUN	_	Case=Acc	25	obj	_	Rus=камыш
+22	дьүһүнүн	дьүһүн	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	25	obl	_	Rus=цвет
+23	курдук	курдук	ADP	_	_	22	case	_	SpaceAfter=No|Rus=как
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	саһаран	саһар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	26	advmod	_	Rus=становиться
+26	эрэр	эр	AUX	_	Tense=Pres	25	aux	_	SpaceAfter=No|Rus=быть
+27	,	,	PUNCT	_	_	26	punct	_	_
+28	уһун	уһун	NOUN	_	Case=Nom	30	nsubj	_	Rus=значительный_в_длину
+29	соҕус	соҕус	PART	_	_	50	discourse	_	Rus=немного
+30	субуруйбут	субуруй	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	33	acl	_	Rus=тянуться
+31	муруннааҕа	муруннаах	ADJ	_	_	33	amod	_	SpaceAfter=No|Rus=носатый
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	боруоска	боруоска	NOUN	_	Case=Nom	34	nmod	_	Rus=понюшка
+34	табаах	табаах	NOUN	_	Case=Nom	35	nsubj	_	Rus=табак
+35	симиллэн	сим	VERB	v|tv	VerbForm=Conv|ConvType=Cons|Voice=Pass	39	advmod	_	SpaceAfter=No|Rus=набивать
+36	,	,	PUNCT	_	_	35	punct	_	_
+37	бочугунас	бочугунас	ADJ	_	_	42	amod	_	Rus=сопящий
+38	тыастаах	тыастаах	ADJ	_	_	42	amod	_	Rus=звучный
+39	буолбут	буол	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	42	acl	_	SpaceAfter=No|Rus=быть
+40	,	,	PUNCT	_	_	39	punct	_	_
+41	ымайбыт	ымай	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	42	acl	_	Rus=улыбающийся
+42	уоһун	уос	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	50	obj	_	Rus=губы
+43	иһигэр	иһигэр	ADP	_	_	42	case	_	Rus=внутри
+44	аҕыйах	аҕыйах	ADJ	_	_	48	amod	_	Rus=несколько
+45	аҕай	аҕай	ADV	_	_	50	advmod	_	Rus=же
+46	тиистээх	тиистээх	ADJ	_	_	48	amod	_	SpaceAfter=No|Rus=зубастый
+47	,	,	PUNCT	_	_	46	punct	_	_
+48	сэҥийэтигэр	сэҥийэ	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	50	obl	_	Rus=на_подбородке
+49	cи	си	ADV	_	_	50	advmod	_	Rus=вместо_того_чтобы
+50	буолуохтааҕар	буол	VERB	v|iv	Case=Cmp|Tense=Fut	0	root	_	Rus=быть
+51	сэбирийбит	сэбирий	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	50	ccomp	_	Rus=изношенный
+52	бытыктаах	бытыктаах	ADJ	_	_	50	conj	_	Rus=бородатый
+53	эбит	эбит	PART	_	_	50	discourse	_	SpaceAfter=No|Rus=оказывается
+54	.	.	PUNCT	_	_	53	punct	_	_
+
+# sent_id = fisher_047
+# sah = Сырайа буоллаҕына, күн уота сиэн, тыал быһыта сынньан, кэриэрэн, дьэс алтанын курдук, саһаран хаалбыт.
+# rus = Выдубленное студеными ветрами, сожженное солнцем, оно цвета красной меди.
+# anno = yes
+1	Сырайа	Сырай	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	10	nsubj	_	Rus=лицо
+2	буоллаҕына	буоллаҕына	VERB	_	ConvType=Cond|VerbForm=Conv	4	cc	_	SpaceAfter=No|Rus=если
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	күн	күн	NOUN	_	Case=Nom	1	conj	_	Rus=солнце
+5	уота	уот	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	6	nmod	_	Rus=огонь
+6	сиэн	сиэн	NOUN	_	Case=Nom	8	nmod	_	SpaceAfter=No|Rus=поев
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	тыал	тыал	NOUN	_	Case=Nom	10	nsubj	_	Rus=ветер
+9	быһыта	быһыта	ADV	_	_	10	advmod	_	Rus=обветривая
+10	сынньан	сынньан	VERB	v|iv	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No|Rus=иссушая
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	кэриэрэн	кэриэр	VERB	v|iv	VerbForm=Conv|ConvType=Cons	18	advcl	_	SpaceAfter=No|Rus=обгорать
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	дьэс	дьэс	NOUN	_	Case=Nom	15	nmod	_	Rus=красная_медь
+15	алтанын	алтан	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	18	obl	_	Rus=медь
+16	курдук	курдук	ADP	_	_	15	case	_	SpaceAfter=No|Rus=как
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	саһаран	саһар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	19	advmod	_	Rus=становиться
+19	хаалбыт	хаал	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	10	ccomp	_	SpaceAfter=No|Rus=оставаться
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = fisher_048
+# sah = Тугуттан даҕаны хараҕа ыраас, сытыы эбит.
+# rus = А вот глаза у старичины ясные по-ястребиному зоркие.
+# anno = yes-yes
+1	Тугуттан	Тугут	NOUN	_	Case=Abl	4	obl	_	Rus=оленёнок_до_года
+2	даҕаны	даҕаны	PART	_	_	1	advmod	_	Rus=даже
+3	хараҕа	харах	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	Rus=глаз
+4	ыраас	ыраас	ADJ	_	_	0	root	_	SpaceAfter=No|Rus=ясный
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	сытыы	сытыы	ADJ	_	_	4	conj	_	Rus=острый
+7	эбит	эбит	PART	_	_	4	discourse	_	SpaceAfter=No|Rus=оказывается
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fisher_049
+# sah = Кэпсэттэҕинэ, киһи cыpайын утары көрбөт идэлээх кырдьаҕас.
+# rus = Странная все-таки у него привычка — во время разговора не смотрит в лицо собеседнику, а блуждает взглядом по сторонам.
+# anno = yes-yes
+1	Кэпсэттэҕинэ	кэпсэт	VERB	v|iv	Mood=Cnd|Number=Sing|Person=3	6	advcl	_	SpaceAfter=No|Rus=при_разговоре
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	киһи	киһи	NOUN	_	Case=Nom	4	nmod	_	Rus=человек
+4	cыpайын	сырай	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	6	obj	_	Rus=лицо
+5	утары	утары	ADV	_	_	6	advmod	_	Rus=прямо
+6	көрбөт	көр	VERB	v|tv	Polarity=Neg|Tense=Pres|VerbForm=Part	7	csubj	_	Rus=не_смотреть
+7	идэлээх	идэлээх	ADJ	_	_	0	root	_	Rus=имеющий_обыкновение
+8	кырдьаҕас	кырдьаҕас	NOUN	_	Case=Nom	7	nsubj	_	SpaceAfter=No|Rus=старик
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = fisher_050
+# sah = Ол-бу диэки элээр-мэлээр көрө олорор үгэстээх киһи эбит.
+# rus = Странная все-таки у него привычка — во время разговора не смотрит в лицо собеседнику, а блуждает взглядом по сторонам.
+# anno = yes-yes
+1-2	Ол-бу	Ол-бу	PRON	_	PronType=Dem	_	_	_	Rus=всякая_всячина
+1	Ол	ол	PRON	_	PronType=Dem	6	obl	_	Rus=тот
+2	бу	бу	PRON	_	PronType=Dem	1	conj	_	Rus=этот
+3	диэки	диэки	ADP	_	_	1	case	_	Rus=к
+4-5	элээр-мэлээр	элээр-мэлээр	ADV	_	_	_	_	_	Rus=недоумённо
+4	элээр	элээр	ADV	_	_	6	advmod	_	Rus=недоумённо
+5	мэлээр	мэлээр	ADV	_	_	4	conj	_	Rus=недоумённо
+6	көрө	көр	VERB	v|tv	VerbForm=Conv|ConvType=Sim	7	advcl	_	Rus=смотря
+7	олорор	олор	VERB	v|iv	Tense=Pres|VerbForm=Part	8	ccomp	_	Rus=сидеть
+8	үгэстээх	үгэстээх	ADJ	_	_	0	root	_	Rus=имеющий_привычку
+9	киһи	киһи	NOUN	_	Case=Nom	8	nsubj	_	Rus=человек
+10	эбит	эбит	PART	_	_	8	discourse	_	SpaceAfter=No|Rus=оказывается
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = fisher_051
+# sah = — Тукаам, балык буһардахпына, сиэҥ этэ дуо? — диэтэ балыксыт, чаанньыгын көлөтүгэр иилэ туран.
+# rus = — Сварить карасей — отведаешь, дитятко? — спросил рыбак, подвешивая чайник на крюке над костром.
+# anno = yes-yes
+1	—	—	PUNCT	_	_	7	punct	_	_
+2	Тукаам	тукаам	NOUN	_	Case=Nom	7	vocative	_	SpaceAfter=No|Rus=дитятко
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	балык	балык	NOUN	_	Case=Nom	5	obj	_	Rus=рыба
+5	буһардахпына	буһар	VERB	v|tv	Mood=Cnd|Number=Sing|Person=1	7	advcl	_	SpaceAfter=No|Rus=если_сварю
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	сиэҥ	сиэ	VERB	v|tv	Mood=Ind|Number=Sing|Person=2|Tense=Fut	12	ccomp	_	Rus=поешь
+8	этэ	э	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|PastType=Recent	7	aux	_	_
+9	дуо	дуо	PART	_	_	7	advmod	_	SpaceAfter=No|Rus=ли
+10	?	?	PUNCT	_	_	7	punct	_	_
+11	—	—	PUNCT	_	_	12	punct	_	_
+12	диэтэ	диэ	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	Rus=сказать
+13	балыксыт	балыксыт	NOUN	_	Case=Nom	12	nsubj	_	SpaceAfter=No|Rus=рыбак
+14	,	,	PUNCT	_	_	12	punct	_	_
+15	чаанньыгын	чаанньык	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	17	obj	_	Rus=чайник
+16	көлөтүгэр	көлөт	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	17	obl	_	Rus=на_крюк
+17	иилэ	иил	VERB	v|tv	VerbForm=Conv|ConvType=Sim	12	advcl	_	Rus=подвешивая
+18	туран	тур	AUX	_	VerbForm=Conv|ConvType=Cons	17	aux	_	SpaceAfter=No|Rus=стоя
+19	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = fisher_052
+# sah = — Сиирим кэмнээх буолуо дуо?
+# rus = — С удовольствием!
+# anno = yes-yes
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	Сиирим	сиэ	VERB	v|tv	Case=Nom|Number[psor]=Sing|Person[psor]=1|Tense=Pres|VerbForm=Part	3	csubj	_	Rus=поем
+3	кэмнээх	кэмнээх	ADJ	_	_	0	root	_	Rus=время
+4	буолуо	буол	AUX	_	Mood=Ind|Tense=Fut|Number=Sing|Person=3	3	cop	_	Rus=быть
+5	дуо	дуо	PART	_	_	3	advmod	_	SpaceAfter=No|Rus=ли
+6	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = fisher_053
+# sah = Чэ эрэ, хата, үчүгэй аҕайдык бөдөҥ собоҕуттан буһаран көр.
+# rus = Вари, пожалуйста, покрупнее да побольше.
+# anno = yes
+1	Чэ	Чэ	ADV	_	_	10	advmod	_	Rus=ну
+2	эрэ	эрэ	PART	_	_	10	discourse	_	SpaceAfter=No|Rus=только
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	хата	хата	ADV	_	_	10	advmod	_	SpaceAfter=No|Rus=лучше
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	үчүгэй	үчүгэй	ADJ	_	_	9	amod	_	Rus=хороший
+7	аҕайдык	аҕайдык	PART	_	_	10	discourse	_	Rus=аҕайдык
+8	бөдөҥ	бөдөҥ	ADJ	_	_	9	amod	_	Rus=крупный
+9	собоҕуттан	собо	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=2	10	obl	_	Rus=карась
+10	буһаран	буһар	VERB	v|tv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=варить
+11	көр	көр	NOUN	_	Case=Nom	10	nsubj	_	SpaceAfter=No|Rus=видеть
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = fisher_054
+# sah = — Һэ-һэ, бөдөҥ собо диэн кэлээхтиэ дуо, быйыл балык мөлтөх быһыылаах.
+# rus = — Хэ-хэ, откуда быть крупному карасю-то? Нынче рыбки маловато.
+# anno = yes-yes
+1	—	—	PUNCT	_	_	7	punct	_	_
+2	Һэ-һэ	Һэ-һэ	INTJ	_	_	7	discourse	_	SpaceAfter=No|Rus=хе-хе
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	бөдөҥ	бөдөҥ	ADJ	_	_	5	amod	_	Rus=крупный
+5	собо	собо	NOUN	_	Case=Nom	7	nsubj	_	Rus=карась
+6	диэн	диэн	ADP	_	_	5	case	_	Rus=что
+7	кэлээхтиэ	кэл	VERB	v|iv	VerbForm=Fin|Mood=Ind|Tense=Fut|Person=3|Number=Sing|Evident=Nfh	0	root	_	Rus=кэлээхтиэ
+8	дуо	дуо	PART	_	_	7	advmod	_	SpaceAfter=No|Rus=ли
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	быйыл	быйыл	ADV	_	_	12	advmod	_	Rus=нынче
+11	балык	балык	NOUN	_	Case=Nom	12	nsubj	_	Rus=рыба
+12	мөлтөх	мөлтөх	ADJ	_	_	7	parataxis	_	Rus=мало
+13	быһыылаах	быһыылаах	PART	_	_	12	discourse	_	SpaceAfter=No|Rus=кажется
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = fisher_055
+# sah = Эбэ тоҕо эрэ санаата кэлбэтэх.
+# rus = "Матушка" что-то не в духе.
+# anno = yes-yes
+1	Эбэ	Эбэ	NOUN	_	Case=Nom	5	nsubj	_	Rus=матушка
+2	тоҕо	тоҕо	ADV	_	_	5	advmod	_	Rus=почему
+3	эрэ	эрэ	PART	_	_	2	fixed	_	Rus=только
+4	санаата	санаа	NOUN	_	Case=Par	5	obl	_	Rus=настроение
+5	кэлбэтэх	кэл	VERB	v|iv	Case=Nom|Evident=Nfh|Polarity=Neg|Tense=Past|PastType=Perfect|VerbForm=Part	0	root	_	SpaceAfter=No|Rus=приходить
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = fisher_056
+# sah = — Кырдьаҕас, бу эбэҕэр бултуур буолтуҥ хас сыл буолла?
+# rus = — Старина, сколько уже лет рыбачишь здесь, на "матушке"?
+# anno = yes-yes
+1	—	—	PUNCT	_	_	10	punct	_	_
+2	Кырдьаҕас	кырдьаҕас	ADJ	_	_	10	vocative	_	SpaceAfter=No|Rus=старина
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	бу	бу	DET	_	PronType=Dem	5	det	_	Rus=этот
+5	эбэҕэр	эбэ	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=2	6	obl	_	Rus=матушка
+6	бултуур	бултаа	VERB	v|iv	Tense=Pres|VerbForm=Part	10	advcl	_	Rus=рыбачить
+7	буолтуҥ	буол	AUX	_	Evident=Nfh|Number=Sing|Person=2|Tense=Past|PastType=Perfect	6	aux	_	Rus=быть
+8	хас	хас	DET	_	PronType=Int	9	det	_	Rus=сколько
+9	сыл	сыл	NOUN	_	Case=Nom	10	nsubj	_	Rus=год
+10	буолла	буол	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=быть
+11	?	?	PUNCT	_	_	10	punct	_	_
+
+# sent_id = fisher_057
+# sah = — Һэ-һэ!
+# rus = — Хэ-хэ!
+# anno = yes-yes
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	Һэ-һэ	Һэ-һэ	INTJ	_	_	0	root	_	SpaceAfter=No|Rus=хе-хе
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = fisher_058
+# sah = Дьэ, тугун өйдүөм буоллаҕай.
+# rus = — Хэ-хэ, исстари!
+# anno = yes-yes
+1	Дьэ	Дьэ	PART	_	_	4	discourse	_	SpaceAfter=No|Rus=ну
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	тугун	туох	PRON	_	PronType=Int|Case=Acc|Number[psor]=Sing|Person[psor]=3	4	obj	_	_
+4	өйдүөм	өйдөө	VERB	v|tv	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	Rus=помнить
+5	буоллаҕай	буоллаҕа	PART	_	Ques=Yes	4	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fisher_059
+# sah = Киһини билэр буолуохпуттан ыла бу күөл кытыытыгар баарбын билэбин.
+# rus = С тех пор, как стал распознавать людей, помню себя — все барахтаюсь на этом вот берегу. Считай, сызмала.
+# anno = yes-yes
+1	Киһини	Киһи	NOUN	_	Case=Acc	2	obj	_	Rus=человек
+2	билэр	бил	VERB	v|tv	Tense=Pres	3	xcomp	_	Rus=знать
+3	буолуохпуттан	буол	VERB	v|iv	Case=Abl|Number[psor]=Sing|Person[psor]=1|Tense=Fut	4	advcl	_	Rus=быть
+4	ыла	ыл	VERB	_	VerbForm=Conv|ConvType=Sim	9	advcl	_	Rus=брать
+5	бу	бу	DET	_	PronType=Dem	6	det	_	Rus=этот
+6	күөл	күөл	NOUN	_	Case=Nom	7	nmod	_	Rus=озеро
+7	кытыытыгар	кытыы	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	8	obl	_	Rus=берег
+8	баарбын	баар	VERB	_	Case=Acc|Number[psor]=Sing|Person[psor]=1	9	ccomp	_	Rus=быть
+9	билэбин	бил	VERB	_	CMood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No|Rus=по
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_060
+# sah = Дьэ, ырааппыта буолуо эбээ, тугун билиэм буоллаҕай, кырдьан, түөс-маас буолбут киһи, һэ-һэ!
+# rus = Лет-то, поди, многонько миновало. А сколько точно, откуда мне знать, одряхлевшему, выжившему из ума человечинку, хэ-хэ...
+# anno = yes-yes
+1	Дьэ	Дьэ	PART	_	_	3	discourse	_	SpaceAfter=No|Rus=ну
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	ырааппыта	ыраат	VERB	v|iv	Case=Nom|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	0	root	_	Rus=быть_в_прошлом
+4	буолуо	буолуо	VERB	v|iv	Mood=Ind|Tense=Fut|Number=Sing|Person=3	3	discourse	_	Rus=быть
+5	эбээ	эбээ	PART	_	_	3	discourse	_	SpaceAfter=No|Rus=наверное
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	тугун	туох	PRON	_	Case=Acc|PronType=Int	8	obj	_	Rus=тугун
+8	билиэм	бил	VERB	v|tv	Case=Nom|Number[psor]=Sing|Person[psor]=1|Tense=Fut	3	parataxis	_	Rus=знать
+9	буоллаҕай	буоллаҕа	PART	_	Ques=Yes	8	discourse	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	кырдьан	кырдь	VERB	v|iv	VerbForm=Conv|ConvType=Cons	8	advcl	_	SpaceAfter=No|Rus=состарившись
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	түөс-маас	түөс-маас	ADJ	_	_	8	parataxis	_	Rus=дряхлый
+14	буолбут	буол	AUX	_	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	13	cop	_	Rus=быть
+15	киһи	киһи	NOUN	_	Case=Nom	13	nsubj	_	SpaceAfter=No|Rus=человек
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	һэ-һэ	һэ-һэ	INTJ	_	_	13	discourse	_	SpaceAfter=No|Rus=хе-хе
+18	!	!	PUNCT	_	_	17	punct	_	_
+
+# sent_id = fisher_061
+# sah = — Оттон бу эбэ кытыытын арахпакка буулаабытыҥ хас сыл буолла?
+# rus = — Ну, а может, помнишь, сколько лет подряд рыбачишь здесь, не отрываясь от берега своей "матушки"?
+# anno = yes-yes
+1	—	—	PUNCT	_	_	10	punct	_	_
+2	Оттон	Оттон	CCONJ	_	_	10	cc	_	Rus=а
+3	бу	бу	DET	_	PronType=Dem	4	det	_	Rus=этот
+4	эбэ	эбэ	NOUN	_	Case=Nom	5	nmod	_	Rus=матушка
+5	кытыытын	кытыы	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	6	obj	_	Rus=берег
+6	арахпакка	арах	VERB	v|iv	Polarity=Neg|VerbForm=Conv|ConvType=Sim	7	advcl	_	Rus=отрываться
+7	буулаабытыҥ	буулаа	VERB	v|iv	Evident=Nfh|Number=Sing|Person=2|Tense=Past|PastType=Perfect	10	csubj	_	Rus=рыбачишь
+8	хас	хас	DET	_	PronType=Int	9	det	_	Rus=сколько
+9	сыл	сыл	NOUN	_	Case=Nom	10	obl	_	Rus=год
+10	буолла	буол	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=быть
+11	?	?	PUNCT	_	_	10	punct	_	_
+
+# sent_id = fisher_062
+# sah = — Уон төгүрүк сыл буолла.
+# rus = — Лет, пожалуй, десять будет.
+# anno = yes-yes
+1	—	—	PUNCT	_	_	5	punct	_	_
+2	Уон	Уон	NUM	_	NumType=Card	4	nummod	_	Rus=десять
+3	төгүрүк	төгүрүк	ADJ	_	_	4	amod	_	Rus=круглый
+4	сыл	сыл	NOUN	_	Case=Nom	5	nsubj	_	Rus=год
+5	буолла	буол	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=быть
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = fisher_063
+# sah = Эмээхсиним өлбүтүн тухары бу дойдуну булбутум.
+# rus = Как не стало моей старухи, я подался сюда и вот живу.
+# anno = yes-yes
+1	Эмээхсиним	Эмээхсин	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Rus=старуха
+2	өлбүтүн	өлбүт	VERB	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	6	advcl	_	Rus=смерть
+3	тухары	тухары	SCONJ	_	_	2	mark	_	Rus=всё_время
+4	бу	бу	DET	_	PronType=Dem	5	det	_	Rus=этот
+5	дойдуну	дойду	NOUN	_	Case=Acc	6	obj	_	Rus=место
+6	булбутум	бул	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	0	root	_	SpaceAfter=No|Rus=нашёл
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = fisher_064
+# sah = Үлэни кыайбат буолтум тухары наар булду батыспытым.
+# rus = Я к тому времени уже немощен стал, с домашней работой не мог справляться. С той поры за рыбкой и гоняюсь.
+# anno = yes-yes
+1	Үлэни	үлэ	NOUN	_	Case=Acc	2	obj	_	Rus=работа
+2	кыайбат	кыай	VERB	v|tv	Polarity=Neg|Tense=Pres	7	advcl	_	Rus=не_мочь
+3	буолтум	буол	AUX	_	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	2	aux	_	Rus=стать
+4	тухары	тухары	SCONJ	_	_	2	mark	_	Rus=с_тех_пор_как
+5	наар	наар	ADV	_	_	7	advmod	_	Rus=только
+6	булду	булт	NOUN	_	Case=Acc	7	obj	_	Rus=добыча
+7	батыспытым	батыс	VERB	v|iv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	0	root	_	SpaceAfter=No|Rus=гоняться
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = fisher_065
+# sah = Ол гынан баран, кырдьар диэн кырыыс мyҥa эбит — бултуурбун даҕаны кыайбат буоллум, тукаам.
+# rus = Ох-хо-хо! Старость, оказывается, — проклятая мука, мне теперь и рыбачить-то невмоготу.
+# anno = yes
+1	Ол	Ол гынан баран	PART	_	_	14	discourse	_	Rus=однако
+2	гынан	Ол гынан баран	PART	_	_	14	discourse	_	Rus=однако
+3	баран	Ол гынан баран	PART	_	_	14	discourse	_	SpaceAfter=No|Rus=однако
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	кырдьар	кырдь	VERB	v|iv	Tense=Pres	14	conj	_	Rus=старость
+6	диэн	диэн	ADP	_	_	14	case	_	Rus=что
+7	кырыыс	кырыыс	NOUN	_	Case=Nom	8	nmod	_	Rus=проклятый
+8	мyҥa	муҥ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	Rus=мука
+9	эбит	эбит	PART	_	_	14	discourse	_	Rus=оказывается
+10	—	—	PUNCT	_	_	9	punct	_	_
+11	бултуурбун	бултаа	VERB	v|tv	Case=Acc|Number[psor]=Sing|Person[psor]=1	14	conj	_	Rus=добывать
+12	даҕаны	даҕаны	CCONJ	_	_	13	cc	_	Rus=даже
+13	кыайбат	кыай	VERB	v|tv	Polarity=Neg|Tense=Pres	14	conj	_	Rus=не_мочь
+14	буоллум	буол	VERB	v|iv	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=быть
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	тукаам	тукаам	NOUN	_	Case=Nom	14	nsubj	_	SpaceAfter=No|Rus=дитятко
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = fisher_066
+# sah = Сытыахтааҕар эрэ хороҥноон сылдьабын.
+# rus = Еле ноги волочу, лишь бы лежмя не лежать.
+# anno = yes-yes
+1	Сытыахтааҕар	Сыт	VERB	v|iv	Case=Cmp|Tense=Fut|VerbForm=Part	4	advcl	_	Rus=лежать
+2	эрэ	эрэ	PART	_	_	1	advmod	_	Rus=только
+3	хороҥноон	хороҥноо	VERB	v|iv	VerbForm=Conv|ConvType=Cons	4	advcl	_	Rus=волочусь
+4	сылдьабын	сырыт	VERB	v|iv	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No|Rus=ходить
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fisher_067
+# sah = Дьиэ тэрилтэтигэр туһата суох буолбут киһибин.
+# rus = Я к тому времени уже немощен стал, с домашней работой не мог справляться.
+# anno = yes-yes
+1	Дьиэ	дьиэ	NOUN	_	Case=Nom	2	nmod	_	Rus=дом
+2	тэрилтэтигэр	тэрилтэ	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	4	obl	_	Rus=хозяйстве
+3	туһата	туһа	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	4	obl	_	Rus=польза
+4	суох	суох	ADJ	_	_	6	acl	_	Rus=нет
+5	буолбут	буол	AUX	v|iv	Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	4	cop	_	Rus=быть
+6	киһибин	киһи	NOUN	_	Number=Sing|Person=1	0	root	_	SpaceAfter=No|Rus=человек
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = fisher_068
+# sah = Ити икки ардыгар оҕонньор, балыгын хатырыктаан, уотугар буһаран кэбистэ.
+# rus = Между тем старик уже счистил с карасей чешую и поставил варить, затем не спеша набил табаком трубку-носотрейку.
+# anno = yes
+1	Ити	ити	DET	_	PronType=Dem	3	det	_	Rus=этот
+2	икки	икки	NUM	_	NumType=Card	3	nummod	_	Rus=два
+3	ардыгар	арда	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	10	obl	_	Rus=между
+4	оҕонньор	оҕонньор	NOUN	_	Case=Nom	6	nmod	_	SpaceAfter=No|Rus=старик
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	балыгын	балык	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	7	obj	_	Rus=рыба
+7	хатырыктаан	хатырыктаа	VERB	v|tv	VerbForm=Conv|ConvType=Cons	10	advcl	_	SpaceAfter=No|Rus=обдирать
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	уотугар	уот	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	10	obl	_	Rus=огонь
+10	буһаран	буһар	VERB	v|tv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=варить
+11	кэбистэ	кэбис	AUX	_	Number=Sing|Person=3|Tense=Past|PastType=Recent	10	aux	_	SpaceAfter=No|Rus=завершить
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = fisher_069
+# sah = Ол кэнниттэн мутук обоччоҕо табаах ууран тарта, табааҕын буруотун айаҕын иһиттэн хотон таһаарбат табаахсыт буолла.
+# rus = Между тем старик уже счистил с карасей чешую и поставил варить, затем не спеша набил табаком трубку-носотрейку. Заядлый он, как вижу, курильщик: дыма почти не выпускает изо рта.
+# anno = yes
+1	Ол	ол	PRON	_	PronType=Dem	16	obl	_	Rus=тот
+2	кэнниттэн	кэнниттэн	ADP	_	_	1	case	_	Rus=после_этого
+3	мутук	мутук	NOUN	_	Case=Nom	4	nmod	_	Rus=сучок
+4	обоччоҕо	обоччо	NOUN	_	Case=Dat	6	obl	_	Rus=трубка
+5	табаах	табаах	NOUN	_	Case=Nom	6	nsubj	_	Rus=табак
+6	ууран	уур	VERB	v|tv	VerbForm=Conv|ConvType=Cons	7	advcl	_	Rus=набив
+7	тарта	тарт	VERB	v|tv	VerbForm=Conv|ConvType=Sim	14	advcl	_	SpaceAfter=No|Rus=курит
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	табааҕын	табаах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	14	obj	_	Rus=табак
+10	буруотун	буруо	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	14	obj	_	Rus=дым
+11	айаҕын	айа	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=2	14	obj	_	Rus=рот
+12	иһиттэн	иһиттэн	ADP	_	_	11	case	_	Rus=изнутри
+13	хотон	хотон	NOUN	_	Case=Nom	14	nsubj	_	Rus=наружу
+14	таһаарбат	таһаар	VERB	v|tv	Polarity=Neg|Tense=Pres	16	conj	_	Rus=не_выпускает
+15	табаахсыт	табаахсыт	NOUN	_	Case=Nom	16	nsubj	_	Rus=курильщик
+16	буолла	буол	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=быть
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = fisher_070
+# sah = Ону-маны кэпсэтэ түһэн баран, мин өр соҕус саҥата суох өттүктүү түһэн сыттым.
+# rus = Наговорившись о том о сем, я прилег на бок и довольно долго молчал.
+# anno = yes
+1-2	Ону-маны	Ол-бу	PRON	_	Case=Acc|PronType=Dem	_	_	_	Rus=о_том_о_сем
+1	Ону	Ол	PRON	_	Case=Acc|PronType=Dem	3	obj	_	Rus=то
+2	маны	бу	PRON	_	Case=Acc|PronType=Dem	3	obj	_	Rus=это
+3	кэпсэтэ	кэпсэт	VERB	v|iv	VerbForm=Conv|ConvType=Sim	4	advmod	_	Rus=наговорившись
+4	түһэн	түс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	5	advcl	_	Rus=падать
+5	баран	баран	VERB	v|iv	Case=Nom	14	parataxis	_	SpaceAfter=No|Rus=уйти
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	Rus=я
+8	өр	өр	ADJ	_	_	10	amod	_	Rus=долго
+9	соҕус	соҕус	PART	_	_	14	discourse	_	Rus=немного
+10	саҥата	саҥа	NOUN	_	Case=Par	11	obl	_	Rus=голос
+11	суох	суох	ADJ	_	_	14	advmod	_	Rus=нет
+12	өттүктүү	өттүктүү	ADV	_	_	13	advmod	_	Rus=на_боку
+13	түһэн	түс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	14	advmod	_	Rus=падать
+14	сыттым	сыт	VERB	_	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=лёг
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = fisher_071
+# sah = Ол сытан иһиттэхпинэ, күөл уҥуоргу өттүгэр туох эрэ тиҥинэс тыас тыаһаата.
+# rus = И вот вдруг слышу: за озером возник какой-то непонятный гул.
+# anno = yes
+1	Ол	Ол	PART	_	_	12	discourse	_	Rus=тот
+2	сытан	сыт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	3	advcl	_	Rus=лежа
+3	иһиттэхпинэ	иһит	VERB	v|tv	Mood=Cnd|Number=Sing|Person=1	12	advcl	_	SpaceAfter=No|Rus=слышу
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	күөл	күөл	NOUN	_	Case=Nom	10	nsubj	_	Rus=озеро
+6	уҥуоргу	уҥуоргу	ADJ	_	_	8	amod	_	Rus=противоположный
+7	өттүгэр	өттүгэр	ADP	_	_	6	case	_	Rus=на_стороне
+8	туох	туох	PRON	_	PronType=Int	10	nsubj	_	Rus=что
+9	эрэ	эрэ	PART	_	_	8	fixed	_	Rus=только
+10	тиҥинэс	тиҥинэс	VERB	v|iv	Mood=Imp|Number=Sing|Person=2	12	conj	_	Rus=шуметь
+11	тыас	тыас	NOUN	_	Case=Nom	12	nsubj	_	Rus=звук
+12	тыаһаата	тыаһаа	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=загудел
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = fisher_072
+# sah = От-мас төбөтө эймэнэ түстэ, күүстээх халарык күөл уутун оттотунан хайа солоон, илин кытыыга курбачыйан таҕыста.
+# rus = Вершины деревьев взбудоражились, заколыхались. Вихрь неистовой силы рассек озерную гладь и, бешено клубясь, промчался к восточному — противоположному от нас — берегу.
+# anno = yes
+1	От-мас	От-мас	NOUN	_	Case=Nom	2	nmod	_	Rus=деревья
+2	төбөтө	төбөт	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Rus=голова
+3	эймэнэ	эймэн	VERB	v|iv	VerbForm=Conv|ConvType=Sim	12	advcl	_	Rus=заколыхались
+4	түстэ	түс	NOUN	_	Case=Par	12	obl	_	SpaceAfter=No|Rus=падать
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	күүстээх	күүстээх	ADJ	_	_	7	amod	_	Rus=здоровый
+7	халарык	халарык	NOUN	_	Case=Nom	8	nmod	_	Rus=вихрь
+8	күөл	күөл	NOUN	_	Case=Nom	9	nmod	_	Rus=озеро
+9	уутун	үүт	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	12	obj	_	Rus=слёзы
+10	оттотунан	орто	NOUN	_	Case=Ins|Number[psor]=Sing|Person[psor]=3	12	obl	_	Rus=посередине
+11	хайа	хайа	PART	_	_	17	discourse	_	Rus=как
+12	солоон	солоо	VERB	v|tv	VerbForm=Conv|ConvType=Cons	16	advmod	_	SpaceAfter=No|Rus=рассекая
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	илин	ил	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	16	obj	_	Rus=восточный
+15	кытыыга	кытыы	NOUN	_	Case=Dat	16	obl	_	Rus=берег
+16	курбачыйан	курбачый	VERB	v|iv	VerbForm=Conv|ConvType=Cons	17	advmod	_	Rus=клубясь
+17	таҕыста	таҕыс	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=выходить
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = fisher_073
+# sah = — Оо, бу дойдуга халарык эмиэ сылдьар буолар эбит дуу? — диэтим мин.
+# rus = — Ух ты! — удивился я и, дабы разговорить старика, заметил: — оказывается, вихри и в этих местах разгуливают.
+# anno = yes
+1	—	—	PUNCT	_	_	8	punct	_	_
+2	Оо	Оо	INTJ	_	_	8	discourse	_	SpaceAfter=No|Rus=ох
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	бу	бу	DET	_	PronType=Dem	5	det	_	Rus=этот
+5	дойдуга	дойду	NOUN	_	Case=Dat	8	obl	_	Rus=местность
+6	халарык	халарык	NOUN	_	Case=Nom	8	nsubj	_	Rus=вихрь
+7	эмиэ	эмиэ	ADV	_	_	8	advmod	_	Rus=ещё
+8	сылдьар	сырыт	VERB	v|iv	Tense=Pres	14	parataxis	_	Rus=ходить
+9	буолар	буол	AUX	_	Tense=Pres	8	aux	_	Rus=быть
+10	эбит	эбит	PART	_	_	8	discourse	_	Rus=оказывается
+11	дуу	дуу	PART	_	_	8	advmod	_	SpaceAfter=No|Rus=ли
+12	?	?	PUNCT	_	_	8	punct	_	_
+13	—	—	PUNCT	_	_	14	punct	_	_
+14	диэтим	диэ	VERB	v|tv	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	Rus=сказать
+15	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	SpaceAfter=No|Rus=я
+16	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = fisher_074
+# sah = — Һэ-һэ-һэ!
+# rus = — Хэ-хэ-хэ!
+# anno = yes-yes
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	Һэ-һэ-һэ	Һэ-һэ-һэ	INTJ	_	_	0	root	_	SpaceAfter=No|Rus=хе-хе-хе
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = fisher_075
+# sah = Бэккэ этэҕин, доҕор, оттон күөл иччитэ сылдьар буоллаҕа дии.
+# rus = Что и толковать: это ведь дух-хозяин озера пронесся.
+# anno = yes-yes
+1	Бэккэ	бэккэ	ADV	_	_	2	advmod	_	Rus=хорошо
+2	этэҕин	этэҕин	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	parataxis	_	SpaceAfter=No|Rus=говорить
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	доҕор	доҕор	NOUN	_	Case=Nom	2	vocative	_	SpaceAfter=No|Rus=друг
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	оттон	оттон	ADV	_	_	9	advmod	_	Rus=а
+7	күөл	күөл	NOUN	_	Case=Nom	8	nmod	_	Rus=озеро
+8	иччитэ	иччи	NOUN	_	Case=Par	9	nsubj	_	Rus=дух-хозяин
+9	сылдьар	сырыт	VERB	v|iv	Tense=Pres	0	root	_	Rus=ходить
+10	буоллаҕа	буоллаҕа	PART	v|iv	_	9	discourse	_	_
+11	дии	дии	PART	_	_	9	discourse	_	SpaceAfter=No|Rus=мол
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_076
+# sah = Күрүс-күрүс буола-буола, ити курдук, кэлэн aahap идэлээх.
+# rus = Нет-нет да и навестит вот так.
+# anno = yes
+1	Күрүс-күрүс	Күрүс-күрүс	ADV	_	_	8	advmod	_	Rus=время_от_времени
+2-3	буола-буола	буола-буола	NOUN	_	Case=Nom	_	_	_	SpaceAfter=No|Rus=время_от_времени
+2	буола	буола	NOUN	_	Case=Nom	3	nmod	_	Rus=бывая
+3	буола	буола	NOUN	_	Case=Nom	8	nsubj	_	SpaceAfter=No|Rus=бывая
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ити	ити	PRON	_	PronType=Dem	9	obl	_	Rus=этот
+6	курдук	курдук	ADP	_	_	5	case	_	SpaceAfter=No|Rus=так
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	кэлэн	кэл	VERB	v|iv	VerbForm=Conv|ConvType=Cons	9	advmod	_	Rus=приходить
+9	aahap	аас	VERB	v|iv	Tense=Pres	10	csubj	_	Rus=проходить
+10	идэлээх	идэлээх	ADJ	_	_	0	root	_	SpaceAfter=No|Rus=иметь_обыкновение
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = fisher_077
+# sah = — Маннык улахан эбэ иччилээх буолумуна.
+# rus = — Да, озеро большое — непременно должно иметь духа-охранителя.
+# anno = yes-yes
+1	—	—	PUNCT	_	_	5	punct	_	_
+2	Маннык	Маннык	ADV	_	_	3	advmod	_	Rus=такой
+3	улахан	улахан	ADJ	_	_	4	amod	_	Rus=большой
+4	эбэ	эбэ	NOUN	_	Case=Nom	5	nsubj	_	Rus=матушка
+5	иччилээх	иччилээх	ADJ	_	_	0	root	_	Rus=с_духом
+6	буолумуна	буолумуна	AUX	_	_	5	cop	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = fisher_078
+# sah = Эн, Былатыан кырдьаҕас, caahыҥ тухары эбэҥ кытыытыттан арахсыбатах киһи буоллаҕыҥ.
+# rus = Ты, старина, Платон, всю жизнь свою провел здесь, на берегу озера.
+# anno = yes
+1	Эн	Эн	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nmod	_	SpaceAfter=No|Rus=ты
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	Былатыан	Былатыан	PROPN	_	Case=Nom	10	nsubj	_	Rus=Платон
+4	кырдьаҕас	кырдьаҕас	ADJ	_	_	6	amod	_	SpaceAfter=No|Rus=старый
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	caahыҥ	саас	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=2	8	nmod	_	Rus=жизнь
+7	тухары	тухары	ADP	_	_	6	case	_	Rus=всё_время
+8	эбэҥ	эбэ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=2	9	nmod	_	Rus=матушка
+9	кытыытыттан	кытыы	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	10	obl	_	Rus=берег
+10	арахсыбатах	арахыс	VERB	v|iv	Evident=Nfh|Polarity=Neg|Tense=Past|PastType=Perfect|VerbForm=Part	11	acl	_	Rus=отрываться
+11	киһи	киһи	NOUN	_	Case=Nom	12	nsubj	_	Rus=человек
+12	буоллаҕыҥ	буол	VERB	v|iv	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No|Rus=быть
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = fisher_079
+# sah = Биирдэ эмэтэ кини киһини харахтыырыҥ дуо?
+# rus = Ты посмотрел хоть раз своими глазами его самого, духа-то?
+# anno = yes-yes
+1	Биирдэ	Биирдэ	ADV	_	_	5	advmod	_	Rus=один_раз
+2	эмэтэ	эмэтэ	PART	_	_	1	fixed	_	Rus=иногда
+3	кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Rus=он
+4	киһини	киһи	NOUN	_	Case=Acc	5	obj	_	Rus=человек
+5	харахтыырыҥ	харахтаа	VERB	v|tv	Mood=Imp|Person=2|Number=Plur|Tense=Fut	0	root	_	Rus=видел
+6	дуо	дуо	PART	_	_	5	advmod	_	SpaceAfter=No|Rus=ли
+7	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = fisher_080
+# sah = Балыксыт, өр соҕус саҥата суох сөҥөн олорон баран, эттэ:  — Көрүмүнэ, сорох икки эрдигэр, син түүл-бит курдук, биллэн aahap.
+# rus = Рыбак застыл в угрюмой задумчивости и наконец ответил: — Как же, доводилось. Правда, чаще всего — как во сне иль в бреду.
+# anno = yes
+1	Балыксыт	Балыксыт	NOUN	_	Case=Nom	11	nsubj	_	SpaceAfter=No|Rus=рыбак
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	өр	өр	ADJ	_	_	5	amod	_	Rus=долго
+4	соҕус	соҕус	PART	_	_	3	advmod	_	Rus=немного
+5	саҥата	саҥа	NOUN	_	Case=Par	6	obl	_	Rus=голос
+6	суох	суох	ADJ	_	_	7	advmod	_	Rus=нет
+7	сөҥөн	сөҥ	VERB	v|iv	VerbForm=Conv|ConvType=Cons	8	advmod	_	Rus=задумавшись
+8	олорон	олор	VERB	v|iv	VerbForm=Conv|ConvType=Cons	9	advcl	_	Rus=сидеть
+9	баран	баран	VERB	v|iv	Case=Nom	11	advcl	_	SpaceAfter=No|Rus=уйти
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	эттэ	эт	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=сказал
+12	:	:	PUNCT	_	_	11	punct	_	_
+13	—	—	PUNCT	_	_	11	punct	_	_
+14	Көрүмүнэ	Көр	VERB	v|tv	VerbForm=Conv|ConvType=Cons|Polarity=Neg	24	advcl	_	SpaceAfter=No|Rus=доводилось
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	сорох	сорох	PRON	_	PronType=Ind	18	nmod	_	Rus=некоторые
+17	икки	икки	NUM	_	NumType=Card	18	nummod	_	Rus=два
+18	эрдигэр	эрд	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	24	obl	_	SpaceAfter=No|Rus=эрдигэр
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	син	син	ADV	_	_	24	advmod	_	Rus=всё_же
+21	түүл-бит	түүл-бит	NOUN	_	Case=Nom	24	nsubj	_	Rus=сон
+22	курдук	курдук	ADP	_	_	21	case	_	SpaceAfter=No|Rus=как
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	биллэн	билин	VERB	v|iv	VerbForm=Conv|ConvType=Cons	25	advmod	_	Rus=случаться
+25	aahap	аас	VERB	v|iv	Tense=Pres	11	parataxis	_	SpaceAfter=No|Rus=проходить
+26	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = fisher_081
+# sah = Биирдэ илэ харахпынан көрбүтүм буолан баран, бүдүүлээн, субу курдук дьүһүннээх диэн быһааран билбэтэҕим, кини буоллаҕа диэн сэрэйэ эрэ санаабытым.
+# rus = А так, видеть наяву случалось только раз, и то не смог точно заприметить, какой он собой.
+# anno = yes-yes
+1	Биирдэ	биирдэ	ADV	_	_	4	advmod	_	Rus=один_раз
+2	илэ	илэ	ADV	_	_	4	advmod	_	Rus=наяву
+3	харахпынан	харах	NOUN	_	Case=Ins|Number[psor]=Sing|Person[psor]=1	4	obl	_	Rus=глазами
+4	көрбүтүм	көр	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	15	advcl	_	Rus=видеть
+5	буолан	буол	VERB	_	ConvType=Cons|VerbForm=Conv	4	advmod	_	Rus=будучи
+6	баран	бар	PART	_	_	5	fixed	_	SpaceAfter=No|Rus=однако
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	бүдүүлээн	бүдүүлээ	VERB	v|iv	VerbForm=Conv|ConvType=Cons	14	advmod	_	SpaceAfter=No|Rus=смутно
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	субу	субу	PRON	_	PronType=Dem	12	obl	_	Rus=вот
+11	курдук	курдук	ADP	_	_	10	case	_	Rus=как
+12	дьүһүннээх	дьүһүннээх	ADJ	_	_	14	ccomp	_	Rus=имеющий_вид
+13	диэн	диэн	SCONJ	_	_	12	mark	_	Rus=что
+14	быһааран	быһаар	VERB	v|tv	VerbForm=Conv|ConvType=Cons	15	advmod	_	Rus=определить
+15	билбэтэҕим	бил	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Polarity=Neg|Tense=Past|PastType=Perfect	0	root	_	SpaceAfter=No|Rus=знать
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	Rus=он
+18	буоллаҕа	буол	VERB	v|iv	Mood=Ind|Number=Sing|Person=3|Tense=Fut	20	ccomp	_	Rus=быть
+19	диэн	диэн	SCONJ	_	_	18	mark	_	Rus=что
+20	сэрэйэ	сэрэй	VERB	v|tv	VerbForm=Conv|ConvType=Sim	22	advmod	_	Rus=предчувствовать
+21	эрэ	эрэ	PART	_	_	20	advmod	_	Rus=только
+22	санаабытым	санаа	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	15	conj	_	SpaceAfter=No|Rus=думать
+23	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = fisher_082
+# sah = Ити кэнниттэн оҕонньор, хап-сабар ойон туран, солууччахтаах балыгын булкуйа охсон биэрдэ.
+# rus = Тут старик, спохватившись, вскочил и принялся помешивать уху в котелке.
+# anno = yes-yes
+1	Ити	ити	PRON	_	PronType=Dem	12	obl	_	Rus=этот
+2	кэнниттэн	кэнниттэн	ADP	_	_	1	case	_	Rus=после_этого
+3	оҕонньор	оҕонньор	NOUN	_	Case=Nom	12	nsubj	_	SpaceAfter=No|Rus=старик
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	хап-сабар	хап-сабар	ADV	_	_	6	advmod	_	Rus=вдруг
+6	ойон	ой	VERB	v|iv	VerbForm=Conv|ConvType=Cons	11	advcl	_	Rus=вскочив
+7	туран	тур	AUX	_	VerbForm=Conv|ConvType=Cons	6	aux	_	SpaceAfter=No|Rus=стоять
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	солууччахтаах	солууччахтаах	ADJ	_	_	10	amod	_	Rus=с_котелком
+10	балыгын	балык	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	11	obj	_	Rus=рыба
+11	булкуйа	булкуй	VERB	v|tv	VerbForm=Conv|ConvType=Sim	12	advcl	_	Rus=помешивая
+12	охсон	оҕус	VERB	v|tv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=начал
+13	биэрдэ	биэр	AUX	_	Number=Sing|Person=3|Tense=Past|PastType=Recent	12	aux	_	SpaceAfter=No|Rus=дать
+14	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = fisher_083
+# sah = — Биир киэһэ эбэм уҥуоргу өттүгэр тыылана сылдьан, хамыс быыһыгар хара ыт буолан тахсан олорорун көрбүтүм, — диэтэ оҕонньор, хат кэлэн, мин аттыбар олорон баран.
+# rus = — Как-то вечером плыл я на лодке мимо вон того берега, — прододжал Платон, снова присев возле меня, — а "он" черной собакой прикинулся и сидит в камышах.
+# anno = yes
+1	—	—	PUNCT	_	_	29	punct	_	_
+2	Биир	Биир	DET	_	PronType=Ind	3	det	_	Rus=один
+3	киэһэ	киэһэ	ADV	_	_	4	advmod	_	Rus=вечером
+4	эбэм	эбэ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	7	nsubj	_	Rus=матушка
+5	уҥуоргу	уҥуоргу	ADJ	_	_	10	amod	_	Rus=противоположный
+6	өттүгэр	өттүгэр	ADP	_	_	5	case	_	Rus=на_стороне
+7	тыылана	тыылан	VERB	v|tv	VerbForm=Conv|ConvType=Sim	8	advmod	_	Rus=на_лодке
+8	сылдьан	сырыт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	14	advcl	_	SpaceAfter=No|Rus=ходить
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	хамыс	хамыс	NOUN	_	Case=Nom	14	nsubj	_	Rus=камыш
+11	быыһыгар	быыһыгар	ADP	_	_	10	case	_	Rus=между
+12	хара	хара	ADJ	_	_	13	amod	_	Rus=чёрный
+13	ыт	ыт	NOUN	_	Case=Nom	14	nsubj	_	Rus=собака
+14	буолан	буолан	VERB	v|iv	ConvType=Cons|VerbForm=Conv	29	conj	_	Rus=будучи
+15	тахсан	таҕыс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	16	advcl	_	Rus=выходить
+16	олорорун	олор	VERB	v|iv	Case=Acc|Number[psor]=Sing|Person[psor]=3	29	conj	_	Rus=сидеть
+17	көрбүтүм	көр	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	29	conj	_	SpaceAfter=No|Rus=видеть
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	—	—	PUNCT	_	_	17	punct	_	_
+20	диэтэ	диэ	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	29	conj	_	Rus=сказать
+21	оҕонньор	оҕонньор	NOUN	_	Case=Nom	24	nsubj	_	SpaceAfter=No|Rus=старик
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	хат	хат	ADJ	_	_	26	amod	_	Rus=беременная
+24	кэлэн	кэл	VERB	v|iv	VerbForm=Conv|ConvType=Cons	28	advcl	_	SpaceAfter=No|Rus=приходить
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nmod	_	Rus=я
+27	аттыбар	атта	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=1	28	obl	_	Rus=аттыбар
+28	олорон	олор	VERB	v|iv	VerbForm=Conv|ConvType=Cons	29	advcl	_	Rus=сидеть
+29	баран	баран	VERB	v|iv	Case=Nom	0	root	_	SpaceAfter=No|Rus=уйти
+30	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = fisher_084
+# sah = — Миигин көрөөт, ууга киирэн баран, мэлис гынан хаалла.
+# rus = Как увидел меня — бултых в воду, скрылся.
+# anno = yes-yes
+1	—	—	PUNCT	_	_	11	punct	_	_
+2	Миигин	Мин	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Rus=меня
+3	көрөөт	көр	VERB	v|tv	VerbForm=Conv|ConvType=Ant	10	advcl	_	SpaceAfter=No|Rus=увидев
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ууга	уу	NOUN	_	Case=Dat	6	obl	_	Rus=вода
+6	киирэн	киир	VERB	v|iv	VerbForm=Conv|ConvType=Cons	7	advmod	_	Rus=войдя
+7	баран	бар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	10	advcl	_	SpaceAfter=No|Rus=уйти
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	мэлис	мэлис	ADV	_	_	10	advmod	_	Rus=исчезнув
+10	гынан	гын	VERB	v|tv	VerbForm=Conv|ConvType=Cons	11	advmod	_	Rus=делать
+11	хаалла	хаал	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=оставаться
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = fisher_085
+# sah = Куттанан, абааһы көрөммүн, ол түүн аанньа утуйбатым.
+# rus = Мне это шибко даже не понравилось, и в ту ночь я плохо спал, должно, он страха.
+# anno = yes-yes
+1	Куттанан	Куттанан	VERB	_	VerbForm=Conv|ConvType=Cons	9	obl	_	SpaceAfter=No|Rus=испугавшись
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	абааһы	абааһы	ADV	_	_	4	fixed	_	Rus=чёрт
+4	көрөммүн	көр	VERB	v|tv	VerbForm=Conv|ConvType=Cons|Number=Sing|Person=1	9	advmod	_	SpaceAfter=No|Rus=көрө
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	ол	ол	PRON	_	PronType=Dem	7	det	_	Rus=тот
+7	түүн	түүн	ADV	_	_	9	advmod	_	Rus=ночь
+8	аанньа	аанньа	ADV	_	_	9	advmod	_	Rus=путно
+9	утуйбатым	утуй	VERB	v|iv	Evident=Nfh|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=не_спал
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_086
+# sah = Онон эбэм иччитэ баарын ол курдук биирдэ биллэрэн турар.
+# rus = Вот так-то дух матушки и дал мне знать о себе.
+# anno = yes-yes
+1	Онон	Онон	ADV	_	_	8	advmod	_	Rus=поэтому
+2	эбэм	эбэ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	3	nmod	_	Rus=матушка
+3	иччитэ	иччи	NOUN	_	Case=Par	4	nsubj	_	Rus=дух-хозяин
+4	баарын	баар	VERB	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	8	ccomp	_	Rus=быть
+5	ол	ол	PRON	_	PronType=Dem	8	obl	_	Rus=ол
+6	курдук	курдук	ADP	_	_	5	case	_	Rus=как
+7	биирдэ	биирдэ	ADV	_	_	8	advmod	_	Rus=один_раз
+8	биллэрэн	биллэр	VERB	v|tv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=объявлять
+9	турар	тур	AUX	_	Tense=Pres|Number=Sing|Person=3	8	aux	_	SpaceAfter=No|Rus=стоять
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = fisher_087
+# sah = Ол кэнниттэн, хас да сыл буолан баран, эмээхсиним өлөр кыһыныгар эбэм мууһа туоратынан күөрэлэммит этэ: иччитэ алдьаттаҕа буолуо.
+# rus = Потом, много лет позже, как раз в ту зиму, как умереть моей старухе, лед на озере вдруг полосой вздыбился от берега к берегу. Не иначе, как дух-хозяин его взломал.
+# anno = yes
+1	Ол	ол	PRON	_	PronType=Dem	21	obl	_	Rus=тот
+2	кэнниттэн	кэнниттэн	ADP	_	_	1	case	_	SpaceAfter=No|Rus=после_этого
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	хас	хас	DET	_	Case=Nom|PronType=Int	6	det	_	Rus=несколько
+5	да	да	PART	_	_	4	fixed	_	Rus=же
+6	сыл	сыл	NOUN	_	Case=Nom	11	nsubj	_	Rus=год
+7	буолан	буолан баран	PART	_	_	21	discourse	_	Rus=будучи
+8	баран	буолан баран	PART	_	_	21	discourse	_	SpaceAfter=No|Rus=однако
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	эмээхсиним	эмээхсин	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	11	nsubj	_	Rus=старуха
+11	өлөр	өл	VERB	v|iv	Tense=Pres	21	conj	_	Rus=умирать
+12	кыһыныгар	кыһыныгар	ADV	_	_	16	advmod	_	Rus=с_наступлением_зимы
+13	эбэм	эбэ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	14	nmod	_	Rus=матушка
+14	мууһа	муус	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	16	nsubj	_	Rus=лёд
+15	туоратынан	туоратынан	ADV	_	_	16	advmod	_	Rus=поперёк
+16	күөрэлэммит	күөрэлэн	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	21	parataxis	_	Rus=вздыбился
+17	этэ	э	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|PastType=Recent	16	aux	_	SpaceAfter=No|Rus=часть
+18	:	:	PUNCT	_	_	21	punct	_	_
+19	иччитэ	иччи	NOUN	_	Case=Par	20	obl	_	Rus=дух-хозяин
+20	алдьаттаҕа	алдьат	VERB	v|tv	Case=Nom|Number[psor]=Sing|Person[psor]=3	21	conj	_	Rus=взломал
+21	буолуо	буол	VERB	v|iv	Case=Nom|Tense=Fut	0	root	_	SpaceAfter=No|Rus=быть
+22	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = fisher_088
+# sah = Сүдү угус буолан баран, муоһунан күөл мууһун хайа солуур дииллэрэ былыргы дьон.
+# rus = Еще издавна старые люди сказывали, что-де дух озера оборачивается чудовищным быком и раскалывает лед рожицами.
+# anno = yes-yes
+1	Сүдү	Сүдү	ADJ	_	_	2	amod	_	Rus=огромный
+2	угус	үгүс	NOUN	_	_	3	nsubj	_	Rus=бык
+3	буолан	буол	VERB	v|iv	VerbForm=Conv|ConvType=Cons	4	advmod	_	Rus=будучи
+4	баран	бар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	10	advcl	_	SpaceAfter=No|Rus=однако
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	муоһунан	муос	NOUN	_	Case=Ins|Number[psor]=Sing|Person[psor]=3	10	obl	_	Rus=рогами
+7	күөл	күөл	NOUN	_	Case=Nom	8	nmod	_	Rus=озеро
+8	мууһун	муус	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	10	obj	_	Rus=лёд
+9	хайа	хайа	ADV	_	_	10	advmod	_	Rus=на_части
+10	солуур	солоо	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	Rus=раскалывает
+11	дииллэрэ	диэ	VERB	v|tv	Number=Plur|Person=3	0	root	_	Rus=говорили
+12	былыргы	былыргы	ADJ	_	_	13	amod	_	Rus=старые
+13	дьон	дьон	NOUN	_	Case=Nom	11	nsubj	_	SpaceAfter=No|Rus=народ
+14	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = fisher_089
+# sah = Ол этэллэрэ кырдьык эбит буоллаҕа.
+# rus = Выходит, это правда.
+# anno = yes-yes
+1	Ол	ол	PRON	_	PronType=Dem	2	det	_	Rus=то
+2	этэллэрэ	эт	VERB	v|tv	Evident=Nfh|Number=Plur|Person=3|Tense=Past	3	csubj	_	Rus=сказать
+3	кырдьык	кырдьык	NOUN	_	Case=Nom	0	root	_	Rus=правда
+4	эбит	эбит	PART	_	_	3	discourse	_	Rus=оказывается
+5	буоллаҕа	буоллаҕа	PART	v|iv	_	3	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = fisher_090
+# sah = Нэһилиэктэн киһи өлөөрү гыннаҕына, куруук ол курдук гынар.
+# rus = Перед тем как умереть кому-нибудь в округе, "он" завсегда так делает...
+# anno = yes-yes
+1	Нэһилиэктэн	Нэһилиэк	NOUN	_	Case=Abl	3	obl	_	Rus=в_округе
+2	киһи	киһи	NOUN	_	Case=Nom	3	nsubj	_	Rus=человек
+3	өлөөрү	өл	VERB	v|iv	VerbForm=Conv|ConvType=Purp	9	advcl	_	Rus=умирать
+4	гыннаҕына	гын	VERB	v|tv	Mood=Cnd|Number=Sing|Person=3	9	advcl	_	SpaceAfter=No|Rus=делать
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	куруук	куруук	ADV	_	_	9	advmod	_	Rus=всегда
+7	ол	ол	PRON	_	PronType=Dem	9	obl	_	Rus=то
+8	курдук	курдук	ADP	_	_	7	case	_	Rus=как
+9	гынар	гын	VERB	v|tv	Tense=Pres|Number=Sing|Person=3	0	root	_	Rus=делать
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_091
+# sah = Ити кэнниттэн oҕонньор өр баҕайы саҥата cyox күөлүн көрөн олордо.
+# rus = Старик умоли и раздумчиво уставился в сторону озера.
+# anno = yes-yes
+1	Ити	ити	PRON	_	PronType=Dem	9	obl	_	Rus=этот
+2	кэнниттэн	кэнниттэн	ADP	_	_	1	case	_	Rus=после_этого
+3	oҕонньор	оҕонньор	NOUN	_	Case=Nom	9	nsubj	_	Rus=oҕонньор
+4	өр	өр	ADJ	_	_	9	advmod	_	Rus=долго
+5	баҕайы	баҕайы	PART	_	_	4	advmod	_	Rus=очень
+6	саҥата	саҥа	NOUN	_	Case=Par	7	obl	_	Rus=голос
+7	cyox	суох	ADJ	_	_	9	advmod	_	Rus=cyox
+8	күөлүн	күөл	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	9	obj	_	Rus=озеро
+9	көрөн	көр	VERB	v|tv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=видеть
+10	олордо	олор	AUX	_	Number=Sing|Person=3|Tense=Past|PastType=Recent	9	aux	_	SpaceAfter=No|Rus=сажать
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_092
+# sah = Мин эмиэ, тугу да саҥарбакка, кинини одуулаһа олордум.
+# rus = Я тоже сижу молчу и незаметно наблюдаю за ним.
+# anno = yes
+1	Мин	Мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Rus=я
+2	эмиэ	эмиэ	ADV	_	_	6	advmod	_	SpaceAfter=No|Rus=ещё
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	тугу	туох	PRON	_	Case=Acc|Polarity=Neg	6	obj	_	Rus=что
+5	да	да	PART	_	_	4	fixed	_	Rus=ни
+6	саҥарбакка	саҥар	VERB	v|tv	Case=Dat|Polarity=Neg	10	conj	_	SpaceAfter=No|Rus=молча
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	кинини	кини	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Rus=он
+9	одуулаһа	одуулаа	VERB	v|tv	VerbForm=Conv|ConvType=Sim	10	advmod	_	Rus=наблюдая
+10	олордум	олор	VERB	v|iv	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=сидеть
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = fisher_093
+# sah = Кырдьаҕаһым тугу эрэ көхсүгэр толкуйдаан, санаан эрэр?
+# rus = О чем он думает, старец, в эту минуту, разгадать мудрено.
+# anno = yes
+1	Кырдьаҕаһым	Кырдьаҕас	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	Rus=старый
+2	тугу	туох	PRON	_	Case=Acc|PronType=Int	5	obj	_	Rus=что
+3	эрэ	эрэ	PART	_	_	2	fixed	_	Rus=только
+4	көхсүгэр	көхсү	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	5	obl	_	Rus=про_себя
+5	толкуйдаан	толкуйдаа	VERB	v|tv	VerbForm=Conv|ConvType=Cons	7	advmod	_	SpaceAfter=No|Rus=размышляя
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	санаан	санаа	VERB	v|tv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=думать
+8	эрэр	эр	AUX	_	Tense=Pres	7	aux	_	SpaceAfter=No|Rus=быть
+9	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = fisher_094
+# sah = Туох ону сэрэйиэ баарай?!
+# rus = О чем он думает, старец, в эту минуту, разгадать мудрено.
+# anno = yes-yes
+1	Туох	Туох	PRON	_	PronType=Int	3	nsubj	_	Rus=что
+2	ону	ол	PRON	_	Case=Acc|PronType=Dem	3	obj	_	Rus=тот
+3	сэрэйиэ	сэрэй	VERB	v|tv	Case=Nom|Tense=Fut	0	root	_	Rus=предчувствовать
+4	баарай	баарай	AUX	_	_	3	aux	_	SpaceAfter=No|Rus=мудрено
+5	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = fisher_095
+# sah = Оҕонньор, көхсүн этитэн баран, үөһэ тыынна, айакалаата, ол гэннэ ньилбэҕиттэн тайанан баран, солууччахтаах балыгын аҕалан, мин иннибэр уурда.
+# rus = Но вот он крякнул, глубоко вздохнул, застонал и, опершись руками на колени, встал и поставил передо мной котелок с рыбой.
+# anno = yes
+1	Оҕонньор	Оҕонньор	NOUN	_	Case=Nom	4	nsubj	_	SpaceAfter=No|Rus=старик
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	көхсүн	көхсүн	ADJ	_	_	8	amod	_	Rus=спину
+4	этитэн	этит	VERB	v|tv	VerbForm=Conv|ConvType=Cons	5	advcl	_	Rus=выпрямив
+5	баран	баран	VERB	v|iv	Case=Nom	24	conj	_	SpaceAfter=No|Rus=уйти
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	үөһэ	үөһэ	ADV	_	_	10	advmod	_	Rus=вверх
+8	тыынна	тыын	NOUN	_	Case=Par	10	obl	_	SpaceAfter=No|Rus=вздохнул
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	айакалаата	айакалаа	VERB	v|iv	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|PastType=Recent	24	conj	_	SpaceAfter=No|Rus=застонать
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	ол	ол	PART	_	_	24	discourse	_	Rus=тот
+13	гэннэ	гэннэ	ADJ	_	_	14	amod	_	Rus=затем
+14	ньилбэҕиттэн	ньилбэх	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	15	obl	_	Rus=колени
+15	тайанан	тайан	VERB	v|tv	VerbForm=Conv|ConvType=Cons	16	advcl	_	Rus=опершись
+16	баран	баран	VERB	v|iv	VerbForm=Conv|ConvType=Cons	24	conj	_	SpaceAfter=No|Rus=уйти
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	солууччахтаах	солууччахтаах	ADJ	_	_	19	amod	_	Rus=с_котелком
+19	балыгын	балык	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	20	obj	_	Rus=рыба
+20	аҕалан	аҕал	VERB	v|tv	VerbForm=Conv|ConvType=Cons	24	advcl	_	SpaceAfter=No|Rus=принёс
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nmod	_	Rus=я
+23	иннибэр	инни	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=1	24	obl	_	Rus=перед
+24	уурда	уур	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=поставил
+25	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = fisher_096
+# sah = Собобутун сии олорон, Балыксыт оҕонньор аны наар миигиттэн ону-маны ыйытар, ыраахтаҕыга тиийэ ырытар киһи буолла.
+# rus = Карасей он переложил в деревянные чаши, и мы принялись за еду. Теперь, в свою очередь, он стал расспрашивать меня обо всем на свете, даже о русском царе.
+# anno = yes
+1	Собобутун	Собо	NOUN	_	Case=Acc|Number[psor]=Plur|Person[psor]=1	3	obj	_	Rus=караси
+2	сии	сии	NOUN	_	Case=Nom	3	nsubj	_	Rus=едя
+3	олорон	олор	VERB	v|iv	VerbForm=Conv|ConvType=Cons	12	advcl	_	SpaceAfter=No|Rus=сидеть
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	Балыксыт	Балыксыт	NOUN	_	Case=Nom	6	nmod	_	Rus=рыбак
+6	оҕонньор	оҕонньор	NOUN	_	Case=Nom	12	nsubj	_	Rus=старик
+7	аны	аны	ADV	_	_	12	advmod	_	Rus=теперь
+8	наар	наар	ADV	_	_	12	advmod	_	Rus=порядок
+9	миигиттэн	мин	PRON	_	Case=Abl|Number=Sing|Person=1|PronType=Prs	12	obl	_	Rus=меня
+10-11	ону-маны	ол-бу	PRON	_	Case=Acc|PronType=Dem	_	_	_	Rus=о_том_о_сем
+10	ону	ол	PRON	_	Case=Acc|PronType=Dem	12	obj	_	Rus=то
+11	маны	бу	PRON	_	Case=Acc|PronType=Dem	12	obj	_	Rus=это
+12	ыйытар	ыйыт	VERB	v|tv	Tense=Pres	18	parataxis	_	SpaceAfter=No|Rus=расспрашивать
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	ыраахтаҕыга	ыраахтаҕы	NOUN	_	Case=Dat	16	obl	_	Rus=далёкое
+15	тиийэ	тиийэ	ADP	_	_	14	case	_	Rus=до
+16	ырытар	ырыт	VERB	v|tv	Tense=Pres	18	conj	_	Rus=расспрашивать
+17	киһи	киһи	NOUN	_	Case=Nom	18	nsubj	_	Rus=человек
+18	буолла	буол	VERB	v|iv	Mood=Ind|Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=быть
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = fisher_097
+# sah = Мин тугу билэрбин кэпсии сытаатым.
+# rus = Насколько мог, я постарался удовлетворить его любопытство.
+# anno = yes-yes
+1	Мин	Мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Rus=я
+2	тугу	туох	PRON	_	Case=Acc|PronType=Int	3	obj	_	Rus=что
+3	билэрбин	бил	VERB	v|tv	Case=Acc|Number[psor]=Sing|Person[psor]=1|Tense=Pres|VerbForm=Part	4	ccomp	_	Rus=знать
+4	кэпсии	кэпсээ	VERB	v|tv	VerbForm=Conv|ConvType=Sim	5	advcl	_	Rus=рассказывая
+5	сытаатым	сытаа	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=старался
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = fisher_098
+# sah = Күтүрү, кырдьыга, ити курдук ырааҕынан эҥсэн саныыра буолуо диэбэт этим.
+# rus = Право, я и не полагал, что мысли этого бирюка могли простираться так далеко за пределы округа.
+# anno = yes-yes
+1	Күтүрү	күтүр	PART	_	_	11	discourse	_	SpaceAfter=No|Rus=черт
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	кырдьыга	кырдьыга	PART	_	_	11	discourse	_	SpaceAfter=No|Rus=правда
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ити	ити	PRON	_	PronType=Dem	9	obl	_	Rus=этот
+6	курдук	курдук	ADP	_	_	5	case	_	Rus=так
+7	ырааҕынан	ырааҕынан	ADV	_	_	8	advmod	_	Rus=далеко
+8	эҥсэн	эҥис	VERB	_	VerbForm=Conv|ConvType=Cons	9	advcl	_	Rus=простираясь
+9	саныыра	санаа	VERB	v|tv	Case=Nom|Number[psor]=Sing|Person[psor]=3|Tense=Pres|VerbForm=Part	11	ccomp	_	Rus=мыслить
+10	буолуо	буол	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	9	aux	_	Rus=мочь
+11	диэбэт	диэ	VERB	v|tv	Number=Sing|Person=1|Polarity=Neg|Tense=Pres	0	root	_	Rus=не_думал
+12	этим	э	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|PastType=Recent	11	aux	_	SpaceAfter=No|Rus=быть
+13	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = fisher_099
+# sah = Онон киһи киһитэ өттө, дэлэҕэ собоһут кыыл курдук буолуо дуо...
+# rus = Хоть и захоронился один в лесу, хоть и состарился, как вон так скопа, а ничто человеческое, очевидно, ему не чуждо.
+# anno = yes-yes
+1	Онон	онон	ADV	_	_	10	advmod	_	Rus=поэтому
+2	киһи	киһи	NOUN	_	Case=Nom	3	nmod	_	Rus=человек
+3	киһитэ	киһи	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	4	nmod	_	Rus=человеческое
+4	өттө	_	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	10	nsubj	_	SpaceAfter=No|Rus=сторона
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	дэлэҕэ	дэлэҕэ	PART	_	_	10	discourse	_	Rus=видимо
+7	собоһут	собоһут	NOUN	_	Case=Nom	8	nmod	_	Rus=скопа
+8	кыыл	кыыл	NOUN	_	Case=Nom	10	obl	_	Rus=животное
+9	курдук	курдук	ADP	_	_	8	case	_	Rus=как
+10	буолуо	буол	VERB	v|iv	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	Rus=быть
+11	дуо	дуо	PART	_	_	10	advmod	_	SpaceAfter=No|Rus=ли
+12	...	...	PUNCT	_	_	10	punct	_	_
+
+# sent_id = fisher_100
+# sah = Хаһалаах эмис собону тото сиэн баран, мин бараары турдахпына, оҕонньор, курутуйбут киһи курдук, сонньуйан туран, эттэ:  — Хайа, тукаам, бараары гынныҥ дуу?
+# rus = Когда я, вдосталь угостившись жирными карасями, собрался уходить, старик явно огорчился: — Как, дитятко, ты уже...
+# anno = yes
+1	Хаһалаах	Хаһалаах	ADJ	_	_	3	amod	_	Rus=жирный
+2	эмис	эмис	ADJ	_	_	3	amod	_	Rus=жирный
+3	собону	собо	NOUN	_	Case=Acc	6	obj	_	Rus=карась
+4	тото	тото	ADV	_	_	6	advmod	_	Rus=досыта
+5	сиэн	сиэн	NOUN	_	Case=Nom	6	nsubj	_	Rus=поев
+6	баран	баран	VERB	v|iv	Case=Nom	10	advcl	_	SpaceAfter=No|Rus=уйти
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Rus=я
+9	бараары	бар	VERB	v|iv	VerbForm=Conv|ConvType=Purp	10	advmod	_	Rus=уходить
+10	турдахпына	тур	VERB	v|iv	Mood=Cnd|Number=Sing|Person=1	21	advcl	_	SpaceAfter=No|Rus=стоять
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	оҕонньор	оҕонньор	NOUN	_	Case=Nom	14	nsubj	_	SpaceAfter=No|Rus=старик
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	курутуйбут	курутуй	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	15	acl	_	Rus=огорчённый
+15	киһи	киһи	NOUN	_	Case=Nom	18	obl	_	Rus=человек
+16	курдук	курдук	ADP	_	_	15	case	_	SpaceAfter=No|Rus=как
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	сонньуйан	сонньуй	VERB	v|iv	VerbForm=Conv|ConvType=Cons	19	advmod	_	Rus=огорчившись
+19	туран	тур	VERB	v|iv	VerbForm=Conv|ConvType=Cons	21	advcl	_	SpaceAfter=No|Rus=стоять
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	эттэ	эт	VERB	_	Case=Par	0	root	_	SpaceAfter=No|Rus=сказал
+22	:	:	PUNCT	_	_	21	punct	_	_
+23	—	—	PUNCT	_	_	21	punct	_	_
+24	Хайа	Хайа	PART	_	_	29	discourse	_	SpaceAfter=No|Rus=как
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	тукаам	тукаам	NOUN	_	Case=Nom	29	vocative	_	SpaceAfter=No|Rus=дитятко
+27	,	,	PUNCT	_	_	26	punct	_	_
+28	бараары	бар	VERB	v|iv	VerbForm=Conv|ConvType=Purp	29	advmod	_	Rus=уходить
+29	гынныҥ	гын	VERB	v|tv	Number=Sing|Person=2|Tense=Past|PastType=Recent	21	ccomp	_	Rus=делать
+30	дуу	дуу	PART	_	_	29	advmod	_	SpaceAfter=No|Rus=ли
+31	?	?	PUNCT	_	_	30	punct	_	_
+
+# sent_id = fisher_101
+# sah = Барымына, тугу гына миигин, абааһы, бүдүк буолбут оҕонньору, кытта олоруоҥуй?
+# rus = уходишь от меня? Ну да, чего тебе сидеть и балакать со мной, с дряхлым чертом.
+# anno = yes
+1	Барымына	Бар	VERB	v|iv	VerbForm=Conv|ConvType=Cons|Polarity=Neg	4	advcl	_	SpaceAfter=No|Rus=уходишь
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	тугу	туох	PRON	_	Case=Acc|PronType=Int	4	obj	_	Rus=что
+4	гына	гын	VERB	v|tv	VerbForm=Conv|ConvType=Sim	10	advcl	_	Rus=делать
+5	миигин	мин	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obj	_	SpaceAfter=No|Rus=меня
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	абааһы	абааһы	NOUN	_	Case=Nom	10	nsubj	_	SpaceAfter=No|Rus=чёрт
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	бүдүк	бүдүк	ADJ	_	_	11	amod	_	Rus=дряхлый
+10	буолбут	буол	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	11	acl	_	Rus=быть
+11	оҕонньору	оҕонньор	NOUN	_	Case=Acc	14	obj	_	SpaceAfter=No|Rus=старик
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	кытта	кытта	ADP	_	_	11	case	_	Rus=с
+14	олоруоҥуй	олор	VERB	v|iv	Mood=Ind|Number=Sing|Person=2|Ques=Yes|Tense=Fut	0	root	_	SpaceAfter=No|Rus=сидеть
+15	?	?	PUNCT	_	_	14	punct	_	_
+
+# sent_id = fisher_102
+# sah = Эдэрим буоллар, мин да бара-кэлэ сатыам этэ.
+# rus = Будь я молод, тоже бы не усидел на одном месте.
+# anno = yes
+1	Эдэрим	Эдэр	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Rus=молодой
+2	буоллар	буоллар	VERB	v|iv	ConvType=Cond|VerbForm=Conv	8	parataxis	_	SpaceAfter=No|Rus=если_бы
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Rus=я
+5	да	да	PART	_	_	4	advmod	_	Rus=же
+6-7	бара-кэлэ	бара-кэл	VERB	_	Case=Nom|VerbForm=Conv	_	_	_	Rus=ходить
+6	бара	бар	VERB	v|iv	VerbForm=Conv|ConvType=Sim	8	advcl	_	Rus=идти
+7	кэлэ	кэл	VERB	v|iv	VerbForm=Conv|ConvType=Sim	8	advcl	_	Rus=приходить
+8	сатыам	сатаа	VERB	v|tv	Case=Nom|Number[psor]=Sing|Person[psor]=1|Tense=Fut	0	root	_	Rus=пытался
+9	этэ	э	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|PastType=Recent	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_103
+# sah = Һэ-һэ-һэ!
+# rus = Хэ-хэ-хэ!
+# anno = yes-yes
+1	Һэ-һэ-һэ	Һэ-һэ-һэ	INTJ	_	_	0	root	_	SpaceAfter=No|Rus=хе-хе-хе
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = fisher_104
+# sah = Хата, аныгы сырыыгар табаахта кэһиигин аҕалаар, мин собо ууруом, — диэтэ.
+# rus = Коли доведется навестить меня в другой раз, захвати табачку в гостинец, а я тебе карасей отборных приберегу.
+# anno = yes
+1	Хата	Хата	ADV	_	_	7	advmod	_	SpaceAfter=No|Rus=лучше
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	аныгы	аныгы	ADJ	_	_	4	amod	_	Rus=следующий
+4	сырыыгар	сырыы	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=2	7	obl	_	Rus=раз
+5	табаахта	табаах	NOUN	_	Case=Par	7	obl	_	Rus=табак
+6	кэһиигин	кэһии	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=2	7	obj	_	Rus=гостинец
+7	аҕалаар	аҕал	VERB	v|tv	Mood=Imp|Number=Sing|Person=2	14	conj	_	SpaceAfter=No|Rus=принеси
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nmod	_	Rus=я
+10	собо	собо	NOUN	_	Case=Nom	11	nsubj	_	Rus=карась
+11	ууруом	уур	VERB	v|tv	Case=Nom|Number[psor]=Sing|Person[psor]=1|Tense=Fut	14	conj	_	SpaceAfter=No|Rus=приберегу
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	—	—	PUNCT	_	_	11	punct	_	_
+14	диэтэ	диэ	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=сказать
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = fisher_105
+# sah = Тыа саҕатыгар тахсан баран, кэннибин хайыһан көрбүтүм, оҕонньор эрэйдээх тоҕо эрэ күөлүн кытыытын диэки аат эрэ харата саллаҥнаан эрэр эбит.
+# rus = Вышел я к опушке леса и обернулся: бедный старикашка, ссутулившись, еле-еле ковылял к берегу.
+# anno = yes
+1	Тыа	Тыа	NOUN	_	Case=Nom	2	nmod	_	Rus=лес
+2	саҕатыгар	саҕа	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	3	obl	_	Rus=опушка
+3	тахсан	таҕыс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	4	advcl	_	Rus=выходить
+4	баран	баран	VERB	v|iv	Case=Nom	20	conj	_	SpaceAfter=No|Rus=уйти
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	кэннибин	кэнни	ADV	_	_	7	advmod	_	Rus=назад
+7	хайыһан	хайыс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	8	advcl	_	Rus=обернувшись
+8	көрбүтүм	көр	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	20	conj	_	SpaceAfter=No|Rus=видеть
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	оҕонньор	оҕонньор	NOUN	_	Case=Nom	20	nsubj	_	Rus=старик
+11	эрэйдээх	эрэйдээх	ADJ	_	_	14	amod	_	Rus=бедный
+12	тоҕо	тоҕо	ADV	_	_	20	advmod	_	Rus=почему
+13	эрэ	эрэ	PART	_	_	12	fixed	_	Rus=только
+14	күөлүн	күөл	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	20	obj	_	Rus=озеро
+15	кытыытын	кытыы	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	20	obl	_	Rus=берег
+16	диэки	диэки	ADP	_	_	15	case	_	Rus=к
+17	аат	аат	NOUN	_	Case=Nom	19	nmod	_	Rus=слово
+18	эрэ	эрэ	PART	_	_	20	discourse	_	Rus=только
+19	харата	хара	NOUN	_	Case=Par	20	obl	_	Rus=чёрный
+20	саллаҥнаан	саллаҥнаа	VERB	v|iv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=ковыляя
+21	эрэр	эр	AUX	_	Tense=Pres	20	aux	_	Rus=быть
+22	эбит	эбит	PART	_	_	20	discourse	_	SpaceAfter=No|Rus=оказывается
+23	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = fisher_106
+# sah = Тыытын уутун эһэ киирдэҕэ буолуо.
+# rus = Вышел я к опушке леса и обернулся: бедный старикашка, ссутулившись, еле-еле ковылял к берегу.
+# anno = yes
+1	Тыытын	Тыы	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	4	obj	_	Rus=лодка
+2	уутун	үүт	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	4	obj	_	Rus=слёзы
+3	эһэ	эһэ	NOUN	_	Case=Nom	4	nsubj	_	Rus=отец
+4	киирдэҕэ	киир	VERB	v|iv	Case=Nom|Number[psor]=Sing|Person[psor]=3	5	conj	_	Rus=входить
+5	буолуо	буол	VERB	v|iv	Case=Nom|Tense=Fut	0	root	_	SpaceAfter=No|Rus=быть
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = fisher_107
+# sah = Оо, тыаһаабат уулаах тыымпы эбэм, соҕотох иччигиттэн эстэриҥ чугаһаабыт ээ, бадаҕа...
+# rus = Укромное лесное озеро! Однако, ты скоро распростишься со своим единственным хозяином-жильцом...
+# anno =
+1	Оо	Оо	INTJ	_	_	6	discourse	_	SpaceAfter=No|Rus=ох
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	тыаһаабат	тыаһаа	VERB	v|iv	Polarity=Neg|Tense=Pres	6	acl	_	Rus=издавать
+4	уулаах	уулаах	ADJ	_	_	6	amod	_	Rus=сырой
+5	тыымпы	тыымпы	NOUN	_	Case=Nom	6	nmod	_	Rus=тихий
+6	эбэм	эбэ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	11	vocative	_	SpaceAfter=No|Rus=матушка
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	соҕотох	соҕотох	ADJ	_	_	9	amod	_	Rus=единственный
+9	иччигиттэн	иччи	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=2	10	obl	_	Rus=дух-хозяин
+10	эстэриҥ	эһин	VERB	v|iv	Number=Sing|Person=2	11	csubj	_	Rus=расстанешься
+11	чугаһаабыт	чугаһаа	VERB	v|iv	Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	0	root	_	Rus=близко
+12	ээ	ээ	PART	_	_	11	discourse	_	SpaceAfter=No|Rus=э-э
+13	,	,	PUNCT	_	_	11	punct	_	_
+14	бадаҕа	бадаҕа	PART	_	_	11	discourse	_	SpaceAfter=No|Rus=должно_быть
+15	...	...	PUNCT	_	_	11	punct	_	_
+
+# sent_id = fisher_108
+# sah = Күһүнүгэр тиийэн мин иһиттим — Балыксыт Былатыан оҕонньор эбэтин кытыытыгар өлө сытарын булан ылбыттар үhү диэн...
+# rus = — Осенью того же года до меня дошел слух, что Рыбака Платона нашли мертвым на берегу лесного озера.
+# anno = yes
+1	Күһүнүгэр	Күһүнүгэр	ADV	_	_	2	advmod	_	Rus=осенью
+2	тиийэн	тиий	VERB	v|iv	VerbForm=Conv|ConvType=Cons	4	advcl	_	Rus=идя
+3	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Rus=я
+4	иһиттим	иһит	VERB	v|tv	Number=Sing|Person=1|Tense=Past|PastType=Recent	14	parataxis	_	Rus=услышал
+5	—	—	PUNCT	_	_	4	punct	_	_
+6	Балыксыт	Балыксыт	NOUN	_	Case=Nom	7	appos	_	Rus=рыбак
+7	Былатыан	Былатыан	PROPN	_	Case=Nom	9	nmod	_	Rus=Платон
+8	оҕонньор	оҕонньор	NOUN	_	Case=Nom	7	appos	_	Rus=старик
+9	эбэтин	эбэ	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	10	nmod	_	Rus=матушка
+10	кытыытыгар	кытыы	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	12	obl	_	Rus=берег
+11	өлө	өл	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	12	advmod	_	Rus=мёртвым
+12	сытарын	сыт	VERB	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	13	obj	_	Rus=лежать
+13	булан	бул	VERB	v|tv	VerbForm=Conv|ConvType=Cons	14	advmod	_	Rus=найдя
+14	ылбыттар	ыл	VERB	v|tv	Evident=Nfh|Number=Plur|Person=3|Tense=Past|PastType=Perfect	0	root	_	Rus=нашли
+15	үhү	үһү	PART	_	_	14	discourse	_	Rus=говорят
+16	диэн	диэн	ADP	_	_	11	case	_	SpaceAfter=No|Rus=что
+17	...	...	PUNCT	_	_	16	punct	_	_
+
+# sent_id = fisher_109
+# sah = Ону истибит дьон, үөһэ тыына-тыына: «Оо, оҕонньор барахсан, дьэ, сараабыт ээ, буолумуна», — дэстилэр.
+# rus = Проведавшие об этом люди, жалостливо вздыхая, говорили: "О-о, бедненький старичок, отмучился-таки..." 
+# anno = yes
+1	Ону	Ол	PRON	_	Case=Acc|PronType=Dem	2	obj	_	Rus=тот
+2	истибит	ис	VERB	v|iv	Number=Plur|Person=1|Tense=Past|PastType=Perfect	24	conj	_	Rus=услышавшие
+3	дьон	дьон	NOUN	_	Case=Nom	17	nsubj	_	SpaceAfter=No|Rus=люди
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	үөһэ	үөһэ	ADV	_	_	17	advmod	_	Rus=вверх
+6-7	тыына-тыына	тыын-тыын	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	_	_	_	SpaceAfter=No|Rus=вздыхая
+6	тыына	тыын	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	7	nmod	_	Rus=вздыхая
+7	тыына	тыын	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	17	nsubj	_	SpaceAfter=No|Rus=вздыхая
+8	:	:	PUNCT	_	_	7	punct	_	_
+9	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
+10	Оо	Оо	INTJ	_	_	24	discourse	_	SpaceAfter=No|Rus=ох
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	оҕонньор	оҕонньор	NOUN	_	Case=Nom	13	nmod	_	Rus=старик
+13	барахсан	барахсан	NOUN	_	Case=Nom	17	nsubj	_	SpaceAfter=No|Rus=бедняга
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	дьэ	дьэ	PART	_	_	17	discourse	_	SpaceAfter=No|Rus=ну
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	сараабыт	сараа	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	24	ccomp	_	Rus=отмучился
+18	ээ	ээ	PART	_	_	24	discourse	_	SpaceAfter=No|Rus=э-э
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	буолумуна	буолумуна	PART	_	_	24	discourse	_	SpaceAfter=No|Rus=ведь
+21	»	»	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	20	punct	_	_
+23	—	—	PUNCT	_	_	20	punct	_	_
+24	дэстилэр	дэс	VERB	v|iv	Evident=Nfh|Number=Plur|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=дэстилэр
+25	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = fisher_110
+# sah = Күһүҥҥү түүн, соботуттан кэриэһин тото сиэн баран, Балыксыт Былатыан, саҥынньаҕын бүрүнэн баран, хатырык отуутугар түлүк уутун утуйа сытан, туох эрэ күүстээх тыас тигинээбититтэн уһуктан кэлэн, өндөйөн көрбүтэ, отуутун айаҕа аһыллан хаалбыт эбит, хара тыа тыаһа тиҥинэс буолбут, тыаһаабат уулаах тыымпы эбэтин долгунун тыаһа ньиллиргэс буолбут, хара былыт мааҕы бэйэлээх күндүл маҥан халлаанын бүрүйэн кэбиспит, хара самыырынан туох да көстүбэт гына тоҕо түһэ турар эбит.
+# rus = …Кромешной осенней ночью, досыта наевшись карасей и накрывшись дохой, Рыбак Платон спал глубоким сном в своем шалаше из корья и вдруг разбудился от какого-то грохочушего шума. Приподнял голову и видит: дверка шалаша распахнута. Тайга ухает, стонет. Озеро бурлит, беснуется. Небо — вечером было ясное — сплошь затянуто черными тучами и низвергается наземь страшным потоком.
+# anno = yes
+1	Күһүҥҥү	Күһүҥҥү	ADJ	_	_	4	amod	_	Rus=осенний
+2	түүн	түүн	ADV	_	_	8	advmod	_	SpaceAfter=No|Rus=ночь
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	соботуттан	собо	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	8	obl	_	Rus=карася
+5	кэриэһин	кэриэс	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	8	obj	_	Rus=досыта
+6	тото	тото	ADV	_	_	8	advmod	_	Rus=досыта
+7	сиэн	сиэн	NOUN	_	Case=Nom	8	nsubj	_	Rus=поев
+8	баран	баран	VERB	v|iv	Case=Nom	74	conj	_	SpaceAfter=No|Rus=уйти
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	Балыксыт	Балыксыт	NOUN	_	Case=Nom	11	appos	_	Rus=рыбак
+11	Былатыан	Былатыан	PROPN	_	Case=Nom	13	nmod	_	SpaceAfter=No|Rus=Платон
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	саҥынньаҕын	саҥынньах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	14	obj	_	Rus=доха
+14	бүрүнэн	бүрүн	VERB	v|tv	VerbForm=Conv|ConvType=Cons	15	advcl	_	Rus=накрывшись
+15	баран	баран	VERB	v|iv	Case=Nom	74	conj	_	SpaceAfter=No|Rus=уйти
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	хатырык	хатырык	NOUN	_	Case=Nom	18	nmod	_	Rus=кора
+18	отуутугар	отуу	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	21	obl	_	Rus=шалаш
+19	түлүк	түлүк	NOUN	_	Case=Nom	20	nmod	_	Rus=глубокий
+20	уутун	үүт	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	21	obj	_	Rus=слёзы
+21	утуйа	утуй	VERB	v|iv	VerbForm=Conv|ConvType=Sim	22	advmod	_	Rus=спать
+22	сытан	сыт	AUX	_	VerbForm=Conv|ConvType=Cons	21	aux	_	SpaceAfter=No|Rus=лежа
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	туох	туох	PRON	_	PronType=Int	28	nsubj	_	Rus=что
+25	эрэ	эрэ	PART	_	_	24	fixed	_	Rus=только
+26	күүстээх	күүстээх	ADJ	_	_	27	amod	_	Rus=здоровый
+27	тыас	тыас	NOUN	_	Case=Nom	28	nsubj	_	Rus=звук
+28	тигинээбититтэн	тигинээ	VERB	v|iv	Case=Abl|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	29	acl	_	Rus=грохота
+29	уһуктан	уһуктаа	NOUN	_	Case=Nom	30	nsubj	_	Rus=проснувшись
+30	кэлэн	кэл	VERB	v|iv	VerbForm=Conv|ConvType=Cons	32	advcl	_	SpaceAfter=No|Rus=приходить
+31	,	,	PUNCT	_	_	30	punct	_	_
+32	өндөйөн	өндөй	VERB	v|iv	VerbForm=Conv|ConvType=Cons	33	advcl	_	Rus=приподнявшись
+33	көрбүтэ	көр	VERB	v|tv	Case=Nom|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	35	acl	_	SpaceAfter=No|Rus=видеть
+34	,	,	PUNCT	_	_	33	punct	_	_
+35	отуутун	отуу	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	37	obj	_	Rus=шалаш
+36	айаҕа	айа	NOUN	_	Case=Dat	37	obl	_	Rus=край
+37	аһыллан	аһылын	VERB	v|iv	VerbForm=Conv|ConvType=Cons	38	advmod	_	Rus=распахнулась
+38	хаалбыт	хаал	VERB	v|iv	Evident=Nfh|Number=Sing|Person=3|Tense=Past|PastType=Perfect	74	conj	_	Rus=оставаться
+39	эбит	эбит	PART	_	_	74	discourse	_	SpaceAfter=No|Rus=оставаться
+40	,	,	PUNCT	_	_	39	punct	_	_
+41	хара	хара	ADJ	_	_	42	amod	_	Rus=чёрный
+42	тыа	тыа	NOUN	_	Case=Nom	43	nmod	_	Rus=лес
+43	тыаһа	тыас	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	44	nsubj	_	Rus=звук
+44	тиҥинэс	тиҥинэс	VERB	v|iv	Mood=Imp|Number=Sing|Person=2	74	conj	_	Rus=шуметь
+45	буолбут	буол-бүт	VERB	v|iv	Mood=Imp|Number=Sing|Person=2	74	conj	_	SpaceAfter=No|Rus=бывший
+46	,	,	PUNCT	_	_	45	punct	_	_
+47	тыаһаабат	тыаһаа	VERB	v|iv	Polarity=Neg|Tense=Pres	74	conj	_	Rus=издавать
+48	уулаах	уулаах	ADJ	_	_	49	amod	_	Rus=сырой
+49	тыымпы	тыымпы	NOUN	_	Case=Nom	50	nmod	_	Rus=тихий
+50	эбэтин	эбэ	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	54	obj	_	Rus=матушка
+51	долгунун	долгун	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	54	obj	_	Rus=волны
+52	тыаһа	тыас	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	54	nsubj	_	Rus=звук
+53	ньиллиргэс	ньиллиргэс	ADJ	_	_	57	amod	_	Rus=шумный
+54	буолбут	буол	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	57	acl	_	SpaceAfter=No|Rus=быть
+55	,	,	PUNCT	_	_	54	punct	_	_
+56	хара	хара	ADJ	_	_	57	amod	_	Rus=чёрный
+57	былыт	былыт	NOUN	_	Case=Nom	63	nsubj	_	Rus=туча
+58	мааҕы	мааҕы	ADJ	_	_	62	amod	_	Rus=сплошь
+59	бэйэлээх	бэйэлээх	PART	_	_	74	discourse	_	Rus=такой
+60	күндүл	күндүл	ADJ	_	_	62	amod	_	Rus=ясный
+61	маҥан	маҥан	ADJ	_	_	62	amod	_	Rus=белый
+62	халлаанын	халлаан	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	63	obj	_	Rus=небо
+63	бүрүйэн	бүрүй	VERB	v|tv	VerbForm=Conv|ConvType=Cons	64	advmod	_	Rus=покрывать
+64	кэбиспит	кэп	VERB	v|tv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	67	acl	_	SpaceAfter=No|Rus=оттолкнуть
+65	,	,	PUNCT	_	_	64	punct	_	_
+66	хара	хара	ADJ	_	_	67	amod	_	Rus=чёрный
+67	самыырынан	самыыр	NOUN	_	Case=Ins|Number[psor]=Sing|Person[psor]=3	71	obl	_	Rus=осадки
+68	туох	туох	PRON	_	Case=Nom|Polarity=Neg	71	nsubj	_	Rus=что
+69	да	да	PART	_	_	68	fixed	_	Rus=ни
+70	көстүбэт	көстүбэт	ADJ	_	_	73	amod	_	Rus=не_видно
+71	гына	гын	VERB	v|tv	VerbForm=Conv|ConvType=Sim	74	advmod	_	Rus=делать
+72	тоҕо	тоҕо	ADV	_	_	74	advmod	_	Rus=почему
+73	түһэ	түс	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	74	nsubj	_	Rus=падать
+74	турар	тур	VERB	v|iv	Tense=Pres|Number=Sing|Person=3	0	root	_	Rus=стоять
+75	эбит	эбит	PART	_	_	74	discourse	_	SpaceAfter=No|Rus=оказывается
+76	.	.	PUNCT	_	_	75	punct	_	_
+
+# sent_id = fisher_111
+# sah = Алдьархайдаах-аанайдаах силлиэ түһэн, оҕонньор хатырык отуутун көтүтэн илдьээри муҥнаан эрэр эбит.
+# rus = Несусветная буря, казалось, обрушилось со всей простью на его шалашик и норовила разметать и унести.
+# anno = yes
+1-2	Алдьархайдаах-аанайдаах	Алдьархайдаах-аанайдаах	ADJ	_	_	_	_	_	Rus=страшный
+1	Алдьархайдаах	Алдьархайдаах	ADJ	_	_	3	amod	_	Rus=Алдьархайдаах
+2	аанайдаах	аанайдаах	ADJ	_	_	3	amod	_	Rus=аанайдаах
+3	силлиэ	силлиэ	NOUN	_	Case=Nom	4	nsubj	_	Rus=буря
+4	түһэн	түс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	9	advcl	_	SpaceAfter=No|Rus=падать
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	оҕонньор	оҕонньор	NOUN	_	Case=Nom	7	nmod	_	Rus=старик
+7	хатырык	хатырык	NOUN	_	Case=Nom	8	nmod	_	Rus=кора
+8	отуутун	отуу	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	9	obj	_	Rus=шалаш
+9	көтүтэн	көтүт	VERB	v|tv	VerbForm=Conv|ConvType=Cons	10	advcl	_	Rus=взметать
+10	илдьээри	илт	VERB	v|tv	ConvType=Purp|VerbForm=Conv	11	conj	_	Rus=унести
+11	муҥнаан	муҥнаа	VERB	v|tv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=норовила
+12	эрэр	эр	AUX	_	Tense=Pres	11	aux	_	Rus=быть
+13	эбит	эбит	PART	_	_	11	discourse	_	SpaceAfter=No|Rus=оказывается
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = fisher_112
+# sah = Балыксыт өйдөнөн кэлбитэ, төбөтө туох да салаҥнык ыалдьыбыт, сүрэҕэ көппүтэ диэн туохтан да муҥ, тамаҕа хатан хаалбыт, этин сылааһа уокка баттаабыт курдук буолбут.
+# rus = Встряхнувшись от дремоты, старик ощутил сильную ломоту в голове и щемящую боль в груди. В горле пересохло, а тело горело огнем, словно его обложили раскаленными углями.
+# anno = yes
+1	Балыксыт	Балыксыт	NOUN	_	Case=Nom	2	nsubj	_	Rus=рыбак
+2	өйдөнөн	өйдөн	VERB	v|iv	VerbForm=Conv|ConvType=Cons	3	advmod	_	Rus=очнувшись
+3	кэлбитэ	кэл	VERB	v|iv	Case=Nom|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	5	acl	_	SpaceAfter=No|Rus=приходить
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	төбөтө	төбөт	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	Rus=голова
+6	туох	туох	PRON	_	Case=Nom|Polarity=Neg	9	nsubj	_	Rus=что
+7	да	да	PART	_	_	6	fixed	_	Rus=ни
+8	салаҥнык	салаҥнык	ADV	_	_	9	advmod	_	Rus=сильно
+9	ыалдьыбыт	ыалдь	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	11	acl	_	SpaceAfter=No|Rus=болела
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	сүрэҕэ	сүрэх	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	Rus=сердце
+12	көппүтэ	көт	VERB	v|iv	Case=Nom|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	20	ccomp	_	Rus=щемило
+13	диэн	диэн	ADP	_	_	11	case	_	Rus=что
+14	туохтан	туох	PRON	_	Case=Abl|Polarity=Neg	20	obl	_	Rus=ни
+15	да	да	PART	_	_	14	fixed	_	Rus=ни
+16	муҥ	муҥ	PART	_	_	27	discourse	_	SpaceAfter=No|Rus=мука
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	тамаҕа	тамах	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	19	nmod	_	Rus=горло
+19	хатан	хатан	NOUN	_	Case=Nom	20	nsubj	_	Rus=пересохло
+20	хаалбыт	хаал	VERB	v|iv	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|PastType=Perfect	22	acl	_	SpaceAfter=No|Rus=оставаться
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	этин	эт	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	25	obj	_	Rus=тело
+23	сылааһа	сылаас	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	24	nmod	_	Rus=жар
+24	уокка	уот	NOUN	_	Case=Dat	25	obl	_	Rus=огонь
+25	баттаабыт	баттаа	VERB	v|tv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	27	ccomp	_	Rus=обложили
+26	курдук	курдук	SCONJ	_	_	25	mark	_	Rus=как
+27	буолбут	буол	VERB	v|iv	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|PastType=Perfect	0	root	_	SpaceAfter=No|Rus=быть
+28	.	.	PUNCT	_	_	27	punct	_	_
+
+# sent_id = fisher_113
+# sah = «Көр, ыалдьыбыппын ээ», — дии санаата оҕонньор, оронугар хат сытан баран.
+# rus = "Никак захворал я", — опалило его сознание, и он снова улегся на свое жесткое ложе.
+# anno = yes
+1	«	«	PUNCT	_	_	16	punct	_	SpaceAfter=No
+2	Көр	Көр	NOUN	_	Case=Nom	4	nsubj	_	SpaceAfter=No|Rus=видеть
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ыалдьыбыппын	ыалдь	VERB	v|iv	Case=Acc|Evident=Nfh|Number[psor]=Sing|Person[psor]=1|Tense=Past|PastType=Perfect|VerbForm=Part	9	parataxis	_	Rus=ыалдьыбыппын
+5	ээ	ээ	PART	_	_	16	discourse	_	SpaceAfter=No|Rus=э-э
+6	»	»	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	—	—	PUNCT	_	_	5	punct	_	_
+9	дии	диэ	VERB	v|tv	VerbForm=Conv|ConvType=Sim	15	advcl	_	Rus=сказать
+10	санаата	санаа	NOUN	_	Case=Par	15	obl	_	Rus=настроение
+11	оҕонньор	оҕонньор	NOUN	_	Case=Nom	13	nmod	_	SpaceAfter=No|Rus=старик
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	оронугар	орон	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	15	obl	_	Rus=ложе
+14	хат	хат	ADJ	_	_	15	advmod	_	Rus=беременная
+15	сытан	сыт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	16	advcl	_	Rus=лежа
+16	баран	баран	VERB	v|iv	Case=Nom	0	root	_	SpaceAfter=No|Rus=уйти
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = fisher_114
+# sah = Тыал тыаһа, ардах түһэрэ ордук күүһүрэргэ дылы гынна.
+# rus = Между тем гул и вой непогоды, шум извергавшейся с неба воды, сливаясь в один зловещий, грозный звук, все нарастали.
+# anno = yes
+1	Тыал	Тыал	NOUN	_	Case=Nom	2	nmod	_	Rus=ветер
+2	тыаһа	тыас	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	4	nmod	_	SpaceAfter=No|Rus=звук
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ардах	ардах	NOUN	_	Case=Nom	5	nsubj	_	Rus=дождь
+5	түһэрэ	түс	VERB	v|iv	Case=Nom|Number[psor]=Sing|Person[psor]=3	9	conj	_	Rus=падать
+6	ордук	ордук	ADJ	_	_	7	advmod	_	Rus=сильнее
+7	күүһүрэргэ	күүһүр	VERB	v|iv	Case=Dat	9	conj	_	Rus=усиливался
+8	дылы	дылы	ADP	_	_	7	case	_	Rus=словно
+9	гынна	гын	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=делать
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_115
+# sah = Уу булан, тамаҕын сиигирдээри, оҕонньор хат оронон туран иһэн, мэйиитэ эргийэн, түҥ-таҥ баран, кыайан cүһүөҕэp турумуна, умса баран түстэ.
+# rus = Его донимала жажда. Сотрясаясь тяжелой, нечастой дрожью, старик насилу поднялся с постели, но тут закрутилась голова, и он, не устояв на ногах, рухнул наземь ничком.
+# anno = yes
+1	Уу	Уу	INTJ	_	_	24	discourse	_	Rus=вода
+2	булан	бул	VERB	v|tv	VerbForm=Conv|ConvType=Cons	5	advcl	_	SpaceAfter=No|Rus=найдя
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	тамаҕын	тамах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	5	obj	_	Rus=горло
+5	сиигирдээри	сиигирдээ	VERB	v|tv	ConvType=Purp|VerbForm=Conv	24	conj	_	SpaceAfter=No|Rus=смочить
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	оҕонньор	оҕонньор	NOUN	_	Case=Nom	9	nmod	_	Rus=старик
+8	хат	хат	ADJ	_	_	9	amod	_	Rus=беременная
+9	оронон	орон	NOUN	_	Case=Abl	10	obl	_	Rus=с_постели
+10	туран	тур	VERB	v|iv	VerbForm=Conv|ConvType=Cons	11	advmod	_	Rus=стоять
+11	иһэн	ис	VERB	v|iv	VerbForm=Conv|ConvType=Cons	14	advcl	_	SpaceAfter=No|Rus=идти
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	мэйиитэ	мэйии	NOUN	_	Case=Par	14	obl	_	Rus=голова
+14	эргийэн	эргий	VERB	v|iv	VerbForm=Conv|ConvType=Cons	17	advmod	_	SpaceAfter=No|Rus=закружилась
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	түҥ-таҥ	түҥ-таҥ	ADV	_	_	17	advmod	_	Rus=пошатываясь
+17	баран	баран	VERB	v|iv	Case=Nom	24	conj	_	SpaceAfter=No|Rus=уйти
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	кыайан	кыай	VERB	v|tv	VerbForm=Conv|ConvType=Cons	21	advmod	_	Rus=не_сумев
+20	cүһүөҕэp	сүһүөх	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	21	obl	_	Rus=на_ногах
+21	турумуна	тур	VERB	v|iv	VerbForm=Conv|ConvType=Cons|Polarity=Neg	24	advcl	_	SpaceAfter=No|Rus=стоять
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	умса	умса	ADV	_	_	24	advmod	_	Rus=ничком
+24	баран	баран	VERB	v|iv	Case=Nom	0	root	_	Rus=уйти
+25	түстэ	түс	NOUN	_	Case=Par	24	obl	_	SpaceAfter=No|Rus=падать
+26	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = fisher_116
+# sah = Ол гэннэ ыараханнык, иҥсэлээхтик ынчыктаата.
+# rus = Застонал тяжело, надрывисто: "ах ты, приспела, кажись, пора умирать!
+# anno = yes-yes
+1	Ол	Ол	PRON	_	Case=Nom|PronType=Dem	6	obl	_	Rus=тот
+2	гэннэ	гэннэ	ADP	_	_	1	case	_	Rus=затем
+3	ыараханнык	ыараханнык	ADV	_	_	6	advmod	_	SpaceAfter=No|Rus=тяжело
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	иҥсэлээхтик	иҥсэлээхтик	ADV	_	_	3	conj	_	Rus=надрывисто
+6	ынчыктаата	ынчыктаа	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=застонал
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = fisher_117
+# sah = «Ок-сиэ, өлөр кэлбит ээ, бадаҕа!
+# rus = Застонал тяжело, надрывисто: "дх ты, приспела, кажись, пора умирать!
+# anno = yes-yes
+1	«	«	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	Ок-сиэ	ок-сиэ	INTJ	_	_	4	discourse	_	SpaceAfter=No|Rus=ох
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	өлөр	өл	VERB	v|iv	Tense=Pres	0	root	_	Rus=умирать
+5	кэлбит	кэл	AUX	_	Evident=Nfh|Number=Sing|Person=3|Tense=Past|PastType=Perfect	4	aux	_	Rus=приходить
+6	ээ	ээ	PART	_	_	4	discourse	_	SpaceAfter=No|Rus=э-э
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	бадаҕа	бадаҕа	PART	_	_	4	discourse	_	SpaceAfter=No|Rus=должно_быть
+9	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fisher_118
+# sah = Күүс суох буолбут.
+# rus = Силенки больше нет.
+# anno = yes-yes
+1	Күүс	Күүс	NOUN	_	Case=Nom	2	nsubj	_	Rus=сила
+2	суох	суох	ADJ	_	_	0	root	_	Rus=нет
+3	буолбут	буол	AUX	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	2	cop	_	SpaceAfter=No|Rus=быть
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = fisher_119
+# sah = Сааспар ынчыктыыр диэни билэ илик этим.
+# rus = Никогда я в жизни не знал, что значит стонать.
+# anno = yes-yes
+1	Сааспар	саас	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=1	4	obl	_	Rus=в_жизни
+2	ынчыктыыр	ынчыктаа	VERB	v|iv	Tense=Pres|VerbForm=Part	3	ccomp	_	Rus=стонать
+3	диэни	диэ	VERB	v|tv	Case=Acc|VerbForm=Part	4	obj	_	Rus=то_что_называется
+4	билэ	бил	VERB	v|tv	VerbForm=Conv|ConvType=Sim	0	root	_	Rus=знать
+5	илик	илик	PART	_	_	4	advmod	_	Rus=ещё_не
+6	этим	э	AUX	_	Number=Sing|Person=1|Tense=Past|PastType=Recent	4	aux	_	SpaceAfter=No|Rus=быть
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fisher_120
+# sah = Ол, бу күнүм хараарара кэллэҕэ.
+# rus = Небось, вол-вот солнышко мое померкнет.
+# anno = yes-yes
+1	Ол	Ол	PART	_	_	6	discourse	_	SpaceAfter=No|Rus=тот
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	бу	бу	DET	_	PronType=Dem	4	det	_	Rus=этот
+4	күнүм	күн	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	5	nmod	_	Rus=солнце
+5	хараарара	хараар	VERB	v|iv	Case=Nom|Number[psor]=Sing|Person[psor]=3|Tense=Pres|VerbForm=Part	6	nsubj	_	Rus=померкнет
+6	кэллэҕэ	кэл	VERB	v|iv	Case=Nom|Number[psor]=Sing|Person[psor]=3	0	root	_	SpaceAfter=No|Rus=приходить
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = fisher_121
+# sah = Бар дьонум, бырастыы, хара тыам, күөх далайым иччилэрэ, бырастыыларыҥ!
+# rus = Прощайте, люди, и вы, дужи тайги, родимого озера, прощайте!
+# anno = yes
+1	Бар	Бар дьон	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	2	nmod	_	Rus=передвигаться
+2	дьонум	Бар дьон	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	13	nsubj	_	SpaceAfter=No|Rus=люди
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	бырастыы	бырастыы	INTJ	_	_	13	discourse	_	SpaceAfter=No|Rus=прости
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	хара	хара	ADJ	_	_	7	amod	_	Rus=чёрный
+7	тыам	тыа	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	13	nsubj	_	SpaceAfter=No|Rus=лес
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	күөх	күөх	ADJ	_	_	10	amod	_	Rus=голубой
+10	далайым	далай	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	11	nmod	_	Rus=и
+11	иччилэрэ	иччи	NOUN	_	Case=Nom|Number[psor]=Plur|Person[psor]=3	13	nsubj	_	SpaceAfter=No|Rus=дух-хозяин
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	бырастыыларыҥ	бырастыылас	VERB	v|iv	Mood=Imp|Number=Plur|Person=2	0	root	_	SpaceAfter=No|Rus=проcтить
+14	!	!	PUNCT	_	_	13	punct	_	_
+
+# sent_id = fisher_122
+# sah = Аны эһигини кытта аалсарбыттан ааһаары гынным быһыылаах».
+# rus = Мне, как видно, боле не толкошиться возле вас..."
+# anno = yes-yes
+1	Аны	аны	ADV	_	_	6	advmod	_	Rus=теперь
+2	эһигини	эһиги	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	obl	_	Rus=вы
+3	кытта	кытта	ADP	_	_	2	case	_	Rus=с
+4	аалсарбыттан	аалсар	VERB	v|iv	Case=Abl|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	5	obl	_	Rus=быть_рядом
+5	ааһаары	аас	VERB	v|iv	VerbForm=Conv|ConvType=Purp	6	xcomp	_	Rus=перестать
+6	гынным	гын	VERB	v|tv	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	Rus=делать
+7	быһыылаах	быһыылаах	PART	_	_	6	discourse	_	SpaceAfter=No|Rus=кажется
+8	»	»	PUNCT	_	_	6	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = fisher_123
+# sah = Ити курдук, оҕонньор иһигэр курутуйа сытта.
+# rus = Так горевал про себя смертельно больной.
+# anno = yes-yes
+1	Ити	ити	PRON	_	PronType=Dem	6	obl	_	Rus=этот
+2	курдук	курдук	ADP	_	_	1	case	_	SpaceAfter=No|Rus=так
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	оҕонньор	оҕонньор	NOUN	_	Case=Nom	6	obl	_	Rus=старик
+5	иһигэр	иһигэр	ADP	_	_	4	case	_	Rus=внутри
+6	курутуйа	курутуй	VERB	v|iv	VerbForm=Conv|ConvType=Sim	0	root	_	Rus=горюя
+7	сытта	сыт	AUX	_	Number=Sing|Person=3|Tense=Past|PastType=Recent	6	aux	_	SpaceAfter=No|Rus=лежать
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = fisher_124
+# sah = Оннооҕор эмээхсинэ өллөҕүнэ тахсыбатах хараҕын уута субуруйда, тыына улам-улам кылгаата, түҥтаҥ буолла, өлөр диэн чугаһаата быһыылаах.
+# rus = По морщинистым щекам его струились слезы. А ведь он раньше любое горе, даже смерть своей старухи, переносил молча, без слез и ропота. Дыхание старика становилось все прерывистее, сознание — тусклее, смерть подступала вплотную.
+# anno = yes
+1	Оннооҕор	Оннооҕор	ADV	_	_	3	advmod	_	Rus=даже
+2	эмээхсинэ	эмээхсин	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Rus=старуха
+3	өллөҕүнэ	өл	VERB	v|iv	Mood=Cnd|Number=Sing|Person=3	7	advcl	_	Rus=умирать
+4	тахсыбатах	таҕыс	VERB	v|iv	Case=Nom|Evident=Nfh|Polarity=Neg|Tense=Past|PastType=Perfect|VerbForm=Part	5	acl	_	Rus=выходить
+5	хараҕын	харах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	7	obj	_	Rus=глаза
+6	уута	уу	NOUN	_	Case=Par	7	obl	_	Rus=вода
+7	субуруйда	субуруй	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	20	parataxis	_	SpaceAfter=No|Rus=струились
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	тыына	тыын	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	Rus=дыхание
+10	улам-улам	улам-улам	ADV	_	_	11	advmod	_	Rus=всё_больше
+11	кылгаата	кылгаа	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	20	parataxis	_	SpaceAfter=No|Rus=укорачивалось
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	түҥ	түҥ	ADJ	_	_	16	advmod	_	SpaceAfter=No|Rus=непроглядный
+14	-	-	PUNCT	_	_	13	punct	_	_
+15	таҥ	таҥ	INTJ	_	_	13	fixed	_	Rus=собирать
+16	буолла	буол	VERB	v|iv	Mood=Ind|Number=Sing|Person=3|Tense=Past|PastType=Recent	20	parataxis	_	SpaceAfter=No|Rus=быть
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	өлөр	өл	VERB	v|iv	Tense=Pres	20	ccomp	_	Rus=умирать
+19	диэн	диэн	SCONJ	_	_	18	mark	_	Rus=что
+20	чугаһаата	чугаһаа	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	Rus=приближалась
+21	быһыылаах	быһыылаах	PART	_	_	20	discourse	_	SpaceAfter=No|Rus=кажется
+22	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = fisher_125
+# sah = Арай тыал тохтуурун быыһыгар, өлөөрү чиччигинии сытар оҕонньор иһиттэҕинэ, күөл кытыытын диэки ыт үрэн ньаҕыйда.
+# rus = В один из моментов затишья бури Платону, скорчившемуся в предсмертных судорогах, вдруг отчетливо послышалось: где-то близко на берегу затявкала собака.
+# anno = yes-yes
+1	Арай	арай	ADV	_	_	3	advmod	_	Rus=только
+2	тыал	тыал	NOUN	_	Case=Nom	3	nsubj	_	Rus=ветер
+3	тохтуурун	тохтоо	VERB	v|iv	Case=Acc|Number[psor]=Sing|Person[psor]=3|Tense=Pres|VerbForm=Part	4	nmod	_	Rus=затишье
+4	быыһыгар	быыһ	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	10	obl	_	SpaceAfter=No|Rus=промежуток
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	өлөөрү	өл	VERB	v|iv	VerbForm=Conv|ConvType=Purp	8	xcomp	_	Rus=умирать
+7	чиччигинии	чиччигинээ	VERB	v|iv	VerbForm=Conv|ConvType=Sim	8	advmod	_	Rus=судорожно
+8	сытар	сыт	VERB	v|iv	Tense=Pres|VerbForm=Part	9	acl	_	Rus=лежавший
+9	оҕонньор	оҕонньор	NOUN	_	Case=Nom	10	nsubj	_	Rus=старик
+10	иһиттэҕинэ	иһит	VERB	v|tv	Mood=Cnd|Number=Sing|Person=3	17	advcl	_	SpaceAfter=No|Rus=услышал
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	күөл	күөл	NOUN	_	Case=Nom	13	nmod	_	Rus=озеро
+13	кытыытын	кытыы	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	16	obl	_	Rus=берег
+14	диэки	диэки	ADP	_	_	13	case	_	Rus=к
+15	ыт	ыт	NOUN	_	Case=Nom	17	nsubj	_	Rus=собака
+16	үрэн	үр	VERB	v|iv	VerbForm=Conv|ConvType=Cons	17	advmod	_	Rus=лаять
+17	ньаҕыйда	ньаҕый	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=затявкала
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = fisher_126
+# sah = «Эбэм иччитэ баарын биллэрдэҕэ», — дии санаата оҕонньор.
+# rus = "Это дух-хозяин родимой матушки напоминает о себе", — пронеслось где-то в подсознании умирающего.
+# anno = yes-yes
+1	«	«	PUNCT	_	_	5	punct	_	SpaceAfter=No
+2	Эбэм	эбэ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	3	nmod	_	Rus=матушка
+3	иччитэ	иччи	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	Rus=дух-хозяин
+4	баарын	баар	VERB	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	5	ccomp	_	Rus=быть
+5	биллэрдэҕэ	биллэр	VERB	v|tv	VerbForm=Conv|ConvType=Cond|Person=3|Number=Sing	10	ccomp	_	SpaceAfter=No|Rus=напомнил
+6	»	»	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	—	—	PUNCT	_	_	10	punct	_	_
+9	дии	диэ	VERB	v|tv	VerbForm=Conv|ConvType=Sim	10	advmod	_	Rus=говоря
+10	санаата	санаа	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	Rus=подумал
+11	оҕонньор	оҕонньор	NOUN	_	Case=Nom	10	nsubj	_	SpaceAfter=No|Rus=старик
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = fisher_127
+# sah = Ол кэнниттэн туох эрэ кэлэн, кинини атаҕыттан тардыалаата.
+# rus = И тут же кто-то подергал его за ноги.
+# anno = yes-yes
+1	Ол	ол	PRON	_	PronType=Dem	9	obl	_	Rus=тот
+2	кэнниттэн	кэнниттэн	ADP	_	_	1	case	_	Rus=после_этого
+3	туох	туох	PRON	_	PronType=Int	5	nsubj	_	Rus=что
+4	эрэ	эрэ	PART	_	_	3	fixed	_	Rus=только
+5	кэлэн	кэл	VERB	v|iv	VerbForm=Conv|ConvType=Cons	9	advcl	_	SpaceAfter=No|Rus=приходить
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	кинини	кини	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Rus=он
+8	атаҕыттан	атах	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	9	obl	_	Rus=за_ноги
+9	тардыалаата	тардыалаа	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=потянуть
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_128
+# sah = Оҕонньор, соһуйан, оронугар олоро түстэ.
+# rus = От неожиданности старик присел.
+# anno = yes-yes
+1	Оҕонньор	Оҕонньор	NOUN	_	Case=Nom	6	nsubj	_	SpaceAfter=No|Rus=старик
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	соһуйан	соһуй	VERB	v|iv	VerbForm=Conv|ConvType=Cons	6	advcl	_	SpaceAfter=No|Rus=испугавшись
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	оронугар	орон	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	6	obl	_	Rus=ложе
+6	олоро	олор	VERB	v|iv	VerbForm=Conv|ConvType=Sim	0	root	_	Rus=сел
+7	түстэ	түс	AUX	_	Number=Sing|Person=3|Tense=Past|PastType=Recent	6	aux	_	SpaceAfter=No|Rus=падать
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = fisher_129
+# sah = Хараҕын уутун туора-маары соттон баран, өйдүөн көрбүтэ, били кини өлбүт эмээхсинэ кэлэн, отуутун өҥөйөн туран, куолутунан мөҕөн эрэр эбит.
+# rus = Торопливо размазал слезы по лицу и впился глазами в темень: в проем дверки шалаша заглядывала его покойная старуха и, по обыкновению, бранила его:
+# anno = yes
+1	Хараҕын	Харах	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	4	obj	_	Rus=глаза
+2	уутун	үүт	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	4	obj	_	Rus=слёзы
+3	туора-маары	туора-маары	ADV	_	_	4	advmod	_	Rus=по_лицу
+4	соттон	сот	VERB	v|tv	VerbForm=Conv|ConvType=Cons	5	advcl	_	Rus=вытерев
+5	баран	баран	VERB	v|iv	Case=Nom	21	conj	_	SpaceAfter=No|Rus=уйти
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	өйдүөн	өйдөө	VERB	v|tv	Case=Nom	21	conj	_	Rus=осмотревшись
+8	көрбүтэ	көр	VERB	v|tv	Case=Nom|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	11	acl	_	SpaceAfter=No|Rus=видеть
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	били	били	DET	_	PronType=Dem	11	det	_	Rus=тот
+11	кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nmod	_	Rus=он
+12	өлбүт	өлбүт	ADJ	_	_	13	amod	_	Rus=покойный
+13	эмээхсинэ	эмээхсин	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	14	nsubj	_	Rus=старуха
+14	кэлэн	кэл	VERB	v|iv	VerbForm=Conv|ConvType=Cons	17	advcl	_	SpaceAfter=No|Rus=приходить
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	отуутун	отуу	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	17	obj	_	Rus=шалаш
+17	өҥөйөн	өҥөй	VERB	v|tv	VerbForm=Conv|ConvType=Cons	18	advmod	_	Rus=заглядывая
+18	туран	тур	VERB	v|iv	VerbForm=Conv|ConvType=Cons	21	advcl	_	SpaceAfter=No|Rus=стоять
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	куолутунан	куолу	NOUN	_	Case=Ins|Number[psor]=Sing|Person[psor]=3	21	obl	_	Rus=по_обыкновению
+21	мөҕөн	мөх	VERB	v|tv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=ругая
+22	эрэр	эр	AUX	_	Tense=Pres	21	aux	_	Rus=быть
+23	эбит	эбит	PART	_	_	21	discourse	_	SpaceAfter=No|Rus=оказывается
+24	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = fisher_130
+# sah = — Оҕонньоор, тур!
+# rus = — Поднимайся, старик!
+# anno = yes-yes
+1	—	—	PUNCT	_	_	4	punct	_	_
+2	Оҕонньоор	оҕонньор	NOUN	_	Case=Nom	4	vocative	_	SpaceAfter=No|Rus=старик
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	тур	тур	VERB	v|iv	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No|Rus=стоять
+5	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fisher_131
+# sah = Аата, күтүр өстөөх, утуйдаҕа баҕac кытаанаҕын.
+# rus = Окаянный, разоспался-то как!
+# anno = yes-yes
+1	Аата	Аата	NOUN	_	Case=Nom	6	discourse	_	SpaceAfter=No|Rus=вот
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	күтүр	күтүр	ADJ	_	_	4	amod	_	Rus=скупой
+4	өстөөх	өстөөх	ADJ	_	_	6	vocative	_	SpaceAfter=No|Rus=тот
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	утуйдаҕа	утуй	VERB	v|iv	Case=Nom|Number[psor]=Sing|Person[psor]=3	0	root	_	Rus=разоспался
+7	баҕac	баҕас	PART	_	_	8	advmod	_	Rus=уж
+8	кытаанаҕын	кытаанах	ADV	_	_	6	advmod	_	SpaceAfter=No|Rus=крепко
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = fisher_132
+# sah = Чэ, тур, барыах!
+# rus = Ну, встань же, наконец, пошли!
+# anno = yes-yes
+1	Чэ	Чэ	ADV	_	_	3	discourse	_	SpaceAfter=No|Rus=ну
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	тур	тур	VERB	v|iv	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No|Rus=стоять
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	барыах	бар	VERB	v|iv	Tense=Fut	3	parataxis	_	SpaceAfter=No|Rus=пошли
+6	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = fisher_133
+# sah = — Бачча түүн ол ханна барабыт? — диэтэ оҕонньор, сүрэҕэлдьээбит киһи быһыытынан.
+# rus = — А куда в такую ночь-то? — неохотно, голосом обленившегося человека отозвался Платон.
+# anno = yes-yes
+1	—	—	PUNCT	_	_	9	punct	_	_
+2	Бачча	Бачча	DET	_	PronType=Dem	3	det	_	Rus=такой
+3	түүн	түүн	NOUN	_	Case=Nom	6	obl	_	Rus=ночь
+4	ол	ол	DET	_	PronType=Dem	3	det	_	Rus=тот
+5	ханна	хан	ADV	_	_	6	advmod	_	Rus=где
+6	барабыт	бар	VERB	v|iv	Mood=Ind|Number=Plur|Person=1|Tense=Pres	9	ccomp	_	SpaceAfter=No|Rus=идти
+7	?	?	PUNCT	_	_	6	punct	_	_
+8	—	—	PUNCT	_	_	9	punct	_	_
+9	диэтэ	диэ	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	Rus=сказать
+10	оҕонньор	оҕонньор	NOUN	_	Case=Nom	9	nsubj	_	SpaceAfter=No|Rus=старик
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	сүрэҕэлдьээбит	сүрэҕэлдьээ	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	13	acl	_	Rus=обленившийся
+13	киһи	киһи	NOUN	_	Case=Nom	9	obl	_	Rus=человек
+14	быһыытынан	быһыытынан	ADP	_	_	13	case	_	SpaceAfter=No|Rus=как
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = fisher_134
+# sah = — Эн дөксө ол-бу диэн дойҕохтуу олороҕун.
+# rus = — А, ты еще ерепенишься!
+# anno = yes-yes
+1	—	—	PUNCT	_	_	7	punct	_	_
+2	Эн	Эн	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Rus=ты
+3	дөксө	дөксө	ADV	_	_	7	advmod	_	Rus=ещё
+4-5	ол-бу	ол-бу	PRON	_	PronType=Dem	_	amod	_	Rus=всякая_всячина
+4	ол	ол	PRON	_	PronType=Dem	6	obj	_	Rus=всякая_всячина
+5	бу	бу	PRON	_	PronType=Dem	4	conj	_	Rus=всякая_всячина
+6	диэн	диэн	VERB	_	ConvType=Cons|VerbForm=Conv	7	advcl	_	Rus=что
+7	дойҕохтуу	дойҕохтоо	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Rus=неуместно_рассуждать
+8	олороҕун	олор	AUX	_	Number=Sing|Person=2|Tense=Pres	7	aux	_	SpaceAfter=No|Rus=сидеть
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = fisher_135
+# sah = Киһи тылын истибэккин, — диэтэ да, эмээхсин оҕонньору, икки акымалыттан сулбу таһыйан ылан, түҥ-таҥ ытыйан, ханна эрэ көтүтэн илдьэ барда.
+# rus = И старуха, вцепившись ему в плечи, сдернула с постели, подхватила его, закружила-закружила - и они куда-то понеслись вихрем.
+# anno = yes-yes
+1	Киһи	киһи	NOUN	_	Case=Nom	2	nmod	_	Rus=человек
+2	тылын	тыл	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	3	obj	_	Rus=слово
+3	истибэккин	ис	VERB	v|tv	Number=Sing|Person=2|Polarity=Neg|Tense=Pres	6	ccomp	_	SpaceAfter=No|Rus=не_слушаешь
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	—	—	PUNCT	_	_	6	punct	_	_
+6	диэтэ	диэ	VERB	v|tv	Number=Sing|Person=3|Tense=Past|PastType=Recent	25	conj	_	Rus=сказала
+7	да	да	PART	_	_	6	advmod	_	SpaceAfter=No|Rus=же
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	эмээхсин	эмээхсин	NOUN	_	Case=Nom	25	nsubj	_	Rus=старуха
+10	оҕонньору	оҕонньор	NOUN	_	Case=Acc	15	obj	_	SpaceAfter=No|Rus=старик
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	икки	икки	NUM	_	NumType=Card	13	nummod	_	Rus=два
+13	акымалыттан	акымал	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	15	obl	_	Rus=плечо
+14	сулбу	сулбу	ADV	_	_	15	advmod	_	Rus=резко
+15	таһыйан	таһый	VERB	v|tv	VerbForm=Conv|ConvType=Cons	25	advmod	_	Rus=сдернув
+16	ылан	ыл	VERB	v|tv	VerbForm=Conv|ConvType=Cons	15	advmod	_	SpaceAfter=No|Rus=взяв
+17	,	,	PUNCT	_	_	15	punct	_	_
+18	түҥ-таҥ	түҥ-таҥ	ADV	_	_	19	advmod	_	Rus=пошатываясь
+19	ытыйан	ытый	VERB	v|tv	VerbForm=Conv|ConvType=Cons	25	advmod	_	SpaceAfter=No|Rus=закружив
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	ханна	хан	ADV	_	_	23	advmod	_	Rus=куда
+22	эрэ	эрэ	PART	_	_	21	fixed	_	Rus=то
+23	көтүтэн	көтүт	VERB	v|tv	VerbForm=Conv|ConvType=Cons	25	advmod	_	Rus=понесши
+24	илдьэ	илт	VERB	_	ConvType=Sim|VerbForm=Conv	25	advmod	_	Rus=унося
+25	барда	бар	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=ушла
+26	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = fisher_136
+# sah = — Бу күтүр, киһини аны ууга түһэриэ.
+# rus = — Чертовка, гляди, еще утопит человека в озеро.
+# anno = yes-yes
+1	—	—	PUNCT	_	_	8	punct	_	_
+2	Бу	Бу	DET	_	PronType=Dem	3	det	_	Rus=этот
+3	күтүр	күтүр	NOUN	_	Case=Nom	8	nsubj	_	SpaceAfter=No|Rus=окаянный
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	киһини	киһи	NOUN	_	Case=Acc	8	obj	_	Rus=человек
+6	аны	аны	ADV	_	_	8	advmod	_	Rus=теперь
+7	ууга	уу	NOUN	_	Case=Dat	8	obl	_	Rus=вода
+8	түһэриэ	түһэр	VERB	v|tv	Mood=Ind|Tense=Fut|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Rus=утопит
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = fisher_137
+# sah = Арах oҕoлор! — дии санаан баран, оҕонньор ханна да барбытын билбэтэ...
+# rus = Страсть-то какая! — подумал старик. Это был последний проблеск его мысли.
+# anno = yes-yes
+1	Арах	Арах	INTJ	_	_	5	discourse	_	Rus=страсть
+2	oҕoлор	оҕо	NOUN	_	Case=Nom|Number=Plur	1	fixed	_	SpaceAfter=No|Rus=какая
+3	!	!	PUNCT	_	_	2	punct	_	_
+4	—	—	PUNCT	_	_	5	punct	_	_
+5	дии	диэ	VERB	v|tv	VerbForm=Conv|ConvType=Sim	6	advmod	_	Rus=сказать
+6	санаан	санаа	VERB	v|tv	VerbForm=Conv|ConvType=Cons	7	advmod	_	Rus=думать
+7	баран	бар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	13	advcl	_	SpaceAfter=No|Rus=уйти
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	оҕонньор	оҕонньор	NOUN	_	Case=Nom	13	nsubj	_	Rus=старик
+10	ханна	ханна	ADV	_	_	12	advmod	_	Rus=где
+11	да	да	PART	_	_	10	fixed	_	Rus=же
+12	барбытын	бар	VERB	v|iv	Case=Acc|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	13	ccomp	_	Rus=унеслись
+13	билбэтэ	бил	VERB	v|tv	Number=Sing|Person=3|Polarity=Neg|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=знать
+14	...	...	PUNCT	_	_	13	punct	_	_
+
+# sent_id = fisher_138
+# sah = Балыксыт Былатыан кырдьаҕас өлөн хаалла.
+# rus = Рыбак Платон скончался.
+# anno = yes-yes
+1	Балыксыт	Балыксыт	NOUN	_	Case=Nom	2	appos	_	Rus=рыбак
+2	Былатыан	Былатыан	PROPN	_	Case=Nom	3	appos	_	Rus=Платон
+3	кырдьаҕас	кырдьаҕас	NOUN	_	Case=Nom	4	nsubj	_	Rus=старый
+4	өлөн	өл	VERB	v|iv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=умирать
+5	хаалла	хаал	AUX	_	Number=Sing|Person=3|Tense=Past|PastType=Recent	4	aux	_	SpaceAfter=No|Rus=оставаться
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fisher_139
+# sah = Хас да сыл буолан баран мин, түргэн атахтаах тайах кыылы эккирэтэн баран, мэлийэн төннөн иһэн, мунан, биир улахан тыымпы күөл кытыытыгар хара тыаттан көтөн түстүм.
+# rus = …Через несколько лет как-то преследовал в тех местах быстроногого лося, но упустил и, повернув обратно,проти угал в глухом лесу. Подконец выбрался на какое-то круглое озеро.
+# anno = yes
+1	Хас	Хас	DET	_	Case=Nom|PronType=Int	3	det	_	Rus=несколько
+2	да	да	PART	_	_	1	fixed	_	Rus=же
+3	сыл	сыл	NOUN	_	Case=Nom	12	nsubj	_	Rus=год
+4	буолан	буолан баран	PART	_	_	29	discourse	_	Rus=будучи
+5	баран	буолан баран	PART	_	_	29	discourse	_	Rus=однако
+6	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	SpaceAfter=No|Rus=я
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	түргэн	түргэн	ADJ	_	_	10	amod	_	Rus=быстрый
+9	атахтаах	атахтаах	ADJ	_	_	10	amod	_	Rus=ногастый
+10	тайах	тайах	NOUN	_	Case=Nom	11	nmod	_	Rus=лось
+11	кыылы	кыыл	NOUN	_	Case=Acc	12	obj	_	Rus=дикое_животное
+12	эккирэтэн	эккирэт	VERB	v|tv	VerbForm=Conv|ConvType=Cons	13	advcl	_	Rus=преследуя
+13	баран	баран	VERB	v|iv	Case=Nom	29	parataxis	_	SpaceAfter=No|Rus=уйти
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	мэлийэн	мэлий	VERB	v|iv	VerbForm=Conv|ConvType=Cons	16	advcl	_	Rus=исчезнуть
+16	төннөн	төнүн	VERB	v|iv	VerbForm=Conv|ConvType=Cons	17	advmod	_	Rus=возвращаясь
+17	иһэн	ис	VERB	v|iv	VerbForm=Conv|ConvType=Cons	19	advcl	_	SpaceAfter=No|Rus=идти
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	мунан	мун	VERB	v|iv	VerbForm=Conv|ConvType=Cons	28	advcl	_	SpaceAfter=No|Rus=заблудившись
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	биир	биир	DET	_	PronType=Ind	23	det	_	Rus=один
+22	улахан	улахан	ADJ	_	_	23	amod	_	Rus=большой
+23	тыымпы	тыымпы	NOUN	_	Case=Nom	24	nmod	_	Rus=тихий
+24	күөл	күөл	NOUN	_	Case=Nom	25	nmod	_	Rus=озеро
+25	кытыытыгар	кытыы	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	28	obl	_	Rus=берег
+26	хара	хара	ADJ	_	_	27	amod	_	Rus=чёрный
+27	тыаттан	тыа	NOUN	_	Case=Abl	28	obl	_	Rus=лес
+28	көтөн	көт	VERB	v|iv	VerbForm=Conv|ConvType=Cons	29	advmod	_	Rus=лететь
+29	түстүм	түс	VERB	v|iv	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=падать
+30	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = fisher_140
+# sah = Өйдүөн көрбүтүм, били бокуонньук Былатыан оҕонньор эбэтин кытыытыгар кэлэн турар эбиппин.
+# rus = Осмотрелся: Ого, да ведь это — озеро старика Платона!
+# anno = yes-yes
+1	Өйдүөн	өйдөө	VERB	v|tv	VerbForm=Conv|ConvType=Cons	2	advcl	_	Rus=осмотревшись
+2	көрбүтүм	көр	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	0	root	_	SpaceAfter=No|Rus=увидел
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	били	били	DET	_	PronType=Dem	5	det	_	Rus=тот
+5	бокуонньук	бокуонньук	NOUN	_	Case=Nom	6	nmod	_	Rus=покойный
+6	Былатыан	Былатыан	PROPN	_	Case=Nom	8	nmod	_	Rus=Платон
+7	оҕонньор	оҕонньор	NOUN	_	Case=Nom	6	appos	_	Rus=старик
+8	эбэтин	эбэ	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	9	nmod	_	Rus=озеро
+9	кытыытыгар	кытыы	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	10	obl	_	Rus=берег
+10	кэлэн	кэл	VERB	v|iv	VerbForm=Conv|ConvType=Cons	11	advcl	_	Rus=придя
+11	турар	тур	VERB	v|iv	Tense=Pres|VerbForm=Part	2	parataxis	_	Rus=стоять
+12	эбиппин	э	AUX	_	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	11	aux	_	SpaceAfter=No|Rus=оказывается
+13	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = fisher_141
+# sah = Кырдьаҕаспын кэриэстии санаан, кини отуута турбут тумулугар бардым.
+# rus = Из уважения памяти покойного я зашагал к мыску, где когда-то стояло его немудреное жилье.
+# anno = yes-yes
+1	Кырдьаҕаспын	Кырдьаҕас	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=1	2	obj	_	Rus=старый
+2	кэриэстии	кэриэстээ	VERB	v|tv	VerbForm=Conv|ConvType=Sim	3	advcl	_	Rus=помянуть
+3	санаан	санаа	VERB	v|tv	VerbForm=Conv|ConvType=Cons	9	advcl	_	SpaceAfter=No|Rus=думать
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Rus=он
+6	отуута	отуу	NOUN	_	Case=Par	7	nsubj	_	Rus=шалаш
+7	турбут	тур	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	8	acl	_	Rus=стоять
+8	тумулугар	тумул	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	9	obl	_	Rus=мыс
+9	бардым	бар	VERB	v|iv	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=пошёл
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = fisher_142
+# sah = Тиийэн көрбүтүм, оҕонньорум хатырык отуутун онно эрэ харааран хаалбыт.
+# rus = Подхожу и смотрю: шалаша уже нет, только темный овал остался из-под него.
+# anno = yes-yes
+1	Тиийэн	тий	VERB	v|iv	VerbForm=Conv|ConvType=Cons	2	advcl	_	Rus=дойдя
+2	көрбүтүм	көр	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	0	root	_	SpaceAfter=No|Rus=увидел
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	оҕонньорум	оҕонньор	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	6	nmod	_	Rus=старик
+5	хатырык	хатырык	NOUN	_	Case=Nom	6	nmod	_	Rus=кора
+6	отуутун	отуу	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	2	obj	_	Rus=шалаш
+7	онно	ол	ADV	_	PronType=Dem	9	advmod	_	Rus=там
+8	эрэ	эрэ	PART	_	_	7	advmod	_	Rus=только
+9	харааран	хараар	VERB	v|iv	VerbForm=Conv|ConvType=Cons	10	advmod	_	Rus=потемнев
+10	хаалбыт	хаал	VERB	v|iv	Evident=Nfh|Tense=Past|PastType=Perfect	2	parataxis	_	SpaceAfter=No|Rus=остался
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = fisher_143
+# sah = Кырдьаҕас тиит анныгар хас да алдьанан хаалбыт туу сүрэхтэрэ ыһылла сыталлар эбит.
+# rus = Под старой лиственницей валяется несколько рассыпавшихся воронок от вершей.
+# anno = yes-yes
+1	Кырдьаҕас	Кырдьаҕас	ADJ	_	_	2	amod	_	Rus=старый
+2	тиит	тиит	NOUN	_	Case=Nom	6	obl	_	Rus=лиственница
+3	анныгар	анныгар	ADP	_	_	2	case	_	Rus=под
+4	хас	хас	DET	_	Case=Nom|PronType=Int	8	det	_	Rus=несколько
+5	да	да	PART	_	_	4	fixed	_	Rus=же
+6	алдьанан	алдьан	VERB	v|iv	VerbForm=Conv|ConvType=Cons	7	advmod	_	Rus=развалившиеся
+7	хаалбыт	хаал	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	8	acl	_	Rus=оставаться
+8	туу	түү	NOUN	_	Case=Nom	9	nmod	_	Rus=рыболовная_снасть
+9	сүрэхтэрэ	сүрэх	NOUN	_	Case=Nom|Number[psor]=Plur|Person[psor]=3	10	nsubj	_	Rus=воронки
+10	ыһылла	ыс	VERB	v|tv	VerbForm=Conv|ConvType=Sim|Voice=Pass	0	root	_	Rus=рассыпавшись
+11	сыталлар	сыт	AUX	_	Number=Plur|Person=3|Tense=Pres	10	aux	_	Rus=лежать
+12	эбит	эбит	PART	_	_	10	discourse	_	SpaceAfter=No|Rus=оказывается
+13	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = fisher_144
+# sah = Күөл диэки эргийэн көрбүтүм, били оҕонньорум тыыннааҕар миинэр тыытын түгэҕэ эрэ маҥхайан сытар.
+# rus = А на берегу, в камышах, белеет днище, уцелевшее от лодочки, на которой при жизни плавал Платон.
+# anno = yes-yes
+1	Күөл	Күөл	NOUN	_	Case=Nom	3	obl	_	Rus=озеро
+2	диэки	диэки	ADP	_	_	1	case	_	Rus=к
+3	эргийэн	эргий	VERB	v|iv	VerbForm=Conv|ConvType=Cons	4	advcl	_	Rus=закружилась
+4	көрбүтүм	көр	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	13	parataxis	_	SpaceAfter=No|Rus=видеть
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	били	били	DET	_	PronType=Dem	7	det	_	Rus=тот_самый
+7	оҕонньорум	оҕонньор	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	9	nsubj	_	Rus=старик
+8	тыыннааҕар	тыыннааҕар	VERB	v|tv	Mood=Imp|Number=Sing|Person=2	9	obl	_	Rus=при_жизни
+9	миинэр	миин	VERB	v|tv	Tense=Pres	10	acl	_	Rus=ездить
+10	тыытын	тыы	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	11	nmod	_	Rus=лодка
+11	түгэҕэ	түгэх	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	Rus=днище
+12	эрэ	эрэ	PART	_	_	13	advmod	_	Rus=только
+13	маҥхайан	маҥхай	VERB	v|iv	VerbForm=Conv|ConvType=Cons	0	root	_	Rus=белея
+14	сытар	сыт	AUX	_	Tense=Pres	13	aux	_	SpaceAfter=No|Rus=лежать
+15	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = fisher_145
+# sah = «Ок-сиэ, оҕонньор эрэйдээх, аата, имниин эһиннэҕэ.
+# rus = "Эх, бедный старик, стерся ты с лика земного, и даже следа от тебе не осталось.
+# anno = yes-yes
+1	«	«	PUNCT	_	_	10	punct	_	SpaceAfter=No
+2	Ок-сиэ	ок-сиэ	INTJ	_	_	10	discourse	_	SpaceAfter=No|Rus=ох
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	оҕонньор	оҕонньор	NOUN	_	Case=Nom	10	nsubj	_	Rus=старик
+5	эрэйдээх	эрэйдээх	ADJ	_	_	4	amod	_	SpaceAfter=No|Rus=бедный
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	аата	аата	PART	_	_	10	discourse	_	SpaceAfter=No|Rus=вот
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	имниин	им	NOUN	_	Case=Com	10	obl	_	Rus=след
+10	эһиннэҕэ	эһин	VERB	v|iv	Number=Sing|Person=3|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=стерся
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = fisher_146
+# sah = Аны тыымпы күөлү икки атахтаах сырайдыыр да үhүө», — диэн курутуйа саныы-саныы, мин тыа диэки тахсан истим.
+# rus = Едва ли еще кто из двуногих заглянет сюда, на лесное озеро", — грустно размышляя, я прохожу дальше.
+# anno = yes
+1	Аны	Аны	ADV	_	_	6	advmod	_	Rus=теперь
+2	тыымпы	тыымпы	NOUN	_	Case=Nom	3	nmod	_	Rus=тихий
+3	күөлү	күөл	NOUN	_	Case=Acc	6	obj	_	Rus=озеро
+4	икки	икки	NUM	_	NumType=Card	17	nummod	_	Rus=два
+5	атахтаах	атахтаах	ADJ	_	_	17	amod	_	Rus=ногастый
+6	сырайдыыр	сырайдаа	VERB	v|tv	Tense=Pres	21	conj	_	Rus=заглянет
+7	да	да	CCONJ	_	_	8	cc	_	Rus=же
+8	үhүө	үһүө	ADV	_	_	13	advmod	_	SpaceAfter=No|Rus=наверное
+9	»	»	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	—	—	PUNCT	_	_	8	punct	_	_
+12	диэн	диэн	ADP	_	_	5	case	_	Rus=что
+13	курутуйа	курутуй	VERB	v|iv	VerbForm=Conv|ConvType=Sim	14	advmod	_	Rus=горюя
+14-15	саныы-саныы	санаа-санаа	VERB	_	VerbForm=Conv	_	_	_	SpaceAfter=No|Rus=размышляя
+14	саныы	санаа	VERB	v|tv	VerbForm=Conv|ConvType=Sim	20	advcl	_	Rus=думая
+15	саныы	санаа	VERB	v|tv	VerbForm=Conv|ConvType=Sim	14	advmod	_	SpaceAfter=No|Rus=думая
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	Rus=я
+18	тыа	тыа	NOUN	_	Case=Nom	20	obl	_	Rus=лес
+19	диэки	диэки	ADP	_	_	18	case	_	Rus=к
+20	тахсан	таҕыс	VERB	v|iv	VerbForm=Conv|ConvType=Cons	21	advmod	_	Rus=выходить
+21	истим	ис	VERB	v|iv	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=идти
+22	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = fisher_147
+# sah = Күөл сыырын тахсаат, өйдүөн көрбүтүм — арай тыа иһигэр бурдук ыспыт солооһун баар буолбут.
+# rus = Только поднялся на пригорок озера — передо мной расступилась чаща деревьев, являя взору клочок засеянной расчистки.
+# anno = yes-yes
+1	Күөл	Күөл	NOUN	_	Case=Nom	2	nmod	_	Rus=озеро
+2	сыырын	сыыр	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	3	obj	_	Rus=пригорок
+3	тахсаат	таҕыс	VERB	v|iv	VerbForm=Conv|ConvType=Ant	5	advcl	_	SpaceAfter=No|Rus=поднявшись
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	өйдүөн	өйдөө	VERB	v|tv	Case=Nom	6	advcl	_	Rus=осмотревшись
+6	көрбүтүм	көр	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	0	root	_	Rus=видеть
+7	—	—	PUNCT	_	_	6	punct	_	_
+8	арай	арай	ADV	_	_	12	advmod	_	Rus=только
+9	тыа	тыа	NOUN	_	Case=Nom	12	obl	_	Rus=лес
+10	иһигэр	иһигэр	ADP	_	_	9	case	_	Rus=внутри
+11	бурдук	бурдук	NOUN	_	Case=Nom	12	nsubj	_	Rus=зерно
+12	ыспыт	ыс	VERB	v|tv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	13	acl	_	Rus=засеянный
+13	солооһун	солооһун	NOUN	_	Case=Nom	14	nsubj	_	Rus=расчищенное_место
+14	баар	баар	ADJ	_	_	6	ccomp	_	Rus=быть
+15	буолбут	буол	AUX	_	Evident=Nfh|Tense=Past|PastType=Perfect	14	cop	_	SpaceAfter=No|Rus=быть
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = fisher_148
+# sah = Күөх куоластаммыт бурдук, ииччэх киирбэт гына, өрө анньан тахсыбыт эбит.
+# rus = Всходы ячменя — узнаю но колосьям — такие густые да ровные, что, как говорится, и птица не сунет клюва.
+# anno = yes-yes
+1	Күөх	Күөх	ADJ	_	_	3	amod	_	Rus=голубой
+2	куоластаммыт	куоластан	VERB	v|iv	Case=Nom|Evident=Nfh|Tense=Past|PastType=Perfect|VerbForm=Part	3	acl	_	Rus=колосится
+3	бурдук	бурдук	NOUN	_	Case=Nom	11	nsubj	_	SpaceAfter=No|Rus=зерно
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ииччэх	ииччэх	NOUN	_	Case=Nom	6	nsubj	_	Rus=тальник
+6	киирбэт	киир	VERB	v|iv	Polarity=Neg|Tense=Pres	7	ccomp	_	Rus=не_сунет
+7	гына	гын	VERB	v|tv	VerbForm=Conv|ConvType=Sim	10	advcl	_	SpaceAfter=No|Rus=делать
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	өрө	өрө	ADV	_	_	10	advmod	_	Rus=вверх
+10	анньан	анньа	VERB	v|tv	VerbForm=Conv|ConvType=Cons	11	advcl	_	Rus=взойдя
+11	тахсыбыт	таҕыс	VERB	v|iv	Evident=Nfh|Number=Sing|Person=3|Tense=Past|PastType=Perfect	0	root	_	Rus=выходить
+12	эбит	эбит	PART	_	_	11	discourse	_	Rus=оказывается
+13	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = fisher_149
+# sah = «Көр, манна бурдук үүннэрбиттэр эбит ээ.
+# rus = "Смотри-ка, оказывается, здесь хлеб выращивают.
+# anno = yes-yes
+1	«	«	PUNCT	_	_	6	punct	_	SpaceAfter=No
+2	Көр	көр	VERB	v|tv	Mood=Imp|Number=Sing|Person=2	6	parataxis	_	SpaceAfter=No|Rus=смотри
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	манна	бу	ADV	_	_	6	advmod	_	Rus=здесь
+5	бурдук	бурдук	NOUN	_	Case=Nom	6	obj	_	Rus=зерно
+6	үүннэрбиттэр	үүннэр	VERB	v|tv	Evident=Nfh|Number=Plur|Person=3|Tense=Past|PastType=Perfect	0	root	_	Rus=выращивают
+7	эбит	эбит	PART	_	_	6	discourse	_	Rus=оказывается
+8	ээ	ээ	PART	_	_	6	discourse	_	SpaceAfter=No|Rus=э-э
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = fisher_150
+# sah = Бу Былатыан оҕонньор уола кэлэн ыстаҕа» диэн сэрэйэ-сэрэйэ, мин, бурдук күрүөтүн төгүрүйэ хааман иһэн, кыра чочур үрдүгэр өлбүт киһи кириэһэ турарыгар иҥнэ биэрдим.
+# rus = Наверное, сын Рыбака Платона засеял..." — предположил я и пробираясь вдоль изгороди, внезапно наткнулся на могильный бугорок с крестом.
+# anno = yes
+1	Бу	Бу	DET	_	PronType=Dem	2	det	_	Rus=этот
+2	Былатыан	Былатыан	PROPN	_	Case=Nom	4	nmod	_	Rus=Платон
+3	оҕонньор	оҕонньор	NOUN	_	Case=Nom	2	appos	_	Rus=старик
+4	уола	уол	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	5	obl	_	Rus=сын
+5	кэлэн	кэл	VERB	v|iv	VerbForm=Conv|ConvType=Cons	6	advcl	_	Rus=приходить
+6	ыстаҕа	ыс	VERB	v|tv	Case=Nom|Number[psor]=Sing|Person[psor]=3	28	parataxis	_	SpaceAfter=No|Rus=засеял
+7	»	»	PUNCT	_	_	6	punct	_	_
+8	диэн	диэн	ADP	_	_	4	case	_	Rus=что
+9-10	сэрэйэ-сэрэйэ	сэрэй-сэрэй	VERB	_	VerbForm=Conv	_	_	_	SpaceAfter=No|Rus=предполагая
+9	сэрэйэ	сэрэй	VERB	v|tv	VerbForm=Conv|ConvType=Sim	17	advcl	_	Rus=предполагая
+10	сэрэйэ	сэрэй	VERB	v|tv	VerbForm=Conv|ConvType=Sim	9	advmod	_	SpaceAfter=No|Rus=предполагая
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nmod	_	SpaceAfter=No|Rus=я
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	бурдук	бурдук	NOUN	_	Case=Nom	15	nmod	_	Rus=зерно
+15	күрүөтүн	күрүө	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	17	obj	_	Rus=изгородь
+16	төгүрүйэ	төгүрүйэ	ADV	_	_	17	advmod	_	Rus=вдоль
+17	хааман	хаам	VERB	v|iv	VerbForm=Conv|ConvType=Cons	18	advmod	_	Rus=идя
+18	иһэн	ис	VERB	v|iv	VerbForm=Conv|ConvType=Cons	26	advcl	_	SpaceAfter=No|Rus=идти
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	кыра	кыра	ADJ	_	_	21	amod	_	Rus=маленький
+21	чочур	чочур	NOUN	_	Case=Nom	26	obl	_	Rus=бугорок
+22	үрдүгэр	үрдүгэр	ADP	_	_	21	case	_	Rus=над
+23	өлбүт	өлбүт	ADJ	_	_	24	amod	_	Rus=покойный
+24	киһи	киһи	NOUN	_	Case=Nom	25	nmod	_	Rus=человек
+25	кириэһэ	кириэс	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	26	nsubj	_	Rus=крест
+26	турарыгар	тур	VERB	v|iv	Case=Dat|Number[psor]=Sing|Person[psor]=3	28	conj	_	Rus=стоять
+27	иҥнэ	иҥ	NOUN	_	Case=Par	28	obl	_	Rus=наткнулся
+28	биэрдим	биэр	VERB	_	Number=Sing|Person=1|Tense=Past|PastType=Recent	0	root	_	SpaceAfter=No|Rus=дать
+29	.	.	PUNCT	_	_	28	punct	_	_
+
+# sent_id = fisher_151
+# sah = Били оҕонньор эрэйдээҕи манна көммүттэр эбит.
+# rus = Вот где, оказывается, похоронили беднягу.
+# anno = yes-yes
+1	Били	Били	DET	_	PronType=Dem	2	det	_	Rus=тот
+2	оҕонньор	оҕонньор	NOUN	_	Case=Nom	3	nmod	_	Rus=старик
+3	эрэйдээҕи	эрэйдээх	NOUN	_	Case=Acc	5	obj	_	Rus=беднягу
+4	манна	бу	ADV	_	_	5	advmod	_	Rus=здесь
+5	көммүттэр	көм	VERB	v|tv	Evident=Nfh|Number=Plur|Person=3|Tense=Past|PastType=Perfect	0	root	_	Rus=похоронили
+6	эбит	эбит	PART	_	_	5	discourse	_	SpaceAfter=No|Rus=оказывается
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = fisher_152
+# sah = «Өллөхпүнэ, эбэм кытыытыгар көмөөрүҥ», — диэн, кэриэһин эппит буоллаҕа.
+# rus = Вероятно, кому-то загодя завещал, чтобы останки его зарыли здесь, над берегом любимого озера.
+# anno = yes-yes
+1	«	«	PUNCT	_	_	6	punct	_	SpaceAfter=No
+2	Өллөхпүнэ	өл	VERB	v|iv	Mood=Cnd|Number=Sing|Person=1	6	advcl	_	SpaceAfter=No|Rus=когда_умру
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	эбэм	эбэ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=1	5	nmod	_	Rus=матушка
+5	кытыытыгар	кытыы	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	6	obl	_	Rus=берег
+6	көмөөрүҥ	көм	VERB	v|tv	Mood=Imp|Person=2|Number=Plur|Tense=Fut	10	parataxis	_	SpaceAfter=No|Rus=похороните
+7	»	»	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	—	—	PUNCT	_	_	13	punct	_	_
+10	диэн	диэ	VERB	v|tv	VerbForm=Conv|ConvType=Cons	13	advcl	_	SpaceAfter=No|Rus=сказав
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	кэриэһин	кэриэс	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	13	obj	_	Rus=завет
+13	эппит	эт	VERB	v|tv	Evident=Nfh|Number=Sing|Person=3|Tense=Past|PastType=Perfect	0	root	_	Rus=сказать
+14	буоллаҕа	буоллаҕа	PART	_	_	13	discourse	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = fisher_153
+# sah = Оҕонньор уҥуоҕун аттыгар туран эрэ, күөлү көрбүтүм, сайыҥҥы күн уотун сардаҥатыгар уу күөх толбоно күлүмнээн көстүбүтэ, дьэ, көрүөххэ кэрэ этэ.
+# rus = — Стоя у могилки старика, я окинул взглядом озеро: расцвеченное лучами по-летнему яркого солнца, оно игриво искрилось и переливалось голубыми отблесками. Красота, да и только!
+# anno =
+1	Оҕонньор	Оҕонньор	NOUN	_	Case=Nom	2	nmod	_	Rus=старик
+2	уҥуоҕун	уҥуох	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	3	obj	_	Rus=могила
+3	аттыгар	атта	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	4	obl	_	Rus=в
+4	туран	тур	VERB	v|iv	VerbForm=Conv|ConvType=Cons	8	advcl	_	Rus=стоять
+5	эрэ	эрэ	PART	_	_	22	advmod	_	SpaceAfter=No|Rus=только
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	күөлү	күөл	NOUN	_	Case=Acc	8	obj	_	Rus=озеро
+8	көрбүтүм	көр	VERB	v|tv	Evident=Nfh|Number=Sing|Person=1|Tense=Past|PastType=Perfect	22	parataxis	_	SpaceAfter=No|Rus=видеть
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	сайыҥҥы	сайыҥҥы	ADJ	_	_	11	amod	_	Rus=летний
+11	күн	күн	NOUN	_	Case=Nom	12	nmod	_	Rus=солнце
+12	уотун	уот	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	17	obj	_	Rus=огонь
+13	сардаҥатыгар	сардаҥа	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	17	obl	_	Rus=лучи
+14	уу	уу	NOUN	_	Case=Nom	15	compound	_	Rus=вода
+15	күөх	күөх	ADJ	_	_	16	amod	_	Rus=голубой
+16	толбоно	толбон	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	17	nsubj	_	Rus=отблеск
+17	күлүмнээн	күлүмнээ	VERB	v|iv	VerbForm=Conv|ConvType=Cons	18	advmod	_	Rus=искрясь
+18	көстүбүтэ	көһүн	VERB	v|iv	Case=Nom|Evident=Nfh|Number[psor]=Sing|Person[psor]=3|Tense=Past|PastType=Perfect|VerbForm=Part	22	ccomp	_	SpaceAfter=No|Rus=виднелось
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	дьэ	дьэ	PART	_	_	22	discourse	_	SpaceAfter=No|Rus=ну
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	көрүөххэ	көр	VERB	v|tv	Case=Dat|Tense=Fut	23	xcomp	_	Rus=видеть
+23	кэрэ	кэрэ	ADJ	_	_	0	root	_	Rus=красиво
+24	этэ	э	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|PastType=Recent	23	cop	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = fisher_154
+# sah = Балыксыт Былатыан эбэтин таптыан да таптаабыт эбит.
+# rus = Ведь недаром же Рыбак Платон так любил и одухотворял его, благоговейно называя "родимой матушкой".
+# anno = yes-yes
+1	Балыксыт	Балыксыт	NOUN	_	Case=Nom	2	appos	_	Rus=рыбак
+2	Былатыан	Былатыан	PROPN	_	Case=Nom	6	nsubj	_	Rus=Платон
+3	эбэтин	эбэ	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	6	obj	_	Rus=матушка
+4	таптыан	таптаа	VERB	v|tv	Case=Nom	6	conj	_	Rus=любить
+5	да	да	PART	_	_	4	advmod	_	Rus=же
+6	таптаабыт	таптаа	VERB	v|tv	Evident=Nfh|Number=Sing|Person=3|Tense=Past|PastType=Perfect	0	root	_	Rus=любил
+7	эбит	эбит	PART	_	_	6	discourse	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	_
